@@ -1,1 +1,11 @@
-[]
+[  {
+  "id": 135,
+  "name": "White_Lo-Vert_Hi-Tops",
+  "brand": "Barazushi",
+  "price": 10200,
+  "ability": "Sub_Power_Up",
+  "category": "shoes",
+  "image": "https://cdn.wikimg.net/en/splatoonwiki/images/1/16/S3_Gear_Shoes_White_Lo-Vert_Hi-Tops.png",
+  "description": "The White Lo-Vert Hi-Tops are a pair of white sneakers with the Barazushi logo, in written form, on the front."
+}
+]

@@ -79,6 +79,19 @@ const Carousel = () => {
     // beforeChange: (current, next) => setCurrentSlide(next)
   };
 
+  const settings2 = {
+    dots: false,
+    infinite: true,
+    speed: 500,
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    centerMode: true,
+    focusOnSelect: true,
+    // afterChange: () => setUpdateCount(prevCount => prevCount + 1),
+    // beforeChange: (current, next) => setCurrentSlide(next)
+  };
+
+
   return (
     <>
       <button
@@ -93,15 +106,23 @@ const Carousel = () => {
       >
         Previous
       </button>
-      <div className={styles.number}>Number:</div>
       <div className={styles.container} ref={carouselRef}>
-        <Slider ref={sliderRef} key={currentArray} {...settings}>
-          {arrayList[currentArray].length &&
-            arrayList[currentArray].map((shoe, index) => (
+        {/* <Slider ref={sliderRef} {...settings}>
+          {arrayList[0].length &&
+            arrayList[0].map((shoe, index) => (
               <div key={shoe.id}>
                 <img src={shoe.image} alt={shoe.name} />
               </div>
             ))}
+        </Slider> */}
+        <Slider ref={sliderRef} {...settings2}>
+          {
+            arrayList.map((shoeArray) => (
+              <div key={shoeArray[0].id}>
+                <img src={shoeArray[0].image} alt={shoeArray[0].name} />
+              </div>
+            ))
+          }
         </Slider>
 
       </div>
