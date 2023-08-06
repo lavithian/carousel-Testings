@@ -1,0 +1,76 @@
+.container {
+  position: absolute;
+  top: 33%;
+  width: 100vw;
+  /* height: calc(100vh / 3); */
+  overflow: hidden;
+  background: #3f343f;
+  /* padding-left: 1rem; */
+}
+
+.slide {
+  background-color: beige;
+  border-radius: 15px;
+  /* margin: 0 150px; */
+  /* align-items: center; */
+  justify-content: center;
+  padding: 10px;
+
+}
+
+img {
+  object-fit: cover;
+  margin: auto;
+}
+
+.inputBox {
+  position: absolute;
+  left: 15%;
+  top: 80%;
+
+}
+
+.submitButton {
+  position: absolute;
+  left: 26.5%;
+  top: 80%;
+}
+
+.button {
+  position: absolute;
+  width: 100px;
+  top: 25%;
+}
+
+.next {
+  margin-left: 130px;
+}
+
+.prev {
+  margin-left: 10px;
+}
+
+.dragme {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 50%;
+  top: 10%;
+  background-color: yellow;
+  text-align: center;
+  line-height: 100px;
+}
+
+.number {
+  position: absolute;
+  left: 40%;
+  top: 10%;
+}
+
+.slickslide { /* spacing in between each slide */
+  margin: 0 1rem;
+}
+
+.slick-list {
+  margin: 0 5rem;
+}

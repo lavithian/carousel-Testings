@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "name": "18K_Aviators",
+    "brand": "Rockenberg",
+    "price": 12000,
+    "ability": "Last-Ditch_Effort",
+    "category": "headgear",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/4/43/S3_Gear_Headgear_18K_Aviators.png",
+    "description": "The 18K Aviators are a pair of aviator sunglasses with shiny, gold-colored frames and dark brown lenses that fade from nearly opaque at the top to semi-transparent at the bottom. On the bottom of the left lens is the Inkling text from the Rockenberg logo in white. They are the only glasses in Splatoon to have nose pieces."
+  },
+  {
+    "id": 67,
+    "name": "Howdy_Hat",
+    "brand": "Rockenberg",
+    "price": 13000,
+    "ability": "Sub_Resistance_Up",
+    "category": "headgear",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/5/5a/S3_Gear_Headgear_Howdy_Hat.png",
+    "description": "The Howdy Hat is a cowboy hat that changes its appearance to match the wearer's ink color. It has a brown, leather belt around the center with bright blue gems on it."
+  },
+  {
+    "id": 138,
+    "name": "SV925_Circle_Shades",
+    "brand": "Rockenberg",
+    "price": 11000,
+    "ability": "Swim_Speed_Up",
+    "category": "headgear",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/8/85/S3_Gear_Headgear_SV925_Circle_Shades.png",
+    "description": "The SV925 Circle Shades are a pair of circular, gray-rimmed sunglasses with a Rockenberg logo on the left lens."
+  },
+  {
+    "id": 2,
+    "name": "360_All-Scopes",
+    "brand": "Grizzco",
+    "price": 0,
+    "ability": "Random",
+    "category": "headgear",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/2/2b/S3_Gear_Headgear_360_All-Scopes.png",
+    "description": "The 360 All-Scopes are a set of black goggles mounted on a grey strap headset with pink detailing. They have a headband with black padding. The right eyes of the goggles has multiple lenses mounted on a wheel. The lenses of the goggles change to match the wearer's current ink color."
+  },
+  {
+    "id": 9,
+    "name": "Astro_Helm",
+    "brand": "Grizzco",
+    "price": 0,
+    "ability": "Random",
+    "category": "headgear",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/3/3c/S3_Gear_Headgear_Astro_Helm.png",
+    "description": "The Astro Helm is a white flight helmet with a raised crest and a dark translucent face visor. Around the crest and on the forehead and ears are markings that match the wearer's ink color. Across the surface of the helmet are small scratches."
+  },
+  {
+    "id": 21,
+    "name": "Brain_Strainer",
+    "brand": "Grizzco",
+    "price": 0,
+    "ability": "Random",
+    "category": "headgear",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/0/0a/S3_Gear_Headgear_Brain_Strainer.png",
+    "description": "The Brain Strainer appears to be a spaghetti strainer with a red and blue wire coming out from it, small blinking lights coming out of the sides and an object that appears to be an antenna on the top. The strainer is attached to the player by a band connected to the strainer's handles."
+  },
+  {
+    "id": 22,
+    "name": "Bream-Brim_Cap",
+    "brand": "Grizzco",
+    "price": 0,
+    "ability": "Random",
+    "category": "headgear",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/6/6d/S3_Gear_Headgear_Bream-Brim_Cap.png",
+    "description": "The Bream-Brim Cap is an iridescent cap. It has a sticker on the brim."
+  },
+  {
+    "id": 31,
+    "name": "Commander_Cap",
+    "brand": "Grizzco",
+    "price": 0,
+    "ability": "Random",
+    "category": "headgear",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/b/bb/S3_Gear_Headgear_Commander_Cap.png",
+    "description": "The Commander Cap comes with a random primary ability that can also appear as secondary abilities, which prevents the wearer from having Comeback, Last-Ditch Effort, Opening Gambit, or Tenacity as they are exclusive to Headgear and cannot appear as secondary abilities. This primary ability is assigned randomly when the item is received. The Commander Cap may appear as a 0-star item with one additional slot for secondary abilities, a 1-star item with two additional slots for secondary abilities, or a 2-star item with three additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star.  Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333% up to 10% additional experience at 5-star level. Since\nit is made by the Grizzco brand, it has equal chances to roll any secondary ability."
+  },
+  {
+    "id": 35,
+    "name": "Deep_Sinker_Helm",
+    "brand": "Grizzco",
+    "price": 0,
+    "ability": "Random",
+    "category": "headgear",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/0/0c/S3_Gear_Headgear_Deep_Sinker_Helm.png",
+    "description": "The Deep Sinker Helm is a deep-sea diving helmet with a viewport on front and a cross-braced viewport on each side. The top has a closed hook. The helmet changes color to match the user's ink color."
+  },
+  {
+    "id": 39,
+    "name": "Dust_Blocker_2000",
+    "brand": "Grizzco",
+    "price": 0,
+    "ability": "Sub_Resistance_Up",
+    "category": "headgear",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/0/06/S3_Gear_Headgear_Dust_Blocker_2000.png",
+    "description": "The Dust Blocker 2000 is a white dust mask with straps that change colors depending on the wearer's ink, but not necessarily to match. There is an exhale valve on the mask's left side."
+  },
+  {
+    "id": 48,
+    "name": "Five-Alarm_Helmet",
+    "brand": "Grizzco",
+    "price": 0,
+    "ability": "Random",
+    "category": "headgear",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/b/b5/S3_Gear_Headgear_Five-Alarm_Helmet.png",
+    "description": "The Five-Alarm Helmet is a firefighter helmet that changes with the player's ink color. It features a wide brim that extends longer in the back, ridges descending from the crown, and a black chinstrap. On the forehead is some Inkling language text. Between the ridges are reflective yellow safety patches."
+  },
+  {
+    "id": 59,
+    "name": "Headlamp_Helmet",
+    "brand": "Grizzco",
+    "price": 0,
+    "ability": "Special_Power_Up",
+    "category": "headgear",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/6/64/S3_Gear_Headgear_Headlamp_Helmet.png",
+    "description": "The Headlamp Helmet resembles a coal miner's helmet, with a headlamp attached to a hard hat via a black strap. The helmet changes color to correspond with the player's ink color and is adorned with various logos."
+  },
+  {
+    "id": 78,
+    "name": "Lo-Vis_Visor",
+    "brand": "Grizzco",
+    "price": 0,
+    "ability": "Random",
+    "category": "headgear",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/4/43/S3_Gear_Headgear_Lo-Vis_Visor.png",
+    "description": "The Lo-Vis Visor resembles a pair of visor sunglasses made of metal. This pair of shades are not worn over the eyes, but on the player's forehead instead."
+  },
+  {
+    "id": 107,
+    "name": "See-an-Enemy_HUD",
+    "brand": "Grizzco",
+    "price": 0,
+    "ability": "Random",
+    "category": "headgear",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/0/0b/S3_Gear_Headgear_See-an-Enemy_HUD.png",
+    "description": "The See-an-Enemy HUD is a visor paired with headphones. The lens changes to match the complementary color of the wearer's ink. The visor flashes with different images, with a target."
+  },
+  {
+    "id": 3,
+    "name": "Air_Gills_DX",
+    "brand": "SquidForce",
+    "price": 825,
+    "ability": "Tenacity",
+    "category": "headgear",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/9/99/S3_Gear_Headgear_Air_Gills_DX.png",
+    "description": "The Air Gills DX is a respirator mask made for arid environment. It possesses a pair of filtres with dirty white and dark grey cartridges, separated by a yellow safety label. The front consists of a black valve, the facemask itself and two black toggles for adjusting the strap, adorned with a SquidForce logo pattern, which's ends connect to a gum headband. The bottom of the mask has yet another strap going around the wearer's nape. The bottom part of the filtres and the facemask change the colour to match the wearer's ink."
+  },
+  {
+    "id": 23,
+    "name": "Bucket_Hat",
+    "brand": "SquidForce",
+    "price": 400,
+    "ability": "Special_Saver",
+    "category": "headgear",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/3/39/S3_Gear_Headgear_Bucket_Hat.png",
+    "description": "The Bucket Hat is a solid-colored bucket hat that changes color with the wearer's ink. On the front is a white logo and on the left is a red tag with white lettering."
+  },
+  {
+    "id": 32,
+    "name": "Crust_Bucket_Visor",
+    "brand": "SquidForce",
+    "price": 1200,
+    "ability": "Quick_Super_Jump",
+    "category": "headgear",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/c/c5/S3_Gear_Headgear_Crust_Bucket_Visor.png",
+    "description": ""
+  },
+  {
+    "id": 89,
+    "name": "Painter's_Mask",
+    "brand": "SquidForce",
+    "price": 4500,
+    "ability": "Intensify_Action",
+    "category": "headgear",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/4/46/S3_Gear_Headgear_Painter%27s_Mask.png",
+    "description": "The Painter's Mask is a dual-filter respirator. It is held onto the head with an elastic band that changes color to one similar to the opposing team's ink. The filters are yellow."
+  },
+  {
+    "id": 118,
+    "name": "Squid_Facemask",
+    "brand": "SquidForce",
+    "price": 300,
+    "ability": "Ink_Saver_(Main)",
+    "category": "headgear",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/7/7d/S3_Gear_Headgear_Squid_Facemask.png",
+    "description": "The Squid Facemask is a black cloth mask that covers the wearer's nose and mouth and hooks over the ears. It is patterned with many small Regular Battle logos in white and bright yellow."
+  },
+  {
+    "id": 128,
+    "name": "Stay_Crusty_Cap",
+    "brand": "SquidForce",
+    "price": 0,
+    "ability": "Sub_Power_Up",
+    "category": "headgear",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/4/4d/S3_Gear_Headgear_Stay_Crusty_Cap.png",
+    "description": ""
+  },
+  {
+    "id": 155,
+    "name": "White_Headband",
+    "brand": "SquidForce",
+    "price": 300,
+    "ability": "Ink_Recovery_Up",
+    "category": "headgear",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/0/00/S3_Gear_Headgear_White_Headband.png",
+    "description": "The White Headband is white with a thick gray stripe through the middle, ending in an arrow on one end and three short \"tentacles\" on the other. On the front towards the wearer's left side is Squidforce's name in white Inkling text. In between the start and end of the gray stripe is a small, bright pink tag with Squidforce's name again in white."
+  },
+  {
+    "id": 4,
+    "name": "Annaki_Beret",
+    "brand": "Annaki",
+    "price": 11500,
+    "ability": "Ink_Resistance_Up",
+    "category": "headgear",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/8/83/S3_Gear_Headgear_Annaki_Beret.png",
+    "description": "The Annaki Beret is a beret that changes color to match the wearer's ink. It has a white Annaki logo on top of it. A large safety pin is pinned to the right side of the hat."
+  },
+  {
+    "id": 5,
+    "name": "Annaki_Beret_&_Glasses",
+    "brand": "Annaki",
+    "price": 7850,
+    "ability": "Ink_Saver_(Main)",
+    "category": "headgear",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/2/21/S3_Gear_Headgear_Annaki_Beret_%26_Glasses.png",
+    "description": "The Annaki Beret & Glasses is a dully-colored beret that changes color with the wearer's ink, but not necessarily to match. A small, light gray Annaki logo is embroidered on the left side of the beret. It also has round, rose gold-rimmed mirrored glasses that change to the opposite color of the beret. These glasses have an Annaki logo on each lens."
+  },
+  {
+    "id": 6,
+    "name": "Annaki_Charms",
+    "brand": "Annaki",
+    "price": 777,
+    "ability": "Swim_Speed_Up",
+    "category": "headgear",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/1/15/S3_Gear_Headgear_Annaki_Charms.png",
+    "description": "The Annaki Charms are a pair of black and silver sunglasses with small, slightly rectangular, brown lenses."
+  },
+  {
+    "id": 7,
+    "name": "Annaki_Mask",
+    "brand": "Annaki",
+    "price": 3600,
+    "ability": "Opening_Gambit",
+    "category": "headgear",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/e/ec/S3_Gear_Headgear_Annaki_Mask.png",
+    "description": "The Annaki Mask is a jet-black face mask with a crimson-red Annaki logo on the center of the mask."
+  }
+]
