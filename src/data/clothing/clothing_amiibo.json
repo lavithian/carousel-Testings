@@ -1,0 +1,172 @@
+[
+  {
+    "id": 41,
+    "category": "clothing",
+    "name": "Black-Belt_Gi",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Haunt",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/6/65/S3_Gear_Clothing_Black-Belt_Gi.png",
+    "description": ""
+  },
+  {
+    "id": 50,
+    "category": "clothing",
+    "name": "Chaos_Commander_Suit",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Ink_Saver_(Main)",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/7/7b/S3_Gear_Clothing_Chaos_Commander_Suit.png",
+    "description": "The Chaos Commander Suit is a heavy gray crop top with armored shoulder pads. The left shoulder is blue with sharp spikes, and the right shoulder is a darker shade of the wearer's ink color with a white strap. It has a spiked collar with a triangular pendant dangling from the front, as well as a spiked bracelet and metal glove on the left and right hands, respectively. Alongside the right shoulder pad, the small triangular patch on the left side of the chest is a darker shade of the wearer's ink color."
+  },
+  {
+    "id": 65,
+    "category": "clothing",
+    "name": "Enchanted_Robe_A",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Thermal_Ink",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/b/b9/S3_Gear_Clothing_Enchanted_Robe_A.png",
+    "description": "The Enchanted Robe is a black witch's robe."
+  },
+  {
+    "id": 66,
+    "category": "clothing",
+    "name": "Enchanted_Robe_B",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Thermal_Ink",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/e/ed/S3_Gear_Clothing_Enchanted_Robe_B.png",
+    "description": "The Enchanted Robe is a black witch's robe."
+  },
+  {
+    "id": 75,
+    "category": "clothing",
+    "name": "Fresh_Fish_Gloves",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Quick_Super_Jump",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/8/81/S3_Gear_Clothing_Fresh_Fish_Gloves.png",
+    "description": "The Fresh Fish Gloves is a black cartoon mascot costume with cartoonish white gloves featured with a black long sleeved shirt. It is based on the Fresh Fish."
+  },
+  {
+    "id": 115,
+    "category": "clothing",
+    "name": "Marinated_Top",
+    "brand": "amiibo",
+    "price": "Marina",
+    "ability": "Special_Power_Up",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/a/a0/S3_Gear_Clothing_Marinated_Top.png",
+    "description": "The Marinated Top is a replica of the white crop top Marina wears during the Octo Expansion. It also comes with a silver necklace, a watch, and a bracelet. On masculine styles, the top covers more midriff and slighty more shoulder."
+  },
+  {
+    "id": 136,
+    "category": "clothing",
+    "name": "Pearlescent_Hoodie",
+    "brand": "amiibo",
+    "price": "Pearl",
+    "ability": "Respawn_Punisher",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/4/42/S3_Gear_Clothing_Pearlescent_Hoodie.png",
+    "description": "The Pearlescent Hoodie is a replica of the hoodie Pearl wears during the Octo Expansion. The hoodie is light pink with long, light yellow sleeves. It comes with a gold necklace and five golden rings, three of which are worn on the right hand with the other two on the left. The hood of the Pearlescent Hoodie is not worn over the player's head, unlike how Pearl wears it in the Octo Expansion."
+  },
+  {
+    "id": 140,
+    "category": "clothing",
+    "name": "Power_Armor",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Quick_Respawn",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/a/ac/S3_Gear_Clothing_Power_Armor.png",
+    "description": "The Power Armor is a huge, bulky set of armor. Its base layer is made of dark gray metal, and it has light gray plates on the chest and arms with a few medium gray spots. It includes large metal gloves that are part of the sleeves. Coming out of the chest plates and curving around the shoulders to the back are two thick tubes with a a pattern in black as well as the wearer's ink color."
+  },
+  {
+    "id": 141,
+    "category": "clothing",
+    "name": "Power_Armor_Mk_I",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Ink_Resistance_Up",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/c/cc/S3_Gear_Clothing_Power_Armor_Mk_I.png",
+    "description": "The Power Armor Mk I is a suit of silver armor that is highly reflective. The torso, arms and hands are all covered with metal plates."
+  },
+  {
+    "id": 160,
+    "category": "clothing",
+    "name": "Samurai_Jacket",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Special_Charge_Up",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/1/13/S3_Gear_Clothing_Samurai_Jacket.png",
+    "description": "The Samurai Jacket is a suit of armor in the style of ō-yoroi, Japanese armor traditionally worn by samurai. The first layer is a loose shirt in a dull blue-green, with a white collar and a black shirt underneath. Over the blue-green shirt is a light gray breastplate with a soft blue and red pattern on it, as if painted. On the shoulders are massive spaulders made of many layers of metal that fall almost to the wearer's wrists. Falling to the wearer's knees is a skirt-like garment, also made from layers of metal. Both the spaulders and the skirt change color to match that of the wearer's ink. Forearm guards, which also match the wearer's Ink color, are strapped on with a single green band each, and around the waist is a slightly thinner white band. A small black object, possibly a sheathed weapon, is tucked into this band at an angle."
+  },
+  {
+    "id": 161,
+    "category": "clothing",
+    "name": "School_Cardigan_A",
+    "brand": "amiibo",
+    "price": "I0",
+    "ability": "Run_Speed_Up",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/5/5b/S3_Gear_Clothing_School_Cardigan_A.png",
+    "description": "The School Cardigan is a black long-sleeved button-front cardigan with a white dress shirt underneath with a pink-green striped tie."
+  },
+  {
+    "id": 162,
+    "category": "clothing",
+    "name": "School_Cardigan_B",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Run_Speed_Up",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/7/72/S3_Gear_Clothing_School_Cardigan_B.png",
+    "description": "The School Cardigan is a black long-sleeved button-front cardigan with a white dress shirt underneath with a pink-green striped tie."
+  },
+  {
+    "id": 164,
+    "category": "clothing",
+    "name": "School_Uniform_A",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Ink_Recovery_Up",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/7/7b/S3_Gear_Clothing_School_Uniform_A.png",
+    "description": "The School Uniform consists of a navy blue jacket, a cream sweater, a white collared shirt, and a tie which changes its color to match the wearer's ink. On the top left side of the jacket is an emblem, likely a school emblem, and near the middle of each side of the jacket are pockets. The jacket also has two golden buttons on its front opening and another golden button can be seen on the back of each sleeve."
+  },
+  {
+    "id": 165,
+    "category": "clothing",
+    "name": "School_Uniform_B",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Ink_Recovery_Up",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/f/fb/S3_Gear_Clothing_School_Uniform_B.png",
+    "description": "The School Uniform consists of a navy blue jacket, a cream sweater, a white collared shirt, and a tie which changes its color to match the wearer's ink. On the top left side of the jacket is an emblem, likely a school emblem, and near the middle of each side of the jacket are pockets. The jacket also has two golden buttons on its front opening and another golden button can be seen on the back of each sleeve."
+  },
+  {
+    "id": 166,
+    "category": "clothing",
+    "name": "Schoolyard_Scrap_Jack",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Sub_Resistance_Up",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/5/5e/S3_Gear_Clothing_Schoolyard_Scrap_Jack.png",
+    "description": ""
+  },
+  {
+    "id": 180,
+    "category": "clothing",
+    "name": "Squinja_Suit",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Special_Saver",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/9/95/S3_Gear_Clothing_Squinja_Suit.png",
+    "description": "The Squinja Suit is an all-black shozoku robe with black fingerless gloves and arm guards. On the left upper arm is a small pocket. On the right upper arm is an emblem shaped like a squid's mantle. The arm guards change color to match the wearer's ink."
+  },
+  {
+    "id": 181,
+    "category": "clothing",
+    "name": "Steel_Platemail",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Ink_Saver_(Sub)",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/c/cc/S3_Gear_Clothing_Steel_Platemail.png",
+    "description": "The Steel Platemail is a medieval knight's chestplate with arm gauntlets over what seems to be a black sweater resembling a chain mail coat."
+  }
+]

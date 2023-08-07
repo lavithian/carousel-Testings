@@ -3,7 +3,6 @@ import Slider from "react-slick";
 import styles from './Carousel.module.css';
 import "./slick.css";
 import "./slick-theme.css";
-import useCarousel from './useCarousel';
 import shoesK from "../shoes_Kensa.json";
 import shoesA from "../shoes_Annaki.json";
 import shoesB from "../shoes_Barazushi.json";

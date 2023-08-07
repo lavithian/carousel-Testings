@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "category": "clothing",
+    "name": "Airflow_&_Hustle_Jacket",
+    "brand": "Forge",
+    "price": "11300",
+    "ability": "Intensify_Action",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/9/9c/S3_Gear_Clothing_Airflow_%26_Hustle_Jacket.png",
+    "description": "The Airflow & Hustle Jacket is a thick, white jacket, with built-in ventilation via two mini-fans on the back. Its sleeves end just after the user's shoulder and have black padding on the back."
+  },
+  {
+    "id": 2,
+    "category": "clothing",
+    "name": "Aloha_Shirt",
+    "brand": "Forge",
+    "price": "700",
+    "ability": "Ink_Recovery_Up",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/5/55/S3_Gear_Clothing_Aloha_Shirt.png",
+    "description": "The Aloha Shirt is a short-sleeved collared aloha shirt. It is mainly light blue, and patterned in white plumeria (fragipani) and squid hula-dancers (hence its Japanese name), vertically and by sides of the shirt and sleeves. It has brown buttons that go left over right."
+  },
+  {
+    "id": 44,
+    "category": "clothing",
+    "name": "Blue_Sailor_Suit",
+    "brand": "Forge",
+    "price": "11000",
+    "ability": "Sub_Power_Up",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/8/82/S3_Gear_Clothing_Blue_Sailor_Suit.png",
+    "description": "The Blue Sailor Suit is a dark blue sailor suit, though it lacks the other attire usually worn with one. The collar and ends of the sleeves have thin white stripes, and the back of the collar sports a pair of small white arrows. The tie is a very dark gray, and just next to it on the wearer's chest is some dark gray Inkling text on a light gray background. The left sleeve is adorned with a red squid-like crest toward the shoulder and a pair of bright yellow stripes toward the wrist."
+  },
+  {
+    "id": 73,
+    "category": "clothing",
+    "name": "Forge_Inkling_Parka",
+    "brand": "Forge",
+    "price": "2900",
+    "ability": "Run_Speed_Up",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/a/ae/S3_Gear_Clothing_Forge_Inkling_Parka.png",
+    "description": "The Forge Inkling Parka is a dark green fishtail parka lined with tan fur at the hood, worn over a white collared shirt and black tie. On the left side of the chest is a target-like symbol with a slight resemblance to an octopus in hot pink, white, and a dark blue-violet. It has three pockets, two on the front and one on the left sleeve. Instead of a fourth pocket on the right sleeve, there a small Forge logo in black."
+  },
+  {
+    "id": 74,
+    "category": "clothing",
+    "name": "Forge_Octarian_Jacket",
+    "brand": "Forge",
+    "price": "2700",
+    "ability": "Haunt",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/c/cf/S3_Gear_Clothing_Forge_Octarian_Jacket.png",
+    "description": "The Forge Octarian Jacket is a gray fishtail parka worn over a dark gray collared shirt. On the left side of the chest is a hot pink pin with some dark gray Inkling (or possibly Octarian) text. On the right side is a simplified, squid-like icon in blue and white, with a small white box of black text below it. It has three pockets, two on the front and one on the left sleeve. On the right, near the cuff, there is some type of round emblem in blue, black, and white with a fish on it. The back of the jacket is adorned with a large, light gray design similar to a coat-of-arms; it features squid, ironically."
+  },
+  {
+    "id": 84,
+    "category": "clothing",
+    "name": "Green_Tee",
+    "brand": "Forge",
+    "price": "1200",
+    "ability": "Special_Saver",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/a/a8/S3_Gear_Clothing_Green_Tee.png",
+    "description": "The Green Tee is a short-sleeved, green and gray T-shirt. \"Forge\" is written in large yellow Inkling letters that extend from the back of the shirt near the bottom to the front of the shirt right under the collar. A purple tag can also be seen on the shirt."
+  },
+  {
+    "id": 214,
+    "category": "clothing",
+    "name": "White_Sailor_Suit",
+    "brand": "Forge",
+    "price": "3000",
+    "ability": "Ink_Saver_(Main)",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/0/0c/S3_Gear_Clothing_White_Sailor_Suit.png",
+    "description": "The White Sailor Suit is, unsurprisingly, a white sailor suit, though it lacks the pants usually worn with one. The collar and ends of the sleeves are navy blue with thin white stripes, and the back of the collar sports a pair of small white arrows. The tie is a very dark gray, and just next to it on the wearer's chest is some dark gray Inkling text on a light gray background. The left sleeve is adorned with a navy blue, squid-like crest toward the shoulder and a pair of green stripes toward the wrist."
+  }
+]

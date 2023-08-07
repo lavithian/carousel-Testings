@@ -1,13 +1,13 @@
 import React, { useState } from "react";
-import Carousel from "./CarouselC/Carousel";
-import NewBrand from "./CarouselC/NewBrand";
+import Carousel from "./CarouselD/Carousel";
+// import NewBrand from "./CarouselD/NewBrand";
 
 function App() {
   // const [newArrayIndex, setNewArrayIndex] = useState(null);
 
   return (
     <div>
-      <NewBrand/>
+      {/* <NewBrand/> */}
       <Carousel />
     </div>
   )

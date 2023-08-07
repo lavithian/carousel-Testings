@@ -1,0 +1,42 @@
+[
+  {
+    "id": 8,
+    "category": "headgear",
+    "name": "Armor_Helmet_Replica",
+    "brand": "Cuttlegear",
+    "price": 0,
+    "ability": "Tenacity",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/3/34/S3_Gear_Headgear_Armor_Helmet_Replica.png",
+    "description": "The Armor Helmet Replica is a large, bulky helmet originally worn as actual armor in Octo Valley in Splatoon. It consists of the triangular earpieces from the Hero Headset Replica and the enormous helmet worn with them, similar to a bicycle helmet, but very long and pointed in the back. The back of the helmet and fronts of the earpieces have glowing lights on them that change color to match the wearer's ink, and a black strap is buckled at the chin. The lights are always pulsing slightly, giving the impression of bioluminescence. This is fitting considering that Agent 3's equipment was inspired by firefly squid."
+  },
+  {
+    "id": 60,
+    "category": "headgear",
+    "name": "Hero_Headset_Replica",
+    "brand": "Cuttlegear",
+    "price": 0,
+    "ability": "Run_Speed_Up",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/c/c2/S3_Gear_Headgear_Hero_Headset_Replica.png",
+    "description": "The Hero Headset Replica is a form-fitting headset originally worn as part of the Hero Suit in Octo Valley. It consists of a pair of earpieces with large pointed shapes jutting out to the sides connected by two thin bars that curve around the back of the head. The shapes on the earpieces are flat triangles, despite appearing conical from the front. The headset is mostly black with small sections of lime green on the earpieces, which also have glowing blue lights."
+  },
+  {
+    "id": 61,
+    "category": "headgear",
+    "name": "Hero_Mindset_Replica",
+    "brand": "Cuttlegear",
+    "price": 0,
+    "ability": "Sub_Power_Up",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/1/10/S3_Gear_Headgear_Hero_Mindset_Replica.png",
+    "description": "The Hero Mindset Replica is a replica of the headset worn by Agent 3 in Return of the Mammalians as part of the fully-upgraded Hero Suit. The lights change based on the wearer's ink color."
+  },
+  {
+    "id": 142,
+    "category": "headgear",
+    "name": "Teddy_Band",
+    "brand": "Cuttlegear",
+    "price": 0,
+    "ability": "Comeback",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/e/e0/S3_Gear_Headgear_Teddy_Band.png",
+    "description": ""
+  }
+]

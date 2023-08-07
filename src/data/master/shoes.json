@@ -1,0 +1,1422 @@
+[
+  {
+    "id": 1,
+    "category": "shoes",
+    "name": "Acerola_Rain_Boots",
+    "brand": "Inkline",
+    "price": "600",
+    "ability": "Run_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/7\/7d\/S3_Gear_Shoes_Acerola_Rain_Boots.png",
+    "description": "The Acerola Rain Boots are red rain boots with a red strap on the top. The Inkline logo on two tags, one patch of black and white on the top and one magenta patch near the heel. The boot soles are cyan-colored."
+  },
+  {
+    "id": 2,
+    "category": "shoes",
+    "name": "Angry_Rain_Boots",
+    "brand": "Grizzco",
+    "price": "0",
+    "ability": "Ink_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/c\/c6\/S3_Gear_Shoes_Angry_Rain_Boots.png",
+    "description": "The Angry Rain Boots are a pair of tall rubber boots in a dark gray with some dirt and scratches. Above the sole is a section colored a darker version of the wearer's Ink that also stretches over the top of the foot in a single stripe. At the top of the boot is a brighter Ink-colored section cinched with a gray string. There is a small label in white and maroon just below it."
+  },
+  {
+    "id": 3,
+    "category": "shoes",
+    "name": "Annaki_Habaneros",
+    "brand": "Annaki",
+    "price": "8880",
+    "ability": "Sub_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/5\/51\/S3_Gear_Shoes_Annaki_Habaneros.png",
+    "description": "The Annaki Habaneros are red, leather slip-on brothel creeper shoes with thick, black, crepe soles. The top features a stylized design of an octopus as well as a gold chain running across it."
+  },
+  {
+    "id": 4,
+    "category": "shoes",
+    "name": "Annaki_Strappy_Sandals",
+    "brand": "Annaki",
+    "price": "890",
+    "ability": "Object_Shredder",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/5\/56\/S3_Gear_Shoes_Annaki_Strappy_Sandals.png",
+    "description": "The Annaki Strappy Sandals are a pair of open-toed leather sandals. The sandals possess a few upper straps, followed by a closure strap and heel strap with brass buckles. The insole is black, just like the straps, and stitched to a thick brown sole. A black Annaki label is sewn to the heel strap."
+  },
+  {
+    "id": 5,
+    "category": "shoes",
+    "name": "Annaki_Tigers",
+    "brand": "Annaki",
+    "price": "9990",
+    "ability": "Special_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/c\/cf\/S3_Gear_Shoes_Annaki_Tigers.png",
+    "description": "The Annaki Tigers are black leather brothel creeper shoes with thick black crepe soles. The top panels have a suede orange and black tiger-striped pattern and a metal chain running across the tongue."
+  },
+  {
+    "id": 6,
+    "category": "shoes",
+    "name": "Arctic_Duck_Boots",
+    "brand": "Barazushi",
+    "price": "9200",
+    "ability": "Quick_Respawn",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/8\/81\/S3_Gear_Shoes_Arctic_Duck_Boots.png",
+    "description": "The Arctic Duck Boots are a pair of beige boots for cold weather."
+  },
+  {
+    "id": 7,
+    "category": "shoes",
+    "name": "Armor_Boot_Replicas",
+    "brand": "Cuttlegear",
+    "price": "0",
+    "ability": "Ink_Saver_(Main)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/2\/2c\/S3_Gear_Shoes_Armor_Boot_Replicas.png",
+    "description": "The Armor Boot Replicas are thickly padded boots originally worn as actual Armor in Octo Valley. They are mostly black on the outside, with white interiors. They have thick, light gray soles, and are secured to the wearer's feet by three vivid green straps, each with a white and gray arrow on it. Two of these straps are fastened to the top of the base of the shoe, with the third around the ankle. Just above the heel is a line of subtle dots that change color to match that of the wearer's Ink."
+  },
+  {
+    "id": 8,
+    "category": "shoes",
+    "name": "Arrow_Pull-Ons",
+    "brand": "Toni_Kensa",
+    "price": "10000",
+    "ability": "Drop_Roller",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/1\/1f\/S3_Gear_Shoes_Arrow_Pull-Ons.png",
+    "description": "The Arrow Pull-Ons are black and gray strapped sneakers. The toes and tongue are black and the shoes have thick soles. They are, in short, a black rebrand of the Arrows shoes from Takoroka."
+  },
+  {
+    "id": 9,
+    "category": "shoes",
+    "name": "Arrow_Toesies_Blu",
+    "brand": "Takoroka",
+    "price": "980",
+    "ability": "Ink_Recovery_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/6\/61\/S3_Gear_Shoes_Arrow_Toesies_Blu.png",
+    "description": "The Arrow Toesies Blu are a pair of boldly coloured sneakers with large golden loops in front of and behind the ankle. The shoes are well ventilated due to a complete lack of heels and toe caps, along with a mesh above the wearer's insteps. This component is partly covered with black arrow-patterned strips, topped with a black semicylinder with a dark grey Takoroka logo. Buttercup elastics connect both halfs of the shoes, with the whole structure attached to a split dirty-white sole with an orange insole."
+  },
+  {
+    "id": 10,
+    "category": "shoes",
+    "name": "Arrow_Toesies_Purp",
+    "brand": "Takoroka",
+    "price": "3180",
+    "ability": "Swim_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/5\/5a\/S3_Gear_Shoes_Arrow_Toesies_Purp.png",
+    "description": ""
+  },
+  {
+    "id": 11,
+    "category": "shoes",
+    "name": "Baggy-Sock_Fringe_Loafs",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Sub_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/1\/1e\/S3_Gear_Shoes_Baggy-Sock_Fringe_Loafs.png",
+    "description": "The Fringed Loafers are formal, brown leather loafers."
+  },
+  {
+    "id": 12,
+    "category": "shoes",
+    "name": "Banana_Basics",
+    "brand": "Krak-On",
+    "price": "400",
+    "ability": "Sub_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/0\/06\/S3_Gear_Shoes_Banana_Basics.png",
+    "description": "The Banana Basics are a pair of lo-top canvas shoes. They are mainly yellow but fade to a light green towards the heel, hence the name. The laces are yellow, and the toe cap and sole border are white. The patterned soles are light brown and feature the Krak-On logo in their centers. The Krak-On logo is also featured on a small white tag on the front tongue of the shoe."
+  },
+  {
+    "id": 13,
+    "category": "shoes",
+    "name": "Base_Fringed_Loafers",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Sub_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/d\/d9\/S3_Gear_Shoes_Base_Fringed_Loafers.png",
+    "description": "The Fringed Loafers are formal, brown leather loafers."
+  },
+  {
+    "id": 14,
+    "category": "shoes",
+    "name": "Base_School_Shoes",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Ink_Saver_(Sub)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/c\/cb\/S3_Gear_Shoes_Base_School_Shoes.png",
+    "description": "The School Shoes are a pair of shiny black loafers."
+  },
+  {
+    "id": 15,
+    "category": "shoes",
+    "name": "Black_Flip-Flops",
+    "brand": "Zekko",
+    "price": "300",
+    "ability": "Object_Shredder",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/a\/aa\/S3_Gear_Shoes_Black_Flip-Flops.png",
+    "description": "The Black Flip-Flops are standard black flip-flops. The bottoms of the soles are red and the middles are white. On the top of the heels is the Zekko name in gray lettering."
+  },
+  {
+    "id": 16,
+    "category": "shoes",
+    "name": "Black_Seahorses",
+    "brand": "Zink",
+    "price": "2000",
+    "ability": "Swim_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/7\/7b\/S3_Gear_Shoes_Black_Seahorses.png",
+    "description": "The Black Seahorses are a pair of black sneakers with white soles and the arrow from the Zink logo, also in white, on both sides. On the tongue is the full Zink logo in black and white. There is also a small section of white just above each heel."
+  },
+  {
+    "id": 17,
+    "category": "shoes",
+    "name": "Black_Trainers",
+    "brand": "Tentatek",
+    "price": "500",
+    "ability": "Quick_Respawn",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/d\/d7\/S3_Gear_Shoes_Black_Trainers.png",
+    "description": "The Black Trainers are jet black-colored trainers with blackish-grey lacing. The soles are white with a pink-colored section on the heel. The Tentatek logo is found on the heel."
+  },
+  {
+    "id": 18,
+    "category": "shoes",
+    "name": "BlobMob_Flip-Flops",
+    "brand": "Emberz",
+    "price": "400",
+    "ability": "Ink_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/3\/3a\/S3_Gear_Shoes_BlobMob_Flip-Flops.png",
+    "description": "The BlobMob Flip-Flops are pair of simple black flip-flops with a yellow BlobMob face outlined on the footbed. Yellow words in an experimental font are written on the sides, repeated in a fixed pattern."
+  },
+  {
+    "id": 19,
+    "category": "shoes",
+    "name": "Blu-Shift_Moto_Boots",
+    "brand": "Rockenberg",
+    "price": "12000",
+    "ability": "Swim_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/1\/18\/S3_Gear_Shoes_Blu-Shift_Moto_Boots.png",
+    "description": "The Blu-Shift Moto Boots are a pair of professional motocross boots. Mostly pitch black, the shoes consist of numerous parts of various texture and material. The first layer seems to be dark blue, covered by black armour. Then two metallic blue straps, the smaller on the vamp and the larger around the wearer's calf, finish the whole construction. A few bare metal elements can be seen, such as screws on the upper strap, a small triangle on the outer side and the chunky outsole."
+  },
+  {
+    "id": 20,
+    "category": "shoes",
+    "name": "Blue_&_Black_Squidkid_IV",
+    "brand": "Enperry",
+    "price": "11000",
+    "ability": "Quick_Super_Jump",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/3\/3f\/S3_Gear_Shoes_Blue_%26_Black_Squidkid_IV.png",
+    "description": "The Blue & Black Squidkids IV are light gray athletic shoes with blue along the bottom and above the toes, and black along the front, on the tongue, and on the heel. The laces are black as well, and on the tongue is the Enperry logo in silver."
+  },
+  {
+    "id": 21,
+    "category": "shoes",
+    "name": "Blue_Lo-Tops",
+    "brand": "Zekko",
+    "price": "800",
+    "ability": "Sub_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/8\/87\/S3_Gear_Shoes_Blue_Lo-Tops.png",
+    "description": "The Blue Lo-Tops are stitched denim lo-top shoes. The Zekko logo can be seen on the brown soles, and the shoes also come with white socks with dark blue stripes."
+  },
+  {
+    "id": 22,
+    "category": "shoes",
+    "name": "Blue_Moto_Boots",
+    "brand": "Rockenberg",
+    "price": "10800",
+    "ability": "Ink_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/9\/92\/S3_Gear_Shoes_Blue_Moto_Boots.png",
+    "description": "The Moto Boots are a pair of dark blue motorcycle boots. They are tipped with a thick chunk of metal and have dark gray soles. On the front is a round design in yellow, white, orange and magenta, and on the side are three straps."
+  },
+  {
+    "id": 23,
+    "category": "shoes",
+    "name": "Blue_Sea_Slugs",
+    "brand": "Tentatek",
+    "price": "800",
+    "ability": "Special_Charge_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/2\/28\/S3_Gear_Shoes_Blue_Sea_Slugs.png",
+    "description": "The Blue Sea Slugs are a pair of blue sneakers with several sections of black. They have white tongues and black laces, as well as a large black loop on the back. Like all Tentatek shoes, they feature a small Tentatek logo at the top of the tongue."
+  },
+  {
+    "id": 24,
+    "category": "shoes",
+    "name": "Blue_Shrimpsiders",
+    "brand": "Enperry",
+    "price": "4120",
+    "ability": "Ink_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/b\/bd\/S3_Gear_Shoes_Blue_Shrimpsiders.png",
+    "description": "The Blue Shrimpsliders are a pair of sneakers. They are mostly black, with a blue and gold sole."
+  },
+  {
+    "id": 25,
+    "category": "shoes",
+    "name": "Blue_Slip-Ons",
+    "brand": "Krak-On",
+    "price": "400",
+    "ability": "Sub_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/3\/39\/S3_Gear_Shoes_Blue_Slip-Ons.png",
+    "description": "The Blue Slip-Ons are a pair of dark blue canvas slip-ons with a thin stripe of lighter blue at the top of the tongue. The interior is white, the sole is yellow-orange, and the heel is a slightly darker blue. Krak-On's white\/hot magenta name patch are in their talons while their logo is under the yellow sole."
+  },
+  {
+    "id": 26,
+    "category": "shoes",
+    "name": "Blueberry_Casuals",
+    "brand": "Krak-On",
+    "price": "700",
+    "ability": "Ink_Saver_(Sub)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/9\/99\/S3_Gear_Shoes_Blueberry_Casuals.png",
+    "description": "The Blueberry Casuals are mainly dark blue with green shoelaces and green soles. They have a slightly angled checkered pattern at the backside in alternating shades of blue and purple."
+  },
+  {
+    "id": 27,
+    "category": "shoes",
+    "name": "Bubble_Rain_Boots",
+    "brand": "Inkline",
+    "price": "450",
+    "ability": "Drop_Roller",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/c\/ca\/S3_Gear_Shoes_Bubble_Rain_Boots.png",
+    "description": "The Bubble Rain Boots are a pair of white rubber boots that come halfway up the wearer's shins, covered in a polka dot pattern in dark blue, medium blue, and a bright cyan. The medium blue is also used for the soles and a thick stripe around the top. On the front is a tiny black Inkline logo on a white label."
+  },
+  {
+    "id": 28,
+    "category": "shoes",
+    "name": "Chaos_Kicks",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Intensify_Action",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/8\/82\/S3_Gear_Shoes_Chaos_Kicks.png",
+    "description": "The Chaos Kicks are combat boots similar to the Punk Nights, but a much darker version of the wearer's ink color and adorned with shin guards over them that are covered in tape."
+  },
+  {
+    "id": 29,
+    "category": "shoes",
+    "name": "Cherry_Kicks",
+    "brand": "Rockenberg",
+    "price": "2400",
+    "ability": "Stealth_Jump",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/a\/ae\/S3_Gear_Shoes_Cherry_Kicks.png",
+    "description": "The Cherry Kicks are a pair of shiny pink shoes with chunky black soles. Along the toe is a triangular pattern above a thin stripe, both of which are black. The laces, also black, are fairly small and only extend part of the way down the shoe, and at the heel is another black decoration. The inside of the shoe is a very dark brown."
+  },
+  {
+    "id": 30,
+    "category": "shoes",
+    "name": "Choco_Clogs",
+    "brand": "Krak-On",
+    "price": "1800",
+    "ability": "Quick_Respawn",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/d\/db\/S3_Gear_Shoes_Choco_Clogs.png",
+    "description": "The Choco Clogs are dark brown felt slip-on clogs with beige soles. They are secured to the wearer's feet by brown straps buckled at the ankle and are worn with loose, pale blue-green socks made of what could be wool. The soles are decorated with a rhombus pattern."
+  },
+  {
+    "id": 31,
+    "category": "shoes",
+    "name": "Chocolate_Dakroniks",
+    "brand": "Zink",
+    "price": "1700",
+    "ability": "Ink_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/2\/2f\/S3_Gear_Shoes_Chocolate_Dakroniks.png",
+    "description": "The Chocolate Dakroniks are chocolate-brown sneakers. The soles of the shoes are cream-colored and the laces are thick, being colored with a slightly lighter shade of brown than the rest of the shoe. The sides of the shoe each have a white zig-zagging arrow that connect in the back to a squid-like shape with grey Inkling text in the center of it. On the tongue of the shoe is some dark brown Inkling text. To the left near the collar of the shoe is a blue tag also containing white Inkling text."
+  },
+  {
+    "id": 32,
+    "category": "shoes",
+    "name": "Clownfish_Basics",
+    "brand": "Krak-On",
+    "price": "500",
+    "ability": "Special_Charge_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/2\/20\/S3_Gear_Shoes_Clownfish_Basics.png",
+    "description": "The Clownfish Basics are lo-top canvas shoes colored mainly dark orange with white horizontal stripes stretching across, resembling a clownfish's pattern, hence the name, \"Clowfish Basics\". It has black shoelaces and a white toecap and sole border. The light brown patterned soles feature the Krak-On logo, which is also seen on the tongue of the shoe."
+  },
+  {
+    "id": 33,
+    "category": "shoes",
+    "name": "Crazy_Arrows",
+    "brand": "Takoroka",
+    "price": "4500",
+    "ability": "Stealth_Jump",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/8\/89\/S3_Gear_Shoes_Crazy_Arrows.png",
+    "description": "The Crazy Arrows are bold, multicolored sneakers with a pair of large red loops in front of and behind the ankle. They have many different colors in various patterns, sometimes in the shape of arrows, hence the name. The soles are black and have a pattern of simplified squid tentacles. At the top of the tongue is a small Takoroka logo in yellow-orange on a dark brown background. In Splatoon 2, the white marks towards the tip of the shoe glow in the dark."
+  },
+  {
+    "id": 34,
+    "category": "shoes",
+    "name": "Cream_Hi-Tops",
+    "brand": "Krak-On",
+    "price": "500",
+    "ability": "Stealth_Jump",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/a\/ae\/S3_Gear_Shoes_Cream_Hi-Tops.png",
+    "description": "The Cream Hi-Tops are a pair of cream-colored canvas high-tops with matching laces. The toe is white and the sole is brown with a Krak-On logo. At the top of the tongue is a very small Krak-On logo on a white label."
+  },
+  {
+    "id": 35,
+    "category": "shoes",
+    "name": "Custom_Trail_Boots",
+    "brand": "Inkline",
+    "price": "3000",
+    "ability": "Special_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/3\/38\/S3_Gear_Shoes_Custom_Trail_Boots.png",
+    "description": "The Custom Trail Boots are hot pink hiking boots with dull pink squares on the sides and bright pink laces. On the tongue is what appears to be very small Inkling text in pink on a red label. They have black soles, the Inkline logo on small label above the heel, and bright green socks that poke over the top of the boot."
+  },
+  {
+    "id": 36,
+    "category": "shoes",
+    "name": "Cuttlefish_Sandies",
+    "brand": "Rockenberg",
+    "price": "850",
+    "ability": "Ink_Recovery_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/8\/84\/S3_Gear_Shoes_Cuttlefish_Sandies.png",
+    "description": "The Cuttlefish Sandies are a pair of brown, leather huarache. The wearer's feet are held in place with many leather straps attached to a strip resembling a fishtail with a Rockenberg logo engraved on its upper part. The midsole is noticeably darker and sewn together with a black sole."
+  },
+  {
+    "id": 37,
+    "category": "shoes",
+    "name": "Cyan_Dadfoot_Sandals",
+    "brand": "Zink",
+    "price": "650",
+    "ability": "Special_Saver",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/4\/45\/S3_Gear_Shoes_Cyan_Dadfoot_Sandals.png",
+    "description": "The Cyan Dadfoot Sandals are a pair of cyan Velcro sandals with Zink logo soles worn with magenta, white, and blue spotted pattern socks. Zink logo text is embedded into the bottom Velcro strap of the sandal."
+  },
+  {
+    "id": 38,
+    "category": "shoes",
+    "name": "Cyan_Trainers",
+    "brand": "Tentatek",
+    "price": "700",
+    "ability": "Stealth_Jump",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/2\/25\/S3_Gear_Shoes_Cyan_Trainers.png",
+    "description": "The Cyan Trainers are a pair of brightly colored cyan sneakers with sections of black, white, and purple. Like all Tentatek shoes, they feature the Tentatek logo at the top of the tongue."
+  },
+  {
+    "id": 39,
+    "category": "shoes",
+    "name": "Dappled_Hammertreads",
+    "brand": "Annaki",
+    "price": "9500",
+    "ability": "Drop_Roller",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/f\/f4\/S3_Gear_Shoes_Dappled_Hammertreads.png",
+    "description": "The Dappled Hammertreads are a pair of beige and black boots. They have a brown sole and a leather, belt-like strap going through black loops."
+  },
+  {
+    "id": 40,
+    "category": "shoes",
+    "name": "Dark-Roast_Boaties",
+    "brand": "Rockenberg",
+    "price": "2200",
+    "ability": "Ink_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/9\/90\/S3_Gear_Shoes_Dark-Roast_Boaties.png",
+    "description": "The Dark-Roast Boaties are a pair of dark-brown boat shoes with numerous black straps with golden edges. The straps can be found on the shoes' sides and on the top acting as laces. The front is sewn with pale yellow stitches and the sole is black."
+  },
+  {
+    "id": 41,
+    "category": "shoes",
+    "name": "Desert_Chukkas",
+    "brand": "Barazushi",
+    "price": "10200",
+    "ability": "Stealth_Jump",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/6\/6d\/S3_Gear_Shoes_Desert_Chukkas.png",
+    "description": "The Desert Chukkas are a pair of sand-colored chukka boots. The quarter covers the tongue, held with dried natural fiber laces. A cork Barazushi stitch is located on the outer sides, along with a small Barazushi writing on the foxing."
+  },
+  {
+    "id": 42,
+    "category": "shoes",
+    "name": "Dustcloud_Hi-Tops",
+    "brand": "Z+F",
+    "price": "8800",
+    "ability": "Stealth_Jump",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/4\/40\/S3_Gear_Shoes_Dustcloud_Hi-Tops.png",
+    "description": "The Dustcloud Hi-Tops are similar to Dakroniks with the Dustcloud pattern design."
+  },
+  {
+    "id": 43,
+    "category": "shoes",
+    "name": "E-JECT_30XX",
+    "brand": "Emberz",
+    "price": "2600",
+    "ability": "Special_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/e\/eb\/S3_Gear_Shoes_E-JECT_30XX.png",
+    "description": "The E-JECT 30XX are a pair of sneakers. They are fairly tall, mostly light grey, with sections that are purple and blue, and green elastic. The sole is mostly white, except for a yellow section near the middle."
+  },
+  {
+    "id": 44,
+    "category": "shoes",
+    "name": "Enchanted_Boots",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Run_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/5\/5d\/S3_Gear_Shoes_Enchanted_Boots.png",
+    "description": "The Enchanted Boots are a pair of black velvet witch's boots that curve upwards at the front end of the shoe. The inside of the boots change color to match the wearer's ink."
+  },
+  {
+    "id": 45,
+    "category": "shoes",
+    "name": "Force_ReBoots",
+    "brand": "Takoroka",
+    "price": "899",
+    "ability": "Special_Saver",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/6\/68\/S3_Gear_Shoes_Force_ReBoots.png",
+    "description": "The Force ReBoots are a pair of crude high-top boots. The boot is mostly metallic gray and black apart from a crimson foxing. The bottom part possesses two straps, with the bottom one being black and the upper one gray with a red Takoroka logo on it's tip. The topmost strap is similarly designed. The tongue is black with a gray label cut in half by a black stripe with a red Takoroka logo in an experimental style."
+  },
+  {
+    "id": 46,
+    "category": "shoes",
+    "name": "Fresh_Fish_Feet",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Quick_Respawn",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/4\/40\/S3_Gear_Shoes_Fresh_Fish_Feet.png",
+    "description": "The Fresh Fish Feet are a pair of tan cartoon fish mascot shoes, based off the Fresh Fish."
+  },
+  {
+    "id": 47,
+    "category": "shoes",
+    "name": "Fry_Tops",
+    "brand": "SquidForce",
+    "price": "0",
+    "ability": "Intensify_Action",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/3\/3f\/S3_Gear_Shoes_Fry_Tops.png",
+    "description": ""
+  },
+  {
+    "id": 48,
+    "category": "shoes",
+    "name": "Fuzzy_Boots",
+    "brand": "Barazushi",
+    "price": "3600",
+    "ability": "Ink_Saver_(Main)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/7\/76\/S3_Gear_Shoes_Fuzzy_Boots.png",
+    "description": "The Fuzzy Boots are a pair of chestnut sheepskin boots. The insides are lined with cream-colored faux fur, and they have tan outsoles. At the top of each boot a brown Barazushi logo is sewn onto the side facing outward. A brown designer label is sewn onto the back of both boots at the bottom. they share a similar design to UGG Boots"
+  },
+  {
+    "id": 49,
+    "category": "shoes",
+    "name": "Gold_Hi-Horses",
+    "brand": "Zink",
+    "price": "7000",
+    "ability": "Run_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/0\/0e\/S3_Gear_Shoes_Gold_Hi-Horses.png",
+    "description": "The Gold Hi-Horses are a pair of shiny gold hi-tops with black laces and soles. They have a large black version of Zink's logo on the side as well as a small white logo on the black tongue of the Gold Hi-Horses. They also appear to be slightly bigger in the exterior than most other shoes, though they do not affect the wearer's height."
+  },
+  {
+    "id": 50,
+    "category": "shoes",
+    "name": "Green_Rain_Boots",
+    "brand": "Inkline",
+    "price": "1600",
+    "ability": "Stealth_Jump",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/e\/e8\/S3_Gear_Shoes_Green_Rain_Boots.png",
+    "description": "The Green Rain Boots are a pair of dull green rubber boots that come up to just below the wearer's knee. They have a strap around the back and a tiny Inkline logo in black on a white label on the front. The soles are thick and bright orange, a sharp contrast to the rest of the boot."
+  },
+  {
+    "id": 51,
+    "category": "shoes",
+    "name": "Green_Toejamz",
+    "brand": "Z+F",
+    "price": "1050",
+    "ability": "Special_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/b\/b4\/S3_Gear_Shoes_Green_Toejamz.png",
+    "description": "The Green Toejamz, similar to the Navy, Red, and Yellow Toejamz, are rubber clogs with the bottom of the shoes colored white and red, and the top of the clogs colored green. The clogs come with shoe charms that vary."
+  },
+  {
+    "id": 52,
+    "category": "shoes",
+    "name": "Hero_Boot_Replicas",
+    "brand": "Cuttlegear",
+    "price": "0",
+    "ability": "Ink_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/a\/a8\/S3_Gear_Shoes_Hero_Boot_Replicas.png",
+    "description": "The Hero Boot Replicas are replicas of the boots worn by Agent 3 in Return of the Mammalians as part of the fully-upgraded Hero Suit."
+  },
+  {
+    "id": 53,
+    "category": "shoes",
+    "name": "Hero_Runner_Replicas",
+    "brand": "Cuttlegear",
+    "price": "0",
+    "ability": "Quick_Super_Jump",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/7\/7b\/S3_Gear_Shoes_Hero_Runner_Replicas.png",
+    "description": "The Hero Runner Replicas are a pair of black sneakers originally worn as part of the Hero Suit in Octo Valley. They have lime green accents, a black strap halfway down, and small blue spots at the top. Unlike the original Hero Runners, they do not light up. Lime green material surrounds the heel."
+  },
+  {
+    "id": 54,
+    "category": "shoes",
+    "name": "Hunter_Hi-Tops",
+    "brand": "Krak-On",
+    "price": "500",
+    "ability": "Ink_Recovery_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/4\/4f\/S3_Gear_Shoes_Hunter_Hi-Tops.png",
+    "description": "The Hunter Hi-Tops are a pair of dark green canvas high-tops. The toe and laces are white and the sole is brown with a Krak-On logo. At the top of the tongue is a very small Krak-On logo on a white label."
+  },
+  {
+    "id": 55,
+    "category": "shoes",
+    "name": "Hunting_Boots",
+    "brand": "Splash_Mob",
+    "price": "11500",
+    "ability": "Sub_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/c\/c5\/S3_Gear_Shoes_Hunting_Boots.png",
+    "description": "The Hunting Boots are multicolored, rubber hunting boots. The soles are tan with circles on them, the bottoms are blue, the tops are brown and the laces are red."
+  },
+  {
+    "id": 56,
+    "category": "shoes",
+    "name": "Hyper_Guppies",
+    "brand": "Tentatek",
+    "price": "1300",
+    "ability": "Run_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/2\/2c\/S3_Gear_Shoes_Hyper_Guppies.png",
+    "description": "The Hyper Guppies are a pair of predominatly pink gradient slip-on shoes with a woven design. The garment's pallete fades between grey, purple, pink, and sky blue. The front of the shoes features a grey strap with a lighter Tentatek logo and a buckle underneath interacted with brightly coloured laces. A similar strap can also be seen on the back of the shoes. The midsoles are cream white, resting on dirty brown soles."
+  },
+  {
+    "id": 57,
+    "category": "shoes",
+    "name": "Icy_Down_Boots",
+    "brand": "Tentatek",
+    "price": "8200",
+    "ability": "Stealth_Jump",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/7\/73\/S3_Gear_Shoes_Icy_Down_Boots.png",
+    "description": "The Icy Down Boots are knee-high winter boots with black soles. They are covered in a camouflage pattern in light blue, dark blue, and gray, and along the side is the Inkling text from the Tentatek logo in white. They are cinched at the top with a black string and a lime green fastener modeled after the Tentatek logo, and on the heel is the full Tentatek logo in pink on a white label."
+  },
+  {
+    "id": 58,
+    "category": "shoes",
+    "name": "Ink-Black_Clam_600s",
+    "brand": "Toni_Kensa",
+    "price": "11500",
+    "ability": "Quick_Super_Jump",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/f\/f7\/S3_Gear_Shoes_Ink-Black_Clam_600s.png",
+    "description": "The Ink-Black Clam 600s are a pair of light black shoes with mollusc resembling elements. Consisting of various layers and patches, Clam 600s have mostly smooth texture, accompanied by pieces of red mesh on the sides. The front consists of a black mesh partly covered by layers of suede fabric, featuring accented eyelets and dull black laces, tied visibly wishy-washy. The soles are mostly dark gray clam-like discs, attached to a pitch black base, in addition of a sharp-edged outsole made from the same material."
+  },
+  {
+    "id": 59,
+    "category": "shoes",
+    "name": "Kick_Dampeners",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Quick_Super_Jump",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/7\/72\/S3_Gear_Shoes_Kick_Dampeners.png",
+    "description": "The Kick Dampeners are a pair of soft, black shoes that cover the the soles, heels, and top of the wearer's feet. They have a red design on the front and brown tips."
+  },
+  {
+    "id": 60,
+    "category": "shoes",
+    "name": "Kid_Clams",
+    "brand": "Rockenberg",
+    "price": "9500",
+    "ability": "Special_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/e\/e7\/S3_Gear_Shoes_Kid_Clams.png",
+    "description": "The Kid Clams are light brown, leather, double monk strap dress shoes. The toe is a darker brown than the rest of the shoe."
+  },
+  {
+    "id": 61,
+    "category": "shoes",
+    "name": "Knotty_Bois",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Drop_Roller",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/6\/6e\/S3_Gear_Shoes_Knotty_Bois.png",
+    "description": "The Knotty Bois are a pair of brown rope sandals with a black and yellow ankle cuff. The ropes come together in bow knots."
+  },
+  {
+    "id": 62,
+    "category": "shoes",
+    "name": "LE_Lo-Tops",
+    "brand": "Zekko",
+    "price": "8000",
+    "ability": "Ink_Saver_(Sub)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/9\/99\/S3_Gear_Shoes_LE_Lo-Tops.png",
+    "description": "The LE Lo-Tops are stitched lo-top shoes with a khaki-green color, brown soles showing the Zekko logo and white socks with purple and mustard yellow stripes."
+  },
+  {
+    "id": 63,
+    "category": "shoes",
+    "name": "LE_Soccer_Shoes",
+    "brand": "Takoroka",
+    "price": "7500",
+    "ability": "Ink_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/a\/a4\/S3_Gear_Shoes_LE_Soccer_Shoes.png",
+    "description": "The LE Soccer Shoes are a pair of shiny gray cleats with blue spikes and red-orange laces. They have extended tongues with a small black Takoroka logo each, and the laces are off-center, angled outward. On either side of each shoe is a slightly modified version of the Takoroka logo in dark gray, with a similarly-colored Inkling word printed vertically in on the heel. They come with a pair of long burgundy socks with another Takoroka logo around each one, this time in a dull yellow."
+  },
+  {
+    "id": 64,
+    "category": "shoes",
+    "name": "Luminous_Delta_Straps",
+    "brand": "Inkline",
+    "price": "5000",
+    "ability": "Intensify_Action",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/b\/b8\/S3_Gear_Shoes_Luminous_Delta_Straps.png",
+    "description": "The Luminous Delta Straps are a pair of black sandals with the straps meeting in a triangle shape. The sandals come with neon yellow socks that have white stripes."
+  },
+  {
+    "id": 65,
+    "category": "shoes",
+    "name": "Mako_Bucket_Hi-Tops",
+    "brand": "Emberz",
+    "price": "2800",
+    "ability": "Sub_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/1\/12\/S3_Gear_Shoes_Mako_Bucket_Hi-Tops.png",
+    "description": "The Mako Bucket Hi-Tops are a pair of sneakers. The outside of the shoe is mostly white, with purple sections and red laces. The inside of the shoe and around the edge is black. The bottom of the shoe is white, black and red."
+  },
+  {
+    "id": 66,
+    "category": "shoes",
+    "name": "Marinated_Slip-Ons",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Ink_Recovery_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/7\/7f\/S3_Gear_Shoes_Marinated_Slip-Ons.png",
+    "description": "The Marinated Slip-Ons look like a replica to the slip-ons Marina wears during the Octo Expansion. They are a pair of white-soled slip-ons with a silver ribbon tied in a knot on the top of the shoe."
+  },
+  {
+    "id": 67,
+    "category": "shoes",
+    "name": "Mawcasins",
+    "brand": "Splash_Mob",
+    "price": "2400",
+    "ability": "Ink_Recovery_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/a\/a2\/S3_Gear_Shoes_Mawcasins.png",
+    "description": "The Mawcasins are dark blue shoes in the style of moccasins. Their laces, interiors, and thick, toothed soles are white, as well as the small Splash Mob logo on each heel. On the outer side is a blue and white emblem with a stylized squid above another Splash Mob logo."
+  },
+  {
+    "id": 68,
+    "category": "shoes",
+    "name": "Moto_Boots",
+    "brand": "Rockenberg",
+    "price": "3800",
+    "ability": "Quick_Respawn",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/a\/a2\/S3_Gear_Shoes_Moto_Boots.png",
+    "description": "The Moto Boots are a pair of dark brown motorcycle boots. They are tipped with a thick chunk of metal and have tan soles. On the front is a round design in red, white, and blue, and on the side are three straps."
+  },
+  {
+    "id": 69,
+    "category": "shoes",
+    "name": "Navy_Red-Soled_Wingtips",
+    "brand": "Rockenberg",
+    "price": "4600",
+    "ability": "Ink_Saver_(Main)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/9\/9c\/S3_Gear_Shoes_Navy_Red-Soled_Wingtips.png",
+    "description": "The Navy Red-Soled Wingtips are suede, navy dress shoes with red soles. The laces are a bluer shade of navy than the rest of the shoes."
+  },
+  {
+    "id": 70,
+    "category": "shoes",
+    "name": "Navy_Toejamz",
+    "brand": "Z+F",
+    "price": "720",
+    "ability": "Sub_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/1\/1e\/S3_Gear_Shoes_Navy_Toejamz.png",
+    "description": "The Navy Toejamz, similar to the Green, Red, and Yellow Toejamz, are rubber clogs with the bottom of the shoes colored white and red, and the top of the clogs colored navy blue. Each clog has a single shoe charm of the Z+F mascot."
+  },
+  {
+    "id": 71,
+    "category": "shoes",
+    "name": "Neon_Delta_Straps",
+    "brand": "Inkline",
+    "price": "4800",
+    "ability": "Sub_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/3\/3e\/S3_Gear_Shoes_Neon_Delta_Straps.png",
+    "description": "The Snow Delta Straps are black strap on sandals, with dark gray on the inside of the straps and on the tongue. There is also gray along the sides of each strap. On top of each strap is a wavy pattern of bright pink, blue, and the dark gray from the soles. The soles of the shoes appear to be thick rubber, and imprinted with a sharp wave pattern. On the main strap by the heel there is a blue and pink tag."
+  },
+  {
+    "id": 72,
+    "category": "shoes",
+    "name": "Neon_Sea_Slugs",
+    "brand": "Tentatek",
+    "price": "700",
+    "ability": "Sub_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/8\/82\/S3_Gear_Shoes_Neon_Sea_Slugs.png",
+    "description": "The Neon Sea Slugs are a pair of neon green sneakers with several sections of black. They have green laces, a large black loop on the back, and, like many Tentatek shoes, a small Tentatek logo at the top of the tongue."
+  },
+  {
+    "id": 73,
+    "category": "shoes",
+    "name": "Onyx_01STERs",
+    "brand": "Toni_Kensa",
+    "price": "8,880",
+    "ability": "Special_Charge_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/3\/3a\/S3_Gear_Shoes_Onyx_01STERs.png",
+    "description": "The Onyx 01STERs are a pair of chunky black boots. A black zipper goes down the front, placed between two lifted lace cages with contrasting white laces. The shoes consist of numerous layers varying in texture and material, placed on a dark grey sole strengthened with black and vermilion elements. The foxing reveals a black strap attached to the collar. Each of the collar's side has a patch with Toni Kensa logo."
+  },
+  {
+    "id": 74,
+    "category": "shoes",
+    "name": "Orange_Arrows",
+    "brand": "Takoroka",
+    "price": "1100",
+    "ability": "Ink_Saver_(Main)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/5\/5a\/S3_Gear_Shoes_Orange_Arrows.png",
+    "description": "The Orange Arrows are boldly colored sneakers with a pair of large dark gray loops in front of and behind the ankle. They are covered in various patterns in orange, white, blue, and dark gray; some of these patterns are in an arrow shape, hence the name. At the top of the tongue is a small Takoroka logo in white on a dark gray background."
+  },
+  {
+    "id": 75,
+    "category": "shoes",
+    "name": "Orange_Dadfoot_Sandals",
+    "brand": "Zink",
+    "price": "650",
+    "ability": "Run_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/1\/1c\/S3_Gear_Shoes_Orange_Dadfoot_Sandals.png",
+    "description": "The Orange Dadfoot Sandals are a pair of orange Velcro sandals with Zink logo soles worn with turquoise and light green spotted pattern socks. Zink logo text is embedded into the bottom Velcro strap of the sandal."
+  },
+  {
+    "id": 76,
+    "category": "shoes",
+    "name": "Orange_Lo-Tops",
+    "brand": "Zekko",
+    "price": "800",
+    "ability": "Swim_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/6\/69\/S3_Gear_Shoes_Orange_Lo-Tops.png",
+    "description": "The Orange Lo-Tops are a pair of bright orange canvas shoes. The laces and the sides of the soles are white and they are worn with long white socks. At the top of each of these socks is a pair of horizontal stripes, with the upper being red and the lower blue."
+  },
+  {
+    "id": 77,
+    "category": "shoes",
+    "name": "Oyster_Clogs",
+    "brand": "Krak-On",
+    "price": "600",
+    "ability": "Run_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/a\/ad\/S3_Gear_Shoes_Oyster_Clogs.png",
+    "description": "The Oyster Clogs are gray felt slip-on clogs with bright pink soles. They are secured to the wearer's feet by brown straps buckled at the ankle and are worn with loose green socks. The soles are decorated with a rhombus pattern."
+  },
+  {
+    "id": 78,
+    "category": "shoes",
+    "name": "Pearl_01STERs",
+    "brand": "Toni_Kensa",
+    "price": "8800",
+    "ability": "Special_Saver",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/d\/da\/S3_Gear_Shoes_Pearl_01STERs.png",
+    "description": "The Pearl 01STERs are a pair of chunky dirty white boots. A black zipper goes down the front, placed between two lifted lace cages with matching white laces. The shoes consist of numerous layers varying in texture and material, placed on a white sole strengthened with black and vermilion elements. The foxing reveals a black strap attached to the collar. Each of the collar's side has a patch with Toni Kensa logo."
+  },
+  {
+    "id": 79,
+    "category": "shoes",
+    "name": "Pearlescent_Kicks",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Special_Charge_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/6\/64\/S3_Gear_Shoes_Pearlescent_Kicks.png",
+    "description": "The Pearlescent Kicks look like a replica of the shoes Pearl wears during the Octo Expansion. They are a silver lavender color with light purple shoelaces. On the front of the tongue is a black square with an outline of the Splatoon 2 Splatfest logo in gold."
+  },
+  {
+    "id": 80,
+    "category": "shoes",
+    "name": "Pink_Dadfoot_Sandals",
+    "brand": "Zink",
+    "price": "650",
+    "ability": "Intensify_Action",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/0\/0d\/S3_Gear_Shoes_Pink_Dadfoot_Sandals.png",
+    "description": "The Pink Dadfoot Sandals are a pair of magenta Velcro sandals with Zink logo soles worn with white socks adorned with two black rings near the top. Zink logo text is embedded into the bottom Velcro strap of the sandal."
+  },
+  {
+    "id": 81,
+    "category": "shoes",
+    "name": "Pink_Trainers",
+    "brand": "Tentatek",
+    "price": "500",
+    "ability": "Sub_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/8\/8c\/S3_Gear_Shoes_Pink_Trainers.png",
+    "description": "The Pink Trainers are a pair of brightly colored pink sneakers with sections of purple and light blue. They have blue laces and, like all Tentatek shoes, the Tentatek logo at the top of the tongue."
+  },
+  {
+    "id": 82,
+    "category": "shoes",
+    "name": "Plum_Casuals",
+    "brand": "Krak-On",
+    "price": "2000",
+    "ability": "Object_Shredder",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/d\/d5\/S3_Gear_Shoes_Plum_Casuals.png",
+    "description": "The Plum casuals are plum colored mid-top shoes with denim blue sides. They have yellow lacing and yellow soles, as well as a silver badge depicting Krak-On's logo."
+  },
+  {
+    "id": 83,
+    "category": "shoes",
+    "name": "Power_Boots_Mk_I",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Sub_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/0\/07\/S3_Gear_Shoes_Power_Boots_Mk_I.png",
+    "description": "The Power Boots Mk I are large, angular, armored boots. They are quite reflective and blocky in shape."
+  },
+  {
+    "id": 84,
+    "category": "shoes",
+    "name": "Power_Boots",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Ink_Saver_(Main)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/1\/14\/S3_Gear_Shoes_Power_Boots.png",
+    "description": "The Power Boots are a pair of complex, futuristic boots. They have sections of white, black, and silver, and end in a point. They are quite tall, coming up to the wearer's knees. On the back is a thick tube with a pattern in black as well as the wearer's ink color, which comes out at the heel and goes back in at the calf."
+  },
+  {
+    "id": 85,
+    "category": "shoes",
+    "name": "Pro_Trail_Boots",
+    "brand": "Inkline",
+    "price": "9800",
+    "ability": "Ink_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/a\/ad\/S3_Gear_Shoes_Pro_Trail_Boots.png",
+    "description": "The Pro Trail Boots are black and dark gray hiking boots with lighter grey squares on the sides and sky blue laces. On the tongue is what appears to be very small Inkling text in yellow-green. The soles are black and feature a yellow arrow pattern, with the Inkline logo seen on small tag above the heel. The boots come with dark brown socks that just poke over the top."
+  },
+  {
+    "id": 86,
+    "category": "shoes",
+    "name": "Punk_Cherries",
+    "brand": "Rockenberg",
+    "price": "9000",
+    "ability": "Sub_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/6\/61\/S3_Gear_Shoes_Punk_Cherries.png",
+    "description": "The Punk Cherries are a pair of maroon leather boots with thick black soles. They come up to the wearer's calf and have black laces and a large orange loop on the back."
+  },
+  {
+    "id": 87,
+    "category": "shoes",
+    "name": "Punk_Nights",
+    "brand": "Rockenberg",
+    "price": "8800",
+    "ability": "Intensity",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/9\/9e\/S3_Gear_Shoes_Punk_Nights.png",
+    "description": "The Punk Nights are solid black, laced leather boots. They come up to the wearer's calf and have thick soles."
+  },
+  {
+    "id": 88,
+    "category": "shoes",
+    "name": "Punk_Pinks",
+    "brand": "Rockenberg",
+    "price": "3600",
+    "ability": "Ink_Recovery_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/c\/c7\/S3_Gear_Shoes_Punk_Pinks.png",
+    "description": "The Punk Pinks are a pair of pink leather boots with thick black soles. They come up to the wearer's calf and have black laces and a large brown loop on the back."
+  },
+  {
+    "id": 89,
+    "category": "shoes",
+    "name": "Punk_Whites",
+    "brand": "Rockenberg",
+    "price": "3800",
+    "ability": "Special_Charge_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/9\/90\/S3_Gear_Shoes_Punk_Whites.png",
+    "description": "The Punk Whites are a pair of white leather boots with thick black soles. They come up to the wearer's calf and have black laces and a large orange loop on the back."
+  },
+  {
+    "id": 90,
+    "category": "shoes",
+    "name": "Punk_Yellows",
+    "brand": "Rockenberg",
+    "price": "3000",
+    "ability": "Special_Saver",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/e\/e3\/S3_Gear_Shoes_Punk_Yellows.png",
+    "description": "The Punk Yellows are a pair of bright yellow leather boots with thick black soles. They come up to the wearer's calf and have black laces and a large orange loop on the back."
+  },
+  {
+    "id": 91,
+    "category": "shoes",
+    "name": "Purple_Hi-Horses",
+    "brand": "Zink",
+    "price": "1000",
+    "ability": "Special_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/1\/1b\/S3_Gear_Shoes_Purple_Hi-Horses.png",
+    "description": "The Purple Hi-Horses are a dark blue-purplish color with a white Zink arrow on each side. There is a smaller version of the Zink logo above the gray lace, and around the lace is neon yellow. The soles are the same color gray as the laces."
+  },
+  {
+    "id": 92,
+    "category": "shoes",
+    "name": "Purple_Sea_Slugs",
+    "brand": "Tentatek",
+    "price": "1800",
+    "ability": "Run_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/3\/36\/S3_Gear_Shoes_Purple_Sea_Slugs.png",
+    "description": "The Purple Sea Slugs are a pair of vivid purple sneakers with several sections of black. They have black laces, a large black loop on the back, and, like all Tentatek shoes, a small Tentatek logo at the top of the tongue."
+  },
+  {
+    "id": 93,
+    "category": "shoes",
+    "name": "Red_&_Black_Squidkid_IV",
+    "brand": "Enperry",
+    "price": "11000",
+    "ability": "Special_Charge_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/6\/63\/S3_Gear_Shoes_Red_%26_Black_Squidkid_IV.png",
+    "description": "The Red & Black Squidkids IV are light gray athletic shoes with red along the bottom and above the toes, with black along the front, along the ankle, and on the heel. The laces are red as well, and on the tongue is the Enperry logo in it's traditional navy blue."
+  },
+  {
+    "id": 94,
+    "category": "shoes",
+    "name": "Red_&_White_Squidkid_V",
+    "brand": "Enperry",
+    "price": "12800",
+    "ability": "Run_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/6\/67\/S3_Gear_Shoes_Red_%26_White_Squidkid_V.png",
+    "description": "The Red & White Squidkid V are white basketball shoes, with a red and white fish-like pattern on the side, as well as the Enperry logo on the tongue in red."
+  },
+  {
+    "id": 95,
+    "category": "shoes",
+    "name": "Red_3-Straps",
+    "brand": "Splash_Mob",
+    "price": "1400",
+    "ability": "Ink_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/8\/8d\/S3_Gear_Shoes_Red_3-Straps.png",
+    "description": "The Red 3-Straps are a pair of flattish shoes with three thick Velcro straps instead of laces and short, blue-gray socks worn underneath. They are mostly red, with a white stripe toward the bottom and a white zig-zag pattern on both sides. On the topmost strap is the Splash Mob logo in white. The sole has a red stripe going around the entire shoe."
+  },
+  {
+    "id": 96,
+    "category": "shoes",
+    "name": "Red_FishFry_Sandals",
+    "brand": "Firefin",
+    "price": "2880",
+    "ability": "Object_Shredder",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/f\/fc\/S3_Gear_Shoes_Red_FishFry_Sandals.png",
+    "description": "The Red FishFry Sandals are orange-red sandals with white socks. A small Firefin logo is embroidered onto the sides of the socks."
+  },
+  {
+    "id": 97,
+    "category": "shoes",
+    "name": "Red_Hammertreads",
+    "brand": "Annaki",
+    "price": "10999",
+    "ability": "Ink_Saver_(Main)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/3\/39\/S3_Gear_Shoes_Red_Hammertreads.png",
+    "description": "The Red Hammertreads are a pair of red and black boots. They have a brown sole and a leather, belt-like strap going through black loops."
+  },
+  {
+    "id": 98,
+    "category": "shoes",
+    "name": "Red_Hi-Horses",
+    "brand": "Zink",
+    "price": "800",
+    "ability": "Ink_Saver_(Main)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/b\/b8\/S3_Gear_Shoes_Red_Hi-Horses.png",
+    "description": "The Red Hi-Horses appear to be mainly red hi-top basketball shoes with white laces. On the sides of the shoes, the white arrow from Zink's logo can be seen, with the logo itself being seen on the top black tongue of the shoe. The soles are white, and feature an arrow pattern. The shoe also features six small holes near the toecap."
+  },
+  {
+    "id": 99,
+    "category": "shoes",
+    "name": "Red_Hi-Tops",
+    "brand": "Krak-On",
+    "price": "1800",
+    "ability": "Ink_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/f\/f4\/S3_Gear_Shoes_Red_Hi-Tops.png",
+    "description": "The Red Hi-Tops are a pair of bright red canvas high-tops. The toe and laces are white and the sole is brown with a Krak-On logo. At the top of the tongue is a very small Krak-On logo on a white label."
+  },
+  {
+    "id": 100,
+    "category": "shoes",
+    "name": "Red_Sea_Slugs",
+    "brand": "Tentatek",
+    "price": "8000",
+    "ability": "Special_Saver",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/d\/d3\/S3_Gear_Shoes_Red_Sea_Slugs.png",
+    "description": "The Red Sea Slugs are a pair of red sneakers with several small sections of black fabric, as well as black on the outsole. They have white tongues and red laces, as well as a large black loop on the back. Like all Tentatek shoes, they feature a small Tentatek logo at the top of the tongue."
+  },
+  {
+    "id": 101,
+    "category": "shoes",
+    "name": "Red_Slip-Ons",
+    "brand": "Krak-On",
+    "price": "300",
+    "ability": "Quick_Super_Jump",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/1\/1f\/S3_Gear_Shoes_Red_Slip-Ons.png",
+    "description": "The Red Slip-Ons are a simple pair of dark red canvas slip-ons with a thin stripe of darker red at the top of the tongue. The sole and interior are white, and the heel is a bright yellow-orange with another small section of dark red and Krak-On's name in black Inkling text."
+  },
+  {
+    "id": 102,
+    "category": "shoes",
+    "name": "Red_Toejamz",
+    "brand": "Z+F",
+    "price": "940",
+    "ability": "Ink_Saver_(Sub)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/2\/2a\/S3_Gear_Shoes_Red_Toejamz.png",
+    "description": "The Red Toejamz are a pair of rubber red clogs with the bottom of the shoes colored white and blue. Added onto the clogs are several different shoe charms."
+  },
+  {
+    "id": 103,
+    "category": "shoes",
+    "name": "Red_Work_Boots",
+    "brand": "Rockenberg",
+    "price": "11000",
+    "ability": "Quick_Super_Jump",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/1\/19\/S3_Gear_Shoes_Red_Work_Boots.png",
+    "description": "The Red Work Boots are a pair of red boots with thick, dark brown soles. The laces, which are also brown, are tied very loosely, leaving the top of the shoe and the tongue to hang around the ankles. On the inside of the tongue, a small white Rockenberg logo can be seen on a brown label."
+  },
+  {
+    "id": 104,
+    "category": "shoes",
+    "name": "Roasted_Brogues",
+    "brand": "Rockenberg",
+    "price": "1200",
+    "ability": "Sub_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/8\/8e\/S3_Gear_Shoes_Roasted_Brogues.png",
+    "description": "The Roasted Brogues are a pair of blind brogues in a medium brown with dark brown soles and laces. They are worn with thick socks that extend halfway up the calf, adorned with a gray and red check pattern."
+  },
+  {
+    "id": 105,
+    "category": "shoes",
+    "name": "Samurai_Shoes",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Special_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/d\/da\/S3_Gear_Shoes_Samurai_Shoes.png",
+    "description": "The Samurai shoes are a pair of straw waraji, traditional Japanese sandals. Underneath them are tabi, Japanese socks with the big toe separated from the rest for being worn with sandals. These tabi are light gray with a pattern of dark gray spots, reminiscent of the Splatoon logo. There is also a pair of shin guards, black with a square pattern that changes color to match that of the wearer's Ink, tied on with thin green ropes."
+  },
+  {
+    "id": 106,
+    "category": "shoes",
+    "name": "School_Shoes_+_Hi_Socks",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Ink_Saver_(Sub)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/c\/cb\/S3_Gear_Shoes_Base_School_Shoes.png",
+    "description": "The School Shoes are a pair of shiny black loafers."
+  },
+  {
+    "id": 107,
+    "category": "shoes",
+    "name": "Seafoam_Hi-Tops",
+    "brand": "Z+F",
+    "price": "9500",
+    "ability": "Quick_Super_Jump",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/b\/bb\/S3_Gear_Shoes_Seafoam_Hi-Tops.png",
+    "description": "The Seafoam Hi-Tops are similar to Dakroniks except with the Seafoam pattern. The base of the shoes seems to be white with the sole of the shoes being dirty white."
+  },
+  {
+    "id": 108,
+    "category": "shoes",
+    "name": "Shark_Moccasins",
+    "brand": "Splash_Mob",
+    "price": "800",
+    "ability": "Sub_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/4\/46\/S3_Gear_Shoes_Shark_Moccasins.png",
+    "description": "The Shark Moccasins are dark olive shoes in the style of moccasins. They have pale yellow laces, gray interiors, and thick, toothed soles in a dark brown. On the outer side is a yellow and black emblem."
+  },
+  {
+    "id": 109,
+    "category": "shoes",
+    "name": "Skipjack_Work_Boots",
+    "brand": "Rockenberg",
+    "price": "4800",
+    "ability": "Ink_Saver_(Sub)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/6\/61\/S3_Gear_Shoes_Skipjack_Work_Boots.png",
+    "description": "The Skipjack Work Boots are a pair of work boots with an asymmetrical appearance. They feature various, irregularly painted designs in red, blue, gray and white, with some featuring Rockenberg logo, handwriting or resembling stains of dirt. The right tongue sticks out, while the left is kept in place with neatly tied red laces. The midsole is caramel and the sole is chocolate brown. A barely visible Rockenberg logo is sewn on the tongues."
+  },
+  {
+    "id": 110,
+    "category": "shoes",
+    "name": "Slamgerine_Slip-Ons",
+    "brand": "Takoroka",
+    "price": "7980",
+    "ability": "Ink_Saver_(Main)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/2\/28\/S3_Gear_Shoes_Slamgerine_Slip-Ons.png",
+    "description": "The Slamgerine Slip-Ons are a pair of bulky, white slip-ons white numerous orange straps attached. The top hosts two straps attached with a black clasp with a white Takoroka logo. An orange loop extends from the clasp, along with a similar one on the shoe's back. The midsole consists of a wide, arch-resembling pedestal based on the sole. The sole itself is orange, matching the straps colouristically."
+  },
+  {
+    "id": 111,
+    "category": "shoes",
+    "name": "Snow_Delta_Straps",
+    "brand": "Inkline",
+    "price": "8800",
+    "ability": "Swim_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/4\/4b\/S3_Gear_Shoes_Snow_Delta_Straps.png",
+    "description": "The Snow Delta Straps are white strap-on sandals, with gray on the inside of the straps and on the tongue. There is also gray along the sides of each strap. The sole of the shoes appear to be thick rubber, and imprinted with a sharp wave pattern. On the main strap by the heel, there is a red tag with the Inkline logo on it."
+  },
+  {
+    "id": 112,
+    "category": "shoes",
+    "name": "Snowy_Down_Boots",
+    "brand": "Tentatek",
+    "price": "8000",
+    "ability": "Quick_Super_Jump",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/b\/b6\/S3_Gear_Shoes_Snowy_Down_Boots.png",
+    "description": "The Snowy Down Boots are milk-white, knee-high winter boots with dull red and black soles. Along the side is the Inkling text from the Tentatek logo in white, along with a white triangle, and they are cinched at the top with a black string and a pink fastener modeled after the Tentatek logo. On the heel is the full Tentatek logo in pink on a white label."
+  },
+  {
+    "id": 113,
+    "category": "shoes",
+    "name": "Soccer_Shoes",
+    "brand": "Takoroka",
+    "price": "9600",
+    "ability": "Sub_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/d\/de\/S3_Gear_Shoes_Soccer_Shoes.png",
+    "description": "The Soccer shoes are, as its name implies, a pair of bright orange soccer cleats with dark green spikes and laces. The tongue and the inside of the shoe are black, and the laces are off-center, angled outward. On either side of each shoe is a slightly modified version of the Takoroka logo in white, with a smaller one on the tongue. There is also a small Inkling word printed vertically in white on each heel."
+  },
+  {
+    "id": 114,
+    "category": "shoes",
+    "name": "Squid-Stitch_Slip-Ons",
+    "brand": "Krak-On",
+    "price": "1500",
+    "ability": "Sub_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/8\/88\/S3_Gear_Shoes_Squid-Stitch_Slip-Ons.png",
+    "description": "The Squid-Stitch Slip-Ons are a pair of slip-on shoes with a black and white pattern similar to houndstooth. They are white on the inside and sole and black on the heel."
+  },
+  {
+    "id": 115,
+    "category": "shoes",
+    "name": "Squinja_Boots",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Swim_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/8\/8e\/S3_Gear_Shoes_Squinja_Boots.png",
+    "description": "The Squinja Boots are traditional shozoku footwear. The knee guards change color to a darker shade of the wearer's ink."
+  },
+  {
+    "id": 116,
+    "category": "shoes",
+    "name": "Squink_Wingtips",
+    "brand": "Rockenberg",
+    "price": "800",
+    "ability": "Quick_Respawn",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/0\/0e\/S3_Gear_Shoes_Squink_Wingtips.png",
+    "description": "The Squink Wingtips are wingtip shoes which are colored mainly black and white, and are tied together with black laces. The inside of the shoes are brown, and the soles are dark brown."
+  },
+  {
+    "id": 117,
+    "category": "shoes",
+    "name": "Steel_Greaves",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Object_Shredder",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/5\/5a\/S3_Gear_Shoes_Steel_Greaves.png",
+    "description": "The Steel Greaves are a pair of silver medieval knight's boots that come up to the wearer's knees."
+  },
+  {
+    "id": 118,
+    "category": "shoes",
+    "name": "Suede_Basics",
+    "brand": "Barazushi",
+    "price": "8200",
+    "ability": "Run_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/7\/76\/S3_Gear_Shoes_Suede_Basics.png",
+    "description": "The Suede Basics are a pair of suede shoes with a minimalistic design. The vamp is light grey, covered in a darker suede overlay. The tongue seems quite stiff, held in place by colouristically matching laces. It also has a Barazushi logo engraved on it's top. The soles are light brown and possess rows of three dots each, located singularly on the sides. The foxing presents a small logo resembling a stylised squid and a thin collar above."
+  },
+  {
+    "id": 119,
+    "category": "shoes",
+    "name": "Suede_Bosses",
+    "brand": "Barazushi",
+    "price": "8200",
+    "ability": "Object_Shredder",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/f\/f3\/S3_Gear_Shoes_Suede_Bosses.png",
+    "description": "The Suede Bosses are a pair of suede shoes with a minimalistic design. The vamp is pitch black, covered in a lighter suede overlay. The tongue seems quite stiff, held in place by colouristically matching laces. It also has a Barazushi logo engraved on it's top. The soles are tan brown and possess rows of three dots each, located singularly on the sides. The foxing presents a small logo resembling a stylised squid and a thin collar above."
+  },
+  {
+    "id": 120,
+    "category": "shoes",
+    "name": "Sunny_Climbing_Shoes",
+    "brand": "Inkline",
+    "price": "3200",
+    "ability": "Special_Saver",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/a\/a0\/S3_Gear_Shoes_Sunny_Climbing_Shoes.png",
+    "description": "The Sunny Climbing Shoes are predominantly gray climbing shoes. The back of the heel and the toe are yellow. On the heel is some red lettering."
+  },
+  {
+    "id": 121,
+    "category": "shoes",
+    "name": "Sunset_Orca_Hi-Tops",
+    "brand": "Takoroka",
+    "price": "3800",
+    "ability": "Drop_Roller",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/e\/e6\/S3_Gear_Shoes_Sunset_Orca_Hi-Tops.png",
+    "description": "The Orca Hi-Tops are black and yellow-orange, leather hi-top sneakers. They are mostly black with a yellow-orange stripe along the side, and red-orange stripes on the back. The shoes have black soles."
+  },
+  {
+    "id": 122,
+    "category": "shoes",
+    "name": "Tan_Work_Boots",
+    "brand": "Rockenberg",
+    "price": "3000",
+    "ability": "Sub_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/1\/1f\/S3_Gear_Shoes_Tan_Work_Boots.png",
+    "description": "The Tan Work Boots are a pair of tan colored boots with thick, dark brown soles. The laces, which are a dull blue, are tied very loosely, leaving the top of the shoe and the tongue to hang around the ankles. On the inside of the tongue, the Rockenberg logo can be seen. The inside of the shoe has an orange stripe around the middle of the ankle."
+  },
+  {
+    "id": 123,
+    "category": "shoes",
+    "name": "Tenya_OctoPurps",
+    "brand": "Tentatek",
+    "price": "7980",
+    "ability": "Special_Saver",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/4\/4d\/S3_Gear_Shoes_Tenya_OctoPurps.png",
+    "description": ""
+  },
+  {
+    "id": 124,
+    "category": "shoes",
+    "name": "Tenya_OctoReds",
+    "brand": "Tentatek",
+    "price": "2900",
+    "ability": "Quick_Respawn",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/0\/08\/S3_Gear_Shoes_Tenya_OctoReds.png",
+    "description": "The Tenya OctoReds are a pair of large thick red basketball shoes. The trainers are mostly made of a bright-red suede material and wrapped around with two large black straps attached to the midsole, encompassing the shoe's whole width. There is also a third strap, which is much smaller and attached to the tongue's inner side and leaping over it. It also has a Tentatek writing engraved on it. The collar consists of a pad featuring yet another strap with a black buckle baring a number 8. Unlike the other three, it has an adhesive toggle. The collar is rounded on the ends and appears to be bound with the tongue via a black foam, which acts as an insole and a frame for the collar. A cherry heel tab is also present, supporting the wearer's calfs. The outer sides posses a golden grafitti, possibly a signature. The soles are black and fitted into a smooth black midsole, with addition of multiple pale red elements. On the tongue of the shoe a beige Tentatek logo is shown."
+  },
+  {
+    "id": 125,
+    "category": "shoes",
+    "name": "Trail_Boots",
+    "brand": "Inkline",
+    "price": "7500",
+    "ability": "Ink_Recovery_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/8\/8d\/S3_Gear_Shoes_Trail_Boots.png",
+    "description": "The Trail Boots are brown and burnt orange hiking boots with tan squares on the sides, small sections of bright orange, and dark teal laces. On the tongue is what appears to be very small Inkling text in orange and violet. They have black soles and come with dark green socks that just poke over the top."
+  },
+  {
+    "id": 126,
+    "category": "shoes",
+    "name": "Transom_Note_Boots",
+    "brand": "Z+F",
+    "price": "9500",
+    "ability": "Run_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/2\/2e\/S3_Gear_Shoes_Transom_Note_Boots.png",
+    "description": "The Transom Note Boots are fuzzy brown boots. The cuffs of the boots are beige while the rest of them are colored brown. On the back of each is a gold pin with Z+F's logo on it."
+  },
+  {
+    "id": 127,
+    "category": "shoes",
+    "name": "Turbo_Tabi_Red",
+    "brand": "Tentatek",
+    "price": "2200",
+    "ability": "Sub_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/f\/f6\/S3_Gear_Shoes_Turbo_Tabi_Red.png",
+    "description": "The Turbo Tabi Red are a pair of vibrant red shoes resembling tabi socks. The front is black with a cut in the middle, giving it a hoof-like appearance. The top possesses various round, pink stains, a black frame with laces, and a tongue with the old version Tentatek logo in black. The outer side is covered in a large, black Tentatek logo and the back has a black strap."
+  },
+  {
+    "id": 128,
+    "category": "shoes",
+    "name": "Turquoise_Kicks",
+    "brand": "Rockenberg",
+    "price": "2800",
+    "ability": "Special_Charge_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/8\/81\/S3_Gear_Shoes_Turquoise_Kicks.png",
+    "description": "Turquoise Kicks are black and blue on the outside. The insides of the shoes are brown, and their laces appear to be tied in the artwork."
+  },
+  {
+    "id": 129,
+    "category": "shoes",
+    "name": "U_Jellys",
+    "brand": "Tentatek",
+    "price": "2200",
+    "ability": "Special_Charge_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/a\/a6\/S3_Gear_Shoes_U_Jellys.png",
+    "description": "The U Jellys are a pair of laceless sneakers with silvery blue straps overlapping the top of the shoes. The upper part is deep red with neon green and purple colour splashes sprinkled over it, with the rear covered in more distanced, lime dots. The midsoles are white with their backs being higher and storing beige cushions. The soles are black, as well as two different sized rings, with the former acting as a tongue and the latter attached to the foxing with an addition of a same-coloured element extending to the midsole. A luminescent Tentatek logo can be seen on the soles."
+  },
+  {
+    "id": 130,
+    "category": "shoes",
+    "name": "Wasabi_Tabi",
+    "brand": "Tentatek",
+    "price": "10500",
+    "ability": "Intensify_Action",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/3\/36\/S3_Gear_Shoes_Wasabi_Tabi.png",
+    "description": "The Wasabi Tabi are a pair of pastel red socks worn with sandals attached to wearer's feet via a set of black straps. The sandals are shaped to resemble two-toed feet, with most of the elements being lime with the sole being beige and the outsole gray. The shoes also have tiny spikes on the outer sides and a foxing in form of a large, luminescent Tentatek logo. The white version of the logo can be found on top of the straps and on the socks' sides."
+  },
+  {
+    "id": 131,
+    "category": "shoes",
+    "name": "White_3-Straps",
+    "brand": "Splash_Mob",
+    "price": "8700",
+    "ability": "Ink_Saver_(Sub)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/7\/7a\/S3_Gear_Shoes_White_3-Straps.png",
+    "description": "The White 3-Straps are a pair of flattish shoes with three thick Velcro straps instead of laces and short orange socks worn underneath. They are mostly white, with a dark blue stripe toward the bottom. On the topmost strap is the Splash Mob logo in the same dark blue."
+  },
+  {
+    "id": 132,
+    "category": "shoes",
+    "name": "White_Arrows",
+    "brand": "Takoroka",
+    "price": "2500",
+    "ability": "Special_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/5\/57\/S3_Gear_Shoes_White_Arrows.png",
+    "description": "The White Arrows are white sneakers with a pair of large loops in front of and behind the ankle and a gray arrow pattern across the upper area, hence the name. The soles are blue and have a pattern of simplified squid tentacles. At the top of the tongue is a small Takoroka logo in a similar blue and another on the heel, slightly larger."
+  },
+  {
+    "id": 133,
+    "category": "shoes",
+    "name": "White_Clam_600s",
+    "brand": "Toni_Kensa",
+    "price": "11260",
+    "ability": "Quick_Respawn",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/4\/49\/S3_Gear_Shoes_White_Clam_600s.png",
+    "description": "The White Clam 600s are a pair of dirty white shoes with mollusc resembling elements. Consisting of various layers and patches, Clam 600s have mostly smooth texture, accompanied by pieces of red mesh on the sides. The front consists of a white mesh partly covered by layers of suede fabric, featuring accented eyelets and dull grey laces, tied visibly wishy-washy. The soles are mostly light gray clam-like discs, attached to a darker base, in addition of a sharp-edged outsole made from the same material."
+  },
+  {
+    "id": 134,
+    "category": "shoes",
+    "name": "White_Kicks",
+    "brand": "Rockenberg",
+    "price": "1400",
+    "ability": "Swim_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/6\/6a\/S3_Gear_Shoes_White_Kicks.png",
+    "description": "The White Kicks are a pair of white lace-up shoes with thick, black soles. The laces and the pull tab are both red, while the inside of the shoe is a light orange. In an arc shaped pattern along the toe box is a black triangle pattern."
+  },
+  {
+    "id": 135,
+    "category": "shoes",
+    "name": "White_Lo-Vert_Hi-Tops",
+    "brand": "Barazushi",
+    "price": "10200",
+    "ability": "Sub_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/1\/16\/S3_Gear_Shoes_White_Lo-Vert_Hi-Tops.png",
+    "description": "The White Lo-Vert Hi-Tops are a pair of white sneakers with the Barazushi logo, in written form, on the front."
+  },
+  {
+    "id": 136,
+    "category": "shoes",
+    "name": "White_Seahorses",
+    "brand": "Zink",
+    "price": "600",
+    "ability": "Ink_Recovery_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/d\/d1\/S3_Gear_Shoes_White_Seahorses.png",
+    "description": "The White Seahorses are a pair of white sneakers with orange soles and the arrow from the Zink logo, also in orange, on both sides. The laces and interior are orange, and on the tongue is the full Zink logo in black and white."
+  },
+  {
+    "id": 137,
+    "category": "shoes",
+    "name": "Yellow_FishFry_Sandals",
+    "brand": "Firefin",
+    "price": "2880",
+    "ability": "Intensify_Action",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/e\/e4\/S3_Gear_Shoes_Yellow_FishFry_Sandals.png",
+    "description": "The Yellow FishFry Sandals are yellow sandals with gray socks. A small Firefin logo is embroidered onto the sides of the socks."
+  },
+  {
+    "id": 138,
+    "category": "shoes",
+    "name": "Yellow_Seahorses",
+    "brand": "Zink",
+    "price": "1500",
+    "ability": "Sub_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/c\/ce\/S3_Gear_Shoes_Yellow_Seahorses.png",
+    "description": "The Yellow Seahorses are a pair of yellow sneakers with green soles and the arrow from the Zink logo, also in green, on both sides. The laces and interior are green, and on the tongue is the full Zink logo in black and white."
+  },
+  {
+    "id": 139,
+    "category": "shoes",
+    "name": "Yellow_Toejamz",
+    "brand": "Z+F",
+    "price": "830",
+    "ability": "Sub_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/f\/f2\/S3_Gear_Shoes_Yellow_Toejamz.png",
+    "description": "The Yellow Toejamz, similar to the Navy, Red, and Green Toejamz, are rubber clogs with the bottom of the shoes colored white and blue, and the top of the clogs colored yellow. The clogs come with shoe charms of stars and various Z+F logos."
+  },
+  {
+    "id": 140,
+    "category": "shoes",
+    "name": "Zebrafish_Hi-Tops",
+    "brand": "Toni_Kensa",
+    "price": "4200",
+    "ability": "Swim_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/a\/a5\/S3_Gear_Shoes_Zebrafish_Hi-Tops.png",
+    "description": "The Zebrafish Hi-Tops are a pair of black and white high top shoes. The top of the shoe is black and the bottom is white. The soles are mostly white with some black areas. The ankle cuffs have the Toni Kensa logo on them."
+  },
+  {
+    "id": 141,
+    "category": "shoes",
+    "name": "ZedFry_Slip-Ons",
+    "brand": "Z+F",
+    "price": "4200",
+    "ability": "Quick_Respawn",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/a\/ae\/S3_Gear_Shoes_ZedFry_Slip-Ons.png",
+    "description": "The ZedFry Slip-Ons are shoes similar to the Blue Slip-Ons or Red Slip-Ons, but with Z+F logo designs on them, rather than solid colors. The bottom of the shoes is colored white, as well as the inside of the shoes."
+  },
+  {
+    "id": 142,
+    "category": "shoes",
+    "name": "Zombie_Hi-Horses",
+    "brand": "Zink",
+    "price": "800",
+    "ability": "Special_Charge_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/e\/eb\/S3_Gear_Shoes_Zombie_Hi-Horses.png",
+    "description": "The Zombie Hi-Horses appear mainly blue, with a white Zink logo on the side. They have orange soles and tongues, and purple laces. Another, smaller image of the Zink logo can be found at the top of the tongue."
+  }
+]

@@ -1,0 +1,1612 @@
+[
+  {
+    "id": 1,
+    "category": "headgear",
+    "name": "18K_Aviators",
+    "brand": "Rockenberg",
+    "price": 12000,
+    "ability": "Last-Ditch_Effort",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/4\/43\/S3_Gear_Headgear_18K_Aviators.png",
+    "description": "The 18K Aviators are a pair of aviator sunglasses with shiny, gold-colored frames and dark brown lenses that fade from nearly opaque at the top to semi-transparent at the bottom. On the bottom of the left lens is the Inkling text from the Rockenberg logo in white. They are the only glasses in Splatoon to have nose pieces."
+  },
+  {
+    "id": 2,
+    "category": "headgear",
+    "name": "360_All-Scopes",
+    "brand": "Grizzco",
+    "price": 0,
+    "ability": "Random",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/2\/2b\/S3_Gear_Headgear_360_All-Scopes.png",
+    "description": "The 360 All-Scopes are a set of black goggles mounted on a grey strap headset with pink detailing. They have a headband with black padding. The right eyes of the goggles has multiple lenses mounted on a wheel. The lenses of the goggles change to match the wearer's current ink color."
+  },
+  {
+    "id": 3,
+    "category": "headgear",
+    "name": "Air_Gills_DX",
+    "brand": "SquidForce",
+    "price": 825,
+    "ability": "Tenacity",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/9\/99\/S3_Gear_Headgear_Air_Gills_DX.png",
+    "description": "The Air Gills DX is a respirator mask made for arid environment. It possesses a pair of filtres with dirty white and dark grey cartridges, separated by a yellow safety label. The front consists of a black valve, the facemask itself and two black toggles for adjusting the strap, adorned with a SquidForce logo pattern, which's ends connect to a gum headband. The bottom of the mask has yet another strap going around the wearer's nape. The bottom part of the filtres and the facemask change the colour to match the wearer's ink."
+  },
+  {
+    "id": 4,
+    "category": "headgear",
+    "name": "Annaki_Beret",
+    "brand": "Annaki",
+    "price": 11500,
+    "ability": "Ink_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/8\/83\/S3_Gear_Headgear_Annaki_Beret.png",
+    "description": "The Annaki Beret is a beret that changes color to match the wearer's ink. It has a white Annaki logo on top of it. A large safety pin is pinned to the right side of the hat."
+  },
+  {
+    "id": 5,
+    "category": "headgear",
+    "name": "Annaki_Beret_&_Glasses",
+    "brand": "Annaki",
+    "price": 7850,
+    "ability": "Ink_Saver_(Main)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/2\/21\/S3_Gear_Headgear_Annaki_Beret_%26_Glasses.png",
+    "description": "The Annaki Beret & Glasses is a dully-colored beret that changes color with the wearer's ink, but not necessarily to match. A small, light gray Annaki logo is embroidered on the left side of the beret. It also has round, rose gold-rimmed mirrored glasses that change to the opposite color of the beret. These glasses have an Annaki logo on each lens."
+  },
+  {
+    "id": 6,
+    "category": "headgear",
+    "name": "Annaki_Charms",
+    "brand": "Annaki",
+    "price": 777,
+    "ability": "Swim_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/1\/15\/S3_Gear_Headgear_Annaki_Charms.png",
+    "description": "The Annaki Charms are a pair of black and silver sunglasses with small, slightly rectangular, brown lenses."
+  },
+  {
+    "id": 7,
+    "category": "headgear",
+    "name": "Annaki_Mask",
+    "brand": "Annaki",
+    "price": 3600,
+    "ability": "Opening_Gambit",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/e\/ec\/S3_Gear_Headgear_Annaki_Mask.png",
+    "description": "The Annaki Mask is a jet-black face mask with a crimson-red Annaki logo on the center of the mask."
+  },
+  {
+    "id": 8,
+    "category": "headgear",
+    "name": "Armor_Helmet_Replica",
+    "brand": "Cuttlegear",
+    "price": 0,
+    "ability": "Tenacity",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/3\/34\/S3_Gear_Headgear_Armor_Helmet_Replica.png",
+    "description": "The Armor Helmet Replica is a large, bulky helmet originally worn as actual armor in Octo Valley in Splatoon. It consists of the triangular earpieces from the Hero Headset Replica and the enormous helmet worn with them, similar to a bicycle helmet, but very long and pointed in the back. The back of the helmet and fronts of the earpieces have glowing lights on them that change color to match the wearer's ink, and a black strap is buckled at the chin. The lights are always pulsing slightly, giving the impression of bioluminescence. This is fitting considering that Agent 3's equipment was inspired by firefly squid."
+  },
+  {
+    "id": 9,
+    "category": "headgear",
+    "name": "Astro_Helm",
+    "brand": "Grizzco",
+    "price": 0,
+    "ability": "Random",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/3\/3c\/S3_Gear_Headgear_Astro_Helm.png",
+    "description": "The Astro Helm is a white flight helmet with a raised crest and a dark translucent face visor. Around the crest and on the forehead and ears are markings that match the wearer's ink color. Across the surface of the helmet are small scratches."
+  },
+  {
+    "id": 10,
+    "category": "headgear",
+    "name": "B-ball_Headband",
+    "brand": "Zink",
+    "price": 300,
+    "ability": "Opening_Gambit",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/a\/a7\/S3_Gear_Headgear_B-ball_Headband.png",
+    "description": "The B-ball Headband is a white headband with a thick stripe through the middle that changes color based on that of the wearer's ink, though it often does not quite match. Towards the front on the left side is a rectangular label in red and black, depicting two opposing squids. On the back is a tiny yellow tag."
+  },
+  {
+    "id": 11,
+    "category": "headgear",
+    "name": "Backward_Cap",
+    "brand": "Zekko",
+    "price": 700,
+    "ability": "Quick_Respawn",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/f\/fc\/S3_Gear_Headgear_Backward_Cap.png",
+    "description": "The Backward Cap is a flat-brimmed cap worn backwards. It has a dark gray brim, a tiny version of the Zekko logo on the front (the back, if worn normally), and Zekko's name in large, black and white Inkling letters on the other side. The main part of the hat changes color to match that of the wearer's ink."
+  },
+  {
+    "id": 12,
+    "category": "headgear",
+    "name": "Bamboo_Hat",
+    "brand": "Inkline",
+    "price": 2200,
+    "ability": "Ink_Saver_(Main)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/7\/75\/S3_Gear_Headgear_Bamboo_Hat.png",
+    "description": "The Bamboo Hat is a simple conical hat that changes color to match that of the wearer's ink. The main section is somewhat dark, with brighter areas around the edge and at the top. On the front is the Splatoon version of the Inkline logo in black and white, on the left side is brightly colored calligraphic writing that appears similar to Chinese characters (but could very well mean nothing), and on the back is a small blue tag with a white symbol. Around the chin is a black rope with a gray fastener in the shape of a stylized squid."
+  },
+  {
+    "id": 13,
+    "category": "headgear",
+    "name": "Barrelfish_Home_Helmet",
+    "brand": "Forge",
+    "price": 3500,
+    "ability": "Run_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/5\/50\/S3_Gear_Headgear_Barrelfish_Home_Helmet.png",
+    "description": "The Barrelfish Home Helmet is a licensedbaseball helmet. The front displays the team's symbol resembling an inverted letter B. The rest is covered in various logos and designs, like the Forge writing on the brim, a sports label on the back between two circle designs, a number resembling 58 above the composition and a thicker writing beneath. The helmet is partly asymmetric and changes the colour to match the wearer's Ink."
+  },
+  {
+    "id": 14,
+    "category": "headgear",
+    "name": "Beachcomber",
+    "brand": "Inkline",
+    "price": 8900,
+    "ability": "Opening_Gambit",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/f\/fe\/S3_Gear_Headgear_Beachcomber.png",
+    "description": "The Beachcomber is a wide-brimmed straw hat with a visible, woven structure. It features a striped string acting as a hatband and toggle, which changes colour to match the wearer's ink. The toggle has a tiny, black adjuster resembling a squid, with the string looped beneath it. The crown's front is adorned with an Inkline label and another one with the old version is sewn to the brim's left side."
+  },
+  {
+    "id": 15,
+    "category": "headgear",
+    "name": "Bike_Helmet",
+    "brand": "Skalop",
+    "price": 4800,
+    "ability": "Ink_Recovery_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/5\/51\/S3_Gear_Headgear_Bike_Helmet.png",
+    "description": "The Bike Helmet is a traditional foam helmet used for professional and recreational biking. It has many angled holes on its plastic surface, which changes color to match that of the wearer's ink. Its underside and the chinstrap securing it to the wearer's head are both black."
+  },
+  {
+    "id": 16,
+    "category": "headgear",
+    "name": "Black_Arrowbands",
+    "brand": "Zekko",
+    "price": 2800,
+    "ability": "Tenacity",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/d\/dd\/S3_Gear_Headgear_Black_Arrowbands.png",
+    "description": "The Black Arrowbands are a pair of glasses with black frames. The rims are somewhat round and have tiny metal studs towards the hinges. The sides change color to match that of the wearer's ink and are connected by a thick black arrow shaped strap in the back. On the left side, as well as the back of the strap, is the Inkling text from the Zekko logo in white."
+  },
+  {
+    "id": 17,
+    "category": "headgear",
+    "name": "BlobMob_Mask",
+    "brand": "Emberz",
+    "price": 825,
+    "ability": "Tenacity",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/1\/17\/S3_Gear_Headgear_BlobMob_Mask.png",
+    "description": "The BlobMob Mask is a yellow facemask with the BlobMob smiley face design as the front pattern; this smiley face design is also seen in graffiti and other BlobMob gear. The BlobMob Mask has black strings attached to an adjustable strap, helping hold the mask on the wearer's head. The strap's attachments resemble stylised squids."
+  },
+  {
+    "id": 18,
+    "category": "headgear",
+    "name": "Blowfish_Bell_Hat",
+    "brand": "Firefin",
+    "price": 850,
+    "ability": "Ink_Recovery_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/4\/43\/S3_Gear_Headgear_Blowfish_Bell_Hat.png",
+    "description": "The Blowfish Bell Hat is a simple, bell-shaped hat with a soft-looking and somewhat grainy texture. It changes color to match that of the wearer's ink and has a tiny, black and white version of the Firefin logo on the front."
+  },
+  {
+    "id": 19,
+    "category": "headgear",
+    "name": "Bobble_Hat",
+    "brand": "Splash_Mob",
+    "price": 2000,
+    "ability": "Quick_Super_Jump",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/0\/06\/S3_Gear_Headgear_Bobble_Hat.png",
+    "description": "The Bobble Hat is a large knit hat. Its color changes to match that of the wearer's ink, but it has two horizontal stripes and a fluffy bobble on the end that are always white. On its left side is a white patch with the Splash Mob logo, and on its right are two pins - one small and black with a white squid, and one large and orange with a purple seashell."
+  },
+  {
+    "id": 20,
+    "category": "headgear",
+    "name": "Boss_Floss",
+    "brand": "amiibo",
+    "price": 0,
+    "ability": "Intensify_Action",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/e\/e9\/S3_Gear_Headgear_Boss_Floss.png",
+    "description": "The Boss Floss is a headless fishbone which the player puts in their mouth."
+  },
+  {
+    "id": 21,
+    "category": "headgear",
+    "name": "Brain_Strainer",
+    "brand": "Grizzco",
+    "price": 0,
+    "ability": "Random",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/0\/0a\/S3_Gear_Headgear_Brain_Strainer.png",
+    "description": "The Brain Strainer appears to be a spaghetti strainer with a red and blue wire coming out from it, small blinking lights coming out of the sides and an object that appears to be an antenna on the top. The strainer is attached to the player by a band connected to the strainer's handles."
+  },
+  {
+    "id": 22,
+    "category": "headgear",
+    "name": "Bream-Brim_Cap",
+    "brand": "Grizzco",
+    "price": 0,
+    "ability": "Random",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/6\/6d\/S3_Gear_Headgear_Bream-Brim_Cap.png",
+    "description": "The Bream-Brim Cap is an iridescent cap. It has a sticker on the brim."
+  },
+  {
+    "id": 23,
+    "category": "headgear",
+    "name": "Bucket_Hat",
+    "brand": "SquidForce",
+    "price": 400,
+    "ability": "Special_Saver",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/3\/39\/S3_Gear_Headgear_Bucket_Hat.png",
+    "description": "The Bucket Hat is a solid-colored bucket hat that changes color with the wearer's ink. On the front is a white logo and on the left is a red tag with white lettering."
+  },
+  {
+    "id": 24,
+    "category": "headgear",
+    "name": "Camo_Mesh",
+    "brand": "Firefin",
+    "price": 1400,
+    "ability": "Swim_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/0\/09\/S3_Gear_Headgear_Camo_Mesh.png",
+    "description": "The Camo Mesh is a baseball cap with a mesh back and solid front. The brim and mesh are completely covered in a camouflage pattern that changes color to match that of the wearer's ink, and on the front is Firefin's name in stylized white Inkling text."
+  },
+  {
+    "id": 25,
+    "category": "headgear",
+    "name": "Cap'n_Cap",
+    "brand": "Splash_Mob",
+    "price": 10500,
+    "ability": "Quick_Respawn",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/5\/57\/S3_Gear_Headgear_Cap%27n_Cap.png",
+    "description": "The Cap'n Cap is a peaked cap with a crown matching the player's ink color and a black brim. Along the brim is a thick black string connected by two gold buttons with anchors on them. A black Splash Mob logo is sewn onto the back."
+  },
+  {
+    "id": 26,
+    "category": "headgear",
+    "name": "Camping_Hat",
+    "brand": "Inkline",
+    "price": 800,
+    "ability": "Special_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/6\/68\/S3_Gear_Headgear_Camping_Hat.png",
+    "description": "The Camping Hat is a floppy, wide-brimmed hat that changes color to match that of the wearer's ink. The band and edge of the brim are both lighter than the main color, and the band has a small version of the  Inkline logo in black and white on the front. The hat is secured to the head with a black rope at the chin, cinched by an arrow-shaped fastener that also matches the wearer's ink."
+  },
+  {
+    "id": 27,
+    "category": "headgear",
+    "name": "Cephalo_Pods",
+    "brand": "Forge",
+    "price": 1980,
+    "ability": "Ink_Recovery_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/f\/f9\/S3_Gear_Headgear_Cephalo_Pods.png",
+    "description": "The Cephalo Pods are two black triangle pieces on the character's ears that are attached by a black wire which goes behind the character's head. On the side of the right earbud is a small light that matches the wearer's ink color. They are similar in appearance to bone conduction headphones."
+  },
+  {
+    "id": 28,
+    "category": "headgear",
+    "name": "Chaos_Helm",
+    "brand": "amiibo",
+    "price": 0,
+    "ability": "Special_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/7\/7f\/S3_Gear_Headgear_Chaos_Helm.png",
+    "description": "The Chaos Helm is a dented silver helmet with a vibrant red crest similar to the Jetflame Crest and a bronze visor."
+  },
+  {
+    "id": 29,
+    "category": "headgear",
+    "name": "Classic_Bowler",
+    "brand": "Splash_Mob",
+    "price": 3000,
+    "ability": "Run_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/9\/98\/S3_Gear_Headgear_Classic_Bowler.png",
+    "description": "The Classic Bowler is a stark black bowler hat with an old-fashioned look. The trim, in the same colour as the garment itself, holds a golden pin with a thin chain and an ornament resembling a jellyfish."
+  },
+  {
+    "id": 30,
+    "category": "headgear",
+    "name": "Classic_Straw_Boater",
+    "brand": "Skalop",
+    "price": 1500,
+    "ability": "Special_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/1\/10\/S3_Gear_Headgear_Classic_Straw_Boater.png",
+    "description": "The Classic Straw Boater is a flat-brimmed, flat-topped straw hat in a very dark gray. Its band changes color to match that of the wearer's ink and has a polka dot pattern in a slightly lighter color. On the left side of the band is a small bow, and on the right is a tiny Skalop logo. When worn by a female the hat is at a slight angle, but on a male it is worn straight."
+  },
+  {
+    "id": 31,
+    "category": "headgear",
+    "name": "Commander_Cap",
+    "brand": "Grizzco",
+    "price": 0,
+    "ability": "Random",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/b\/bb\/S3_Gear_Headgear_Commander_Cap.png",
+    "description": "The Commander Cap comes with a random primary ability that can also appear as secondary abilities, which prevents the wearer from having Comeback, Last-Ditch Effort, Opening Gambit, or Tenacity as they are exclusive to Headgear and cannot appear as secondary abilities. This primary ability is assigned randomly when the item is received. The Commander Cap may appear as a 0-star item with one additional slot for secondary abilities, a 1-star item with two additional slots for secondary abilities, or a 2-star item with three additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star.  Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333\u2026% up to 10% additional experience at 5-star level. Since\nit is made by the Grizzco brand, it has equal chances to roll any secondary ability."
+  },
+  {
+    "id": 32,
+    "category": "headgear",
+    "name": "Crust_Bucket_Visor",
+    "brand": "SquidForce",
+    "price": 1200,
+    "ability": "Quick_Super_Jump",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/c\/c5\/S3_Gear_Headgear_Crust_Bucket_Visor.png",
+    "description": ""
+  },
+  {
+    "id": 33,
+    "category": "headgear",
+    "name": "Cycle_King_Cap",
+    "brand": "Tentatek",
+    "price": 2400,
+    "ability": "Sub_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/0\/06\/S3_Gear_Headgear_Cycle_King_Cap.png",
+    "description": "The Cycle King Cap is a short-brimmed hat that changes color to match that of the wearer's ink. It has a thick dark stripe down the middle with the trademark \"squideye\" of the Tentatek logo on it in white, as well as sections of light-colored polka dots on either side. On the brim, which is the same dark color as the stripe, the Inkling text from the Tentatek logo is printed, also in white. Next to the text is a circular design which appears to be a black fish on an orange background. On the back of the cap, in the middle of the stripe, the text from the Tentatek logo is repeated in white. Next to it, on the section of polka dots, a pair of tiny black fish (or possibly airplanes) can be seen. These fish are easily overlooked due to their small size and placement."
+  },
+  {
+    "id": 34,
+    "category": "headgear",
+    "name": "Cycling_Cap",
+    "brand": "Zink",
+    "price": 800,
+    "ability": "Sub_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/a\/a1\/S3_Gear_Headgear_Cycling_Cap.png",
+    "description": "The Cycling Cap is a short-brimmed hat that is primarily dark blue. It has a thick stripe down the middle and a small crown-like symbol next to it that both change color to match that of the wearer's ink. On the left side is the text from the Zink logo in white as well as on the underside of the brim, which is flipped up."
+  },
+  {
+    "id": 35,
+    "category": "headgear",
+    "name": "Deep_Sinker_Helm",
+    "brand": "Grizzco",
+    "price": 0,
+    "ability": "Random",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/0\/0c\/S3_Gear_Headgear_Deep_Sinker_Helm.png",
+    "description": "The Deep Sinker Helm is a deep-sea diving helmet with a viewport on front and a cross-braced viewport on each side. The top has a closed hook. The helmet changes color to match the user's ink color."
+  },
+  {
+    "id": 36,
+    "category": "headgear",
+    "name": "Designer_Headphones",
+    "brand": "Forge",
+    "price": 2500,
+    "ability": "Ink_Saver_(Sub)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/d\/d8\/S3_Gear_Headgear_Designer_Headphones.png",
+    "description": "The Designer Headphones are a pair of very stylish headphones. The sides and top are the same color as the wearer's ink, but fade to a yellow-orange at the front regardless of ink color. On both earpieces is a circular design that also changes color based on ink, but not to match - it is generally a complementary color or close to it."
+  },
+  {
+    "id": 37,
+    "category": "headgear",
+    "name": "Do-Rag,_Cap_&_Glasses",
+    "brand": "Skalop",
+    "price": 9500,
+    "ability": "Intensify_Action",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/9\/99\/S3_Gear_Headgear_Do-Rag%2C_Cap_%26_Glasses.png",
+    "description": "The Do-Rag, Cap, & Glasses are a white baseball cap worn backwards and at a slight angle over a do-rag bandanna that changes color to match that of the wearer's ink, accompanied by black sunglasses. The front side of the cap has a white Skalop logo on the bottom right corner, and the back side has a gold and black Skalop colored sticker on the bill of the Cap, and an stitched logo on the crown of the Cap which closely resembles the Nintendo Logo."
+  },
+  {
+    "id": 38,
+    "category": "headgear",
+    "name": "Double_Egg_Shades",
+    "brand": "Zekko",
+    "price": 2200,
+    "ability": "Run_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/3\/3d\/S3_Gear_Headgear_Double_Egg_Shades.png",
+    "description": "The Double Egg Shades are a pair of black sunglasses with large opaque lenses outlined in a bright white. The frames have Zekko's name in slightly embossed Inkling letters on the wearer's left side."
+  },
+  {
+    "id": 39,
+    "category": "headgear",
+    "name": "Dust_Blocker_2000",
+    "brand": "Grizzco",
+    "price": 0,
+    "ability": "Sub_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/0\/06\/S3_Gear_Headgear_Dust_Blocker_2000.png",
+    "description": "The Dust Blocker 2000 is a white dust mask with straps that change colors depending on the wearer's ink, but not necessarily to match. There is an exhale valve on the mask's left side."
+  },
+  {
+    "id": 40,
+    "category": "headgear",
+    "name": "Dustcloud_Cap",
+    "brand": "Z+F",
+    "price": 7800,
+    "ability": "Run_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/3\/33\/S3_Gear_Headgear_Dustcloud_Cap.png",
+    "description": "The Dustcloud Cap is a mesh cap with the Dustcloud pattern design. The front panels, along with a button on the top, are covered with the pattern. A large dirty white Z+F writing is also printed on the upper front. The rest of the cap consists of a dark mesh with a Z+F label sewn on the back, next to an adhesive strap."
+  },
+  {
+    "id": 41,
+    "category": "headgear",
+    "name": "Dustcloud_'Phones",
+    "brand": "Z+F",
+    "price": 2500,
+    "ability": "Ink_Recovery_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/0\/07\/S3_Gear_Headgear_Dustcloud_%27Phones.png",
+    "description": "The Dustcloud 'Phones are headphones similar to the Designer Headphones with the Dustcloud pattern."
+  },
+  {
+    "id": 42,
+    "category": "headgear",
+    "name": "Enchanted_Hat",
+    "brand": "amiibo",
+    "price": 0,
+    "ability": "Ink_Saver_(Main)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/4\/4e\/S3_Gear_Headgear_Enchanted_Hat.png",
+    "description": "The Enchanted Hat is a black witch's hat. The inside and tip of the hat change color to match the wearer's ink."
+  },
+  {
+    "id": 43,
+    "category": "headgear",
+    "name": "Face_Visor",
+    "brand": "Toni_Kensa",
+    "price": 10300,
+    "ability": "Sub_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/5\/59\/S3_Gear_Headgear_Face_Visor.png",
+    "description": "The Face Visor is a black-tinted visor that covers the entire top-half of the wearer's face. The band attached to the visor stretches around most of the head and bears a Toni Kensa logo on the left side."
+  },
+  {
+    "id": 44,
+    "category": "headgear",
+    "name": "Fake_Contacts",
+    "brand": "Tentatek",
+    "price": 2000,
+    "ability": "Special_Charge_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/4\/4b\/S3_Gear_Headgear_Fake_Contacts.png",
+    "description": "The Fake Contacts lack any visible model when worn, effectively making them the bareheaded option while still having headgear ability slots."
+  },
+  {
+    "id": 45,
+    "category": "headgear",
+    "name": "Firefin_Facemask",
+    "brand": "Firefin",
+    "price": 650,
+    "ability": "Run_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/8\/89\/S3_Gear_Headgear_Firefin_Facemask.png",
+    "description": "The Firefin Facemask is a face mask with part of the Firefin logo visible on it. The straps that connect to the ears are black."
+  },
+  {
+    "id": 46,
+    "category": "headgear",
+    "name": "FishFry_Biscuit_Bandana",
+    "brand": "Firefin",
+    "price": 1250,
+    "ability": "Special_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/f\/f3\/S3_Gear_Headgear_FishFry_Biscuit_Bandana.png",
+    "description": "The FishFry Biscuit Bandana is a bandana with a paisley-like design that incorporates elements of the Firefin logo. The bandana's color is an inverted version of the wearer's ink color or a variation of it. The bandana is wrapped around the wearer's head and knotted at the front."
+  },
+  {
+    "id": 47,
+    "category": "headgear",
+    "name": "FishFry_Visor",
+    "brand": "Firefin",
+    "price": 500,
+    "ability": "Special_Charge_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/5\/51\/S3_Gear_Headgear_FishFry_Visor.png",
+    "description": "The FishFry Visor a somewhat large visor with a thick dark gray band. It is decorated with the Firefin logo on the left side towards the front, with a small symbol next to it. The brim, Firefin logo, small symbol, and a section of the band in the back all change color to match that of the wearer's ink, though they do not always match it exactly."
+  },
+  {
+    "id": 48,
+    "category": "headgear",
+    "name": "Five-Alarm_Helmet",
+    "brand": "Grizzco",
+    "price": 0,
+    "ability": "Random",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/b\/b5\/S3_Gear_Headgear_Five-Alarm_Helmet.png",
+    "description": "The Five-Alarm Helmet is a firefighter helmet that changes with the player's ink color. It features a wide brim that extends longer in the back, ridges descending from the crown, and a black chinstrap. On the forehead is some Inkling language text. Between the ridges are reflective yellow safety patches."
+  },
+  {
+    "id": 49,
+    "category": "headgear",
+    "name": "Five-Panel_Cap",
+    "brand": "Zekko",
+    "price": 1800,
+    "ability": "Comeback",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/4\/43\/S3_Gear_Headgear_Five-Panel_Cap.png",
+    "description": "The Five-Panel Cap is a baseball cap that, aside from a thick black stripe down the center, changes color depending on that of the wearer's Ink (though not to match it exactly), with the brim being slightly darker. On the front, in the middle of the black stripe, there is a tiny version of the Zekko logo, and on both sides of the cap is a fairly small gray button."
+  },
+  {
+    "id": 50,
+    "category": "headgear",
+    "name": "Forge_Mask",
+    "brand": "Forge",
+    "price": 1400,
+    "ability": "Intensify_Action",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/7\/75\/S3_Gear_Headgear_Forge_Mask.png",
+    "description": "The Forge Mask is a mask that covers the wearers face from the nose down. It changes color to a darker shade of the wearer's ink. Forge's name is printed across the front in large white Inkling letters. The interior of the mask is dark gray and there is a series of small holes over the wearer's nose and mouth."
+  },
+  {
+    "id": 51,
+    "category": "headgear",
+    "name": "Fresh_Fish_Head",
+    "brand": "amiibo",
+    "price": 0,
+    "ability": "Comeback",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/3\/32\/S3_Gear_Headgear_Fresh_Fish_Head.png",
+    "description": "The Fresh Fish Head is a cartoon fish mascot mask, based off the Fresh Fish. The fins of the head match the wearer's ink color."
+  },
+  {
+    "id": 52,
+    "category": "headgear",
+    "name": "Full-Moon_Glasses",
+    "brand": "Krak-On",
+    "price": 600,
+    "ability": "Quick_Super_Jump",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/3\/37\/S3_Gear_Headgear_Full-Moon_Glasses.png",
+    "description": "The Full Moon Glasses are a pair of round glasses with light tortoiseshell frames; the only non-tortoiseshell parts are its gray hinges. The glasses sit rather low on the face, with the bottom part of the lenses almost in line with the wearer's mouth."
+  },
+  {
+    "id": 53,
+    "category": "headgear",
+    "name": "Gas_Mask",
+    "brand": "Forge",
+    "price": 11000,
+    "ability": "Tenacity",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/a\/a7\/S3_Gear_Headgear_Gas_Mask.png",
+    "description": "The Gas Mask is a full-face black mask with a series of straps securing it to the wearer's head. Both the lenses and a thin stripe on the front filter change to match the color of the wearer's Ink, and unlike most modern military-grade gas masks, it has two side filters instead of one."
+  },
+  {
+    "id": 54,
+    "category": "headgear",
+    "name": "Glam_Clam_Specs",
+    "brand": "Splash_Mob",
+    "price": 10000,
+    "ability": "Special_Saver",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/5\/5a\/S3_Gear_Headgear_Glam_Clam_Specs.png",
+    "description": ""
+  },
+  {
+    "id": 55,
+    "category": "headgear",
+    "name": "Glassless_Glasses",
+    "brand": "Toni_Kensa",
+    "price": 11000,
+    "ability": "Quick_Respawn",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/6\/63\/S3_Gear_Headgear_Glassless_Glasses.png",
+    "description": "The Glassless Glasses are a metallic wire shaped like glasses. On the left side is a tag with the Toni Kensa logo."
+  },
+  {
+    "id": 56,
+    "category": "headgear",
+    "name": "Golf_Visor",
+    "brand": "Zink",
+    "price": 400,
+    "ability": "Run_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/5\/5b\/S3_Gear_Headgear_Golf_Visor.png",
+    "description": "The Golf Visor is a visor worn at an angle with the Inkling text from the Zink logo on the front in black. Attached to the right-hand side of the brim is a small emblem with a squid-like symbol in red, white, and black, similar to the one seen in Goby Arena. Though the visor does change color, it is only loosely based on that of the wearer's ink."
+  },
+  {
+    "id": 57,
+    "category": "headgear",
+    "name": "Half-Rim_Glasses",
+    "brand": "Splash_Mob",
+    "price": 4100,
+    "ability": "Special_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/d\/d8\/S3_Gear_Headgear_Half-Rim_Glasses.png",
+    "description": "The Half-Rim Glasses are a pair of eyeglasses with thick frames. Its color changes to a darker shade of the wearer's ink. On the inside of the temples, the Splash Mob logo can be seen in white text."
+  },
+  {
+    "id": 58,
+    "category": "headgear",
+    "name": "Hat-Trick_Bell_Hat",
+    "brand": "Z+F",
+    "price": 9333,
+    "ability": "Ink_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/4\/46\/S3_Gear_Headgear_Hat-Trick_Bell_Hat.png",
+    "description": "The Hat-Trick Bell Hat is a trio of Blowfish Bell Hats stacked on top of each other. The bottom hat is black, the middle hat changes color to match the player's ink color, and the top hat is white with a Z+F logo on it."
+  },
+  {
+    "id": 59,
+    "category": "headgear",
+    "name": "Headlamp_Helmet",
+    "brand": "Grizzco",
+    "price": 0,
+    "ability": "Special_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/6\/64\/S3_Gear_Headgear_Headlamp_Helmet.png",
+    "description": "The Headlamp Helmet resembles a coal miner's helmet, with a headlamp attached to a hard hat via a black strap. The helmet changes color to correspond with the player's ink color and is adorned with various logos."
+  },
+  {
+    "id": 60,
+    "category": "headgear",
+    "name": "Hero_Headset_Replica",
+    "brand": "Cuttlegear",
+    "price": 0,
+    "ability": "Run_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/c\/c2\/S3_Gear_Headgear_Hero_Headset_Replica.png",
+    "description": "The Hero Headset Replica is a form-fitting headset originally worn as part of the Hero Suit in Octo Valley. It consists of a pair of earpieces with large pointed shapes jutting out to the sides connected by two thin bars that curve around the back of the head. The shapes on the earpieces are flat triangles, despite appearing conical from the front. The headset is mostly black with small sections of lime green on the earpieces, which also have glowing blue lights."
+  },
+  {
+    "id": 61,
+    "category": "headgear",
+    "name": "Hero_Mindset_Replica",
+    "brand": "Cuttlegear",
+    "price": 0,
+    "ability": "Sub_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/1\/10\/S3_Gear_Headgear_Hero_Mindset_Replica.png",
+    "description": "The Hero Mindset Replica is a replica of the headset worn by Agent 3 in Return of the Mammalians as part of the fully-upgraded Hero Suit. The lights change based on the wearer's ink color."
+  },
+  {
+    "id": 62,
+    "category": "headgear",
+    "name": "Hickory_Work_Cap",
+    "brand": "Krak-On",
+    "price": 8700,
+    "ability": "Special_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/c\/c2\/S3_Gear_Headgear_Hickory_Work_Cap.png",
+    "description": "The Hickory Work Cap is a soft, short-billed hat with pinstripes in white and in a darker, duller shade of the wearer's ink. On the front is a white square containing the  Krak-On logo."
+  },
+  {
+    "id": 63,
+    "category": "headgear",
+    "name": "Hipster_Horn-Rims",
+    "brand": "Splash_Mob",
+    "price": 11200,
+    "ability": "Sub_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/7\/75\/S3_Gear_Headgear_Hipster_Horn-Rims.png",
+    "description": ""
+  },
+  {
+    "id": 64,
+    "category": "headgear",
+    "name": "Hockey_Helmet",
+    "brand": "Forge",
+    "price": 9900,
+    "ability": "Intensify_Action",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/b\/b1\/S3_Gear_Headgear_Hockey_Helmet.png",
+    "description": "The Hockey Helmet is a hockey helmet that changes color to almost match the wearer's ink. It has a tinted plastic shield over the eyes. On the forehead is the Forge name in white lettering. Various decals adorn the helmet."
+  },
+  {
+    "id": 65,
+    "category": "headgear",
+    "name": "Home-Team_Catcher",
+    "brand": "Forge",
+    "price": 1960,
+    "ability": "Ink_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/d\/da\/S3_Gear_Headgear_Home-Team_Catcher.png",
+    "description": "The Home-Team Catcher is a catcher's mask, which's design is based on masks made in the 20th century. It features two face pads, which change colour to match the wearer's ink and covered with a metal faceguard attached to the front via numerous straps. The bottom pad is covered with stickers resembling numbers. The head strap is black with white accents and has a red sports label on it's back."
+  },
+  {
+    "id": 66,
+    "category": "headgear",
+    "name": "House-Tag_Denim_Cap",
+    "brand": "Splash_Mob",
+    "price": 5200,
+    "ability": "Special_Charge_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/0\/00\/S3_Gear_Headgear_House-Tag_Denim_Cap.png",
+    "description": "The House-Tag Denim Cap is a denim cap lined with yellow thread along the outside of the visor and along the edges of the cap. It changes color with the player's ink. A brown label and a  Splash Mob logo are also included on the left side of the cap."
+  },
+  {
+    "id": 67,
+    "category": "headgear",
+    "name": "Howdy_Hat",
+    "brand": "Rockenberg",
+    "price": 13000,
+    "ability": "Sub_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/5\/5a\/S3_Gear_Headgear_Howdy_Hat.png",
+    "description": "The Howdy Hat is a cowboy hat that changes its appearance to match the wearer's ink color. It has a brown, leather belt around the center with bright blue gems on it."
+  },
+  {
+    "id": 68,
+    "category": "headgear",
+    "name": "Ink-Black_Flap_Cap",
+    "brand": "Barazushi",
+    "price": 11200,
+    "ability": "Special_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/9\/9d\/S3_Gear_Headgear_Ink-Black_Flap_Cap.png",
+    "description": "The Ink-Black Flap Cap is a black aviator hat with a minimalistic design. It consists of a visor sewn to the front panel. The panel is ornamented with Barazushi handwriting. A pair of flaps on the sides are adorned with a white Barazushi logo with text underneath that face the same direction on both sides. Two buttons are on their top corners. The cap also possesses a tiny black toggle with an adjuster resembling a a squid, with a string loop beneath it."
+  },
+  {
+    "id": 69,
+    "category": "headgear",
+    "name": "Ink-Tinted_Goggles",
+    "brand": "Emberz",
+    "price": 10500,
+    "ability": "Swim_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/6\/6f\/S3_Gear_Headgear_Ink-Tinted_Goggles.png",
+    "description": ""
+  },
+  {
+    "id": 70,
+    "category": "headgear",
+    "name": "Invisifloats",
+    "brand": "Inkline",
+    "price": 2780,
+    "ability": "Comeback",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/b\/ba\/S3_Gear_Headgear_Invisifloats.png",
+    "description": "The Invisifloats are a pair of climbing glasses with a material headband for assecuration. The headband changes with the wearer's ink, but does not match the color. The lenses are perfectly clear and fitted into a transparent frame with white, semi-transparent temples. The headband has an Inkline logo sewn on its back."
+  },
+  {
+    "id": 71,
+    "category": "headgear",
+    "name": "Jean_Dream_Bucket",
+    "brand": "Splash_Mob",
+    "price": 2100,
+    "ability": "Ink_Recovery_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/5\/5e\/S3_Gear_Headgear_Jean_Dream_Bucket.png",
+    "description": "The Jean Dream Bucket is a denim bucket hat. Made of a washed fabric and covered in stitches, it changes colour to a lighter version of the wearer's ink. The hat's rear is covered in a faded white stencil print. A dark brown Splash Mob label is visible on the dented brim."
+  },
+  {
+    "id": 72,
+    "category": "headgear",
+    "name": "Jellyvader_Cap",
+    "brand": "Skalop",
+    "price": 10000,
+    "ability": "Ink_Saver_(Sub)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/2\/2a\/S3_Gear_Headgear_Jellyvader_Cap.png",
+    "description": "The Jellyvader Cap is a black leather flat-bill cap. On the front are two light blue, pixelated jellyfish, which change color to match the player's current ink color, along with the Skalop logo embroidered on the back. A white sticker of the logo is placed under the bill."
+  },
+  {
+    "id": 73,
+    "category": "headgear",
+    "name": "Jet_Cap",
+    "brand": "Firefin",
+    "price": 700,
+    "ability": "Special_Saver",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/4\/4e\/S3_Gear_Headgear_Jet_Cap.png",
+    "description": "The Jet Cap is a patchwork baseball cap with a white brim and front patch. The patterned patches of the cap changes color to fit the wearer's ink. From left to right, a FishFry silhouette in a uneven pattern, plain, pale \"X\" pattern, and a half of Firefin text logo conspicuously visible, and the brim features grey Inkling numerals that resembles the number 2014. The hat is worn at a slightly crooked angle. Finished with a dark grey strapping closure."
+  },
+  {
+    "id": 74,
+    "category": "headgear",
+    "name": "Jogging_Headband",
+    "brand": "Zekko",
+    "price": 400,
+    "ability": "Ink_Saver_(Sub)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/0\/02\/S3_Gear_Headgear_Jogging_Headband.png",
+    "description": "The Jogging Headband is a white headband with two thin stripes on the top and bottom that change color based on that of the wearer's ink, though it is unknown whether they are meant to match. Repeated several times around the length of the headband is the Inkling text from the Zekko logo printed in black."
+  },
+  {
+    "id": 75,
+    "category": "headgear",
+    "name": "Jungle_Hat",
+    "brand": "Firefin",
+    "price": 9000,
+    "ability": "Ink_Saver_(Main)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/1\/15\/S3_Gear_Headgear_Jungle_Hat.png",
+    "description": "The Jungle Hat is a floppy wide-brimmed, Boonie hat, completely covered in a camouflage pattern that changes color to match that of the wearer's Ink, with the band being slightly duller."
+  },
+  {
+    "id": 76,
+    "category": "headgear",
+    "name": "Knitted_Hat",
+    "brand": "Firefin",
+    "price": 1400,
+    "ability": "Ink_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/a\/a2\/S3_Gear_Headgear_Knitted_Hat.png",
+    "description": "The Knitted Hat is a solid-colored knit cap. It changes color to match the wearer's ink. Along the front is the Firefin name in white lettering and on the left side is a metal Firefin logo."
+  },
+  {
+    "id": 77,
+    "category": "headgear",
+    "name": "Lightweight_Cap",
+    "brand": "Inkline",
+    "price": 800,
+    "ability": "Swim_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/f\/fa\/S3_Gear_Headgear_Lightweight_Cap.png",
+    "description": "The Lightweight Cap is a simple, smooth cap that changes color to match that of the wearer's Ink. It is made from ripstop fabric and has a ventilation eyelet on both sides."
+  },
+  {
+    "id": 78,
+    "category": "headgear",
+    "name": "Lo-Vis_Visor",
+    "brand": "Grizzco",
+    "price": 0,
+    "ability": "Random",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/4\/43\/S3_Gear_Headgear_Lo-Vis_Visor.png",
+    "description": "The Lo-Vis Visor resembles a pair of visor sunglasses made of metal. This pair of shades are not worn over the eyes, but on the player's forehead instead."
+  },
+  {
+    "id": 79,
+    "category": "headgear",
+    "name": "Marinated_Headphones",
+    "brand": "amiibo",
+    "price": 0,
+    "ability": "Special_Saver",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/5\/5d\/S3_Gear_Headgear_Marinated_Headphones.png",
+    "description": "The Marinated Headphones are replicas of the headphones and bandana Marina wears during the Octo Expansion, although the bandana is worn under the headphones, unlike how Marina wears them. The color of the glowing portions of the headphones changes to match the wearer's ink."
+  },
+  {
+    "id": 80,
+    "category": "headgear",
+    "name": "Moto_Shades",
+    "brand": "Barazushi",
+    "price": 10200,
+    "ability": "Last-Ditch_Effort",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/9\/9b\/S3_Gear_Headgear_Moto_Shades.png",
+    "description": "The Moto Shades are a pair of motorcycle glasses with cherry tinted shades and black frame. Six screws can be seen around the hinges and the temples are curved to accomodate the wearer's ears."
+  },
+  {
+    "id": 81,
+    "category": "headgear",
+    "name": "MTB_Helmet",
+    "brand": "Zekko",
+    "price": 10500,
+    "ability": "Tenacity",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/8\/8f\/S3_Gear_Headgear_MTB_Helmet.png",
+    "description": "The MTB Helmet is a multicolored motocross helmet. It has a blotchy design of white, yellow, red and the color of the player's ink. It presents various decals and  Zekko branding."
+  },
+  {
+    "id": 82,
+    "category": "headgear",
+    "name": "Noise_Cancelers",
+    "brand": "Forge",
+    "price": 9200,
+    "ability": "Quick_Respawn",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/3\/31\/S3_Gear_Headgear_Noise_Cancelers.png",
+    "description": "The Noise Cancelers are a pair of circumaural headphones. They feature large black pads to fully cover the wearer's ears, a silver bar arch that goes over the head, and black wires near the pads. Also near the pads are two covers that change color to match the user's Ink."
+  },
+  {
+    "id": 83,
+    "category": "headgear",
+    "name": "Ocho_OctoPhones",
+    "brand": "Forge",
+    "price": 3000,
+    "ability": "Opening_Gambit",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/b\/b6\/S3_Gear_Headgear_Ocho_OctoPhones.png",
+    "description": "The Ocho Octophones are a pair of red headphones with a structure resembling the number 8 connecting their housing to the headband. The housing feautures a printed Forge logo. The hinges and ear cups are gold, while cushions and drivers are black."
+  },
+  {
+    "id": 84,
+    "category": "headgear",
+    "name": "Ocho_OctoPhones_Blancos",
+    "brand": "Forge",
+    "price": 3000,
+    "ability": "Ink_Saver_(Main)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/1\/1d\/S3_Gear_Headgear_Ocho_OctoPhones_Blancos.png",
+    "description": "The Ocho OctoPhones Blancos are a pair of white headphones with a structure resembling the number 8 connecting their housing to the headband. The housing features a printed Forge logo. The hinges and ear cups are gold, while cushions and drivers are black."
+  },
+  {
+    "id": 85,
+    "category": "headgear",
+    "name": "Octoglasses",
+    "brand": "Firefin",
+    "price": 8800,
+    "ability": "Last-Ditch_Effort",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/8\/86\/S3_Gear_Headgear_Octoglasses.png",
+    "description": "The Octoglasses are a pair of red sunglasses that are worn by resting on the forehead of the player. The glasses are a shade of deep red with two gold circles to mimic an octopus' suckers. The lenses are transparent, and are tinted a dark color."
+  },
+  {
+    "id": 86,
+    "category": "headgear",
+    "name": "Octoking_Facemask",
+    "brand": "Enperry",
+    "price": 1450,
+    "ability": "Tenacity",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/0\/06\/S3_Gear_Headgear_Octoking_Facemask.png",
+    "description": "The Octoking Facemask is a black facemask with a red star-and-stripes logo printed over the mouth."
+  },
+  {
+    "id": 87,
+    "category": "headgear",
+    "name": "Octo_Tackle_Helmet_Deco",
+    "brand": "Forge",
+    "price": 8888,
+    "ability": "Sub_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/1\/12\/S3_Gear_Headgear_Octo_Tackle_Helmet_Deco.png",
+    "description": "The Octo Tackle Helmet Deco is a black football helmet. It has three stripes running along the top, one in the middle is white, and two colored stripes that change color to match that of the wearer's ink. On the left side is a logo of a stylized octopus (presumably of a football team named \"Octo Tackle\") that matches the wearer's ink."
+  },
+  {
+    "id": 88,
+    "category": "headgear",
+    "name": "Paintball_Mask",
+    "brand": "Forge",
+    "price": 10000,
+    "ability": "Comeback",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/4\/4e\/S3_Gear_Headgear_Paintball_Mask.png",
+    "description": "The Paintball mask is a full-face paintball mask with a cap-like visor and a clear lens protecting the wearer's eyes. The mask is primarily light gray, covered in angular patterns which end in arrows, and secured to the wearer's head by two crossed straps. These straps, as well as the pattern on the mask itself, have two colors: black, and the wearer's Ink color. On the forehead portion of the mask is a small stamp of the Splatoon version of the Forge logo."
+  },
+  {
+    "id": 89,
+    "category": "headgear",
+    "name": "Painter's_Mask",
+    "brand": "SquidForce",
+    "price": 4500,
+    "ability": "Intensify_Action",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/4\/46\/S3_Gear_Headgear_Painter%27s_Mask.png",
+    "description": "The Painter's Mask is a dual-filter respirator. It is held onto the head with an elastic band that changes color to one similar to the opposing team's ink. The filters are yellow."
+  },
+  {
+    "id": 90,
+    "category": "headgear",
+    "name": "Paisley_Bandana",
+    "brand": "Krak-On",
+    "price": 750,
+    "ability": "Ink_Saver_(Sub)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/f\/fc\/S3_Gear_Headgear_Paisley_Bandana.png",
+    "description": "The Paisley Bandana is a large bandana that changes color to match that of the wearer's Ink and covers their face from the nose down. The upper half is patterned with rows of small vertical lines that alternate between white and a darker version of the wearer's Ink, and the lower half has a paisley design, similarly colored. The bandana is tied in a knot on the back of the head, where its patterning remains the same."
+  },
+  {
+    "id": 91,
+    "category": "headgear",
+    "name": "Party_Hard_Hat",
+    "brand": "Forge",
+    "price": 12000,
+    "ability": "Quick_Super_Jump",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/0\/03\/S3_Gear_Headgear_Party_Hard_Hat.png",
+    "description": "The Party Hard Hat is a Viking helmet in the style that is typically portrayed in popular culture, though it is not historically accurate. The helmet is silver with a golden trim. The horns are black with the left one glued with a tape sticked in a slapdash manner. On the helmet, various stickers are placed, many display the Squidforce logo. Below the horns are two dirty-orange squid shaped banners. The helmet comes with a pair of glasses with tinted lens and are colored relating to the player's ink color."
+  },
+  {
+    "id": 92,
+    "category": "headgear",
+    "name": "Pearlescent_Crown_L",
+    "brand": "amiibo",
+    "price": 0,
+    "ability": "Sub_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/b\/be\/S3_Gear_Headgear_Pearlescent_Crown_L.png",
+    "description": "The Pearlescent Crown looks like a replica to the crown Pearl wears during the Octo Expansion. The crown is gold with mauve and blue jewels on it."
+  },
+  {
+    "id": 93,
+    "category": "headgear",
+    "name": "Pearlescent_Crown_S",
+    "brand": "amiibo",
+    "price": 0,
+    "ability": "Sub_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/3\/3c\/S3_Gear_Headgear_Pearlescent_Crown_S.png",
+    "description": "The Pearlescent Crown looks like a replica to the crown Pearl wears during the Octo Expansion. The crown is gold with mauve and blue jewels on it."
+  },
+  {
+    "id": 94,
+    "category": "headgear",
+    "name": "Pilot_Goggles",
+    "brand": "Forge",
+    "price": 5500,
+    "ability": "Sub_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/f\/f0\/S3_Gear_Headgear_Pilot_Goggles.png",
+    "description": "The Pilot Goggles are a large pair of shiny metal goggles with a dark brown strap. They have clear lenses and a ring of small holes around each lens. They are worn on the forehead, rather than over the eyes."
+  },
+  {
+    "id": 95,
+    "category": "headgear",
+    "name": "Power_Mask_Mk_I",
+    "brand": "amiibo",
+    "price": 0,
+    "ability": "Ink_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/0\/09\/S3_Gear_Headgear_Power_Mask_Mk_I.png",
+    "description": "The Power Mask Mk I is a highly reflective full helmet. The forehead and eyes of the helmet are an arrow-shaped light that matches the current ink color."
+  },
+  {
+    "id": 96,
+    "category": "headgear",
+    "name": "Power_Mask",
+    "brand": "amiibo",
+    "price": 0,
+    "ability": "Sub_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/6\/68\/S3_Gear_Headgear_Power_Mask.png",
+    "description": "The Power Mask is a large, bulky helmet. It has a main section made of shiny black metal that is about as wide as the wearer's shoulders. Curving around the back and sides is a light gray piece with darker gray spots toward the bottom. In the place of eyes, there is a bright strip of light that changes color to match that of the wearer's Ink, with larger shapes on both ends that give the impression of eyes on the sides of the wearer's head. Over the nose and mouth are three thick tubes, each with a pattern in black as well as the wearer's Ink color. These tubes, the \"eyes\" on the sides of the head, and the roughly triangular shape of the helmet itself give it a squid-like appearance."
+  },
+  {
+    "id": 97,
+    "category": "headgear",
+    "name": "Retro_BluFocals",
+    "brand": "Emberz",
+    "price": 11700,
+    "ability": "Intensify_Action",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/9\/90\/S3_Gear_Headgear_Retro_BluFocals.png",
+    "description": "The Retro BluFocals are round glasses with tinted lenses. The frame is gold with black temple tips. The lenses are two colors, with the top being the wearer's ink color. They slowly transition to a light blue on the bottom."
+  },
+  {
+    "id": 98,
+    "category": "headgear",
+    "name": "Retro_Framers",
+    "brand": "Enperry",
+    "price": 9900,
+    "ability": "Opening_Gambit",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/d\/df\/S3_Gear_Headgear_Retro_Framers.png",
+    "description": "The Retro Framers are a pair of black glasses with jagged rims, giving the illusion that they were pixelated. An Enperry logo text can be seen on the left temple. Both temples change color to match the user's ink."
+  },
+  {
+    "id": 99,
+    "category": "headgear",
+    "name": "Retro_Specs",
+    "brand": "Splash_Mob",
+    "price": 500,
+    "ability": "Quick_Respawn",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/2\/22\/S3_Gear_Headgear_Retro_Specs.png",
+    "description": "The Retro Specs are a pair of black, square-shaped glasses with thick rims. On the frames are small sections that change color to match the wearer's ink. While they appear to not have lenses, as they do not seem to reflect light in an obvious manner, they do have them."
+  },
+  {
+    "id": 100,
+    "category": "headgear",
+    "name": "Safari_Hat",
+    "brand": "Forge",
+    "price": 2300,
+    "ability": "Last-Ditch_Effort",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/6\/67\/S3_Gear_Headgear_Safari_Hat.png",
+    "description": "The Safari Hat is a floppy, wide brimmed hat that changes color based on that of the wearer's ink, with the band being considerably lighter than the rest of the hat's dull shade. On the top of the hat is a brown design with a red lobster in the middle, hence the Japanese name \"Lobster Boonie\". It also has a thin black string securing it to the wearer's head."
+  },
+  {
+    "id": 101,
+    "category": "headgear",
+    "name": "Samurai_Helmet",
+    "brand": "amiibo",
+    "price": 0,
+    "ability": "Quick_Super_Jump",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/4\/4a\/S3_Gear_Headgear_Samurai_Helmet.png",
+    "description": "The Samurai Helmet is a large helmet wider than the wearer's shoulders, in the style of kabuto. It has a shiny gold crest on the front in the shape of a stylized squid and a thick cord tied in a bow at the chin. It also has two large, curved, wing-like shapes, one on both sides of the head. The cord as well as the back and sides of the helmet change color to match that of the wearer's ink."
+  },
+  {
+    "id": 102,
+    "category": "headgear",
+    "name": "Scrum_Cap",
+    "brand": "Forge",
+    "price": 8500,
+    "ability": "Special_Saver",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/5\/54\/S3_Gear_Headgear_Scrum_Cap.png",
+    "description": "The Scrum Cap is a plain rugby helmet completely covered with horizontally placed tabs, which change colour to match the wearer's ink. The helm features foam intersections in the middle, along the vent holes and the front pad. The rear also features a split sewn with stitches. A black chin strap is attached to the bottom edges. The front possesses a black symmetrical tab with a Forge logo, sandwiched between the intersections."
+  },
+  {
+    "id": 103,
+    "category": "headgear",
+    "name": "Sea-Me-Nots",
+    "brand": "Z+F",
+    "price": 11000,
+    "ability": "Quick_Respawn",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/6\/65\/S3_Gear_Headgear_Sea-Me-Nots.png",
+    "description": "The Sea-Me-Nots are a pair of thick, oval sunglasses with the lenses tinted black, resembling Bisk's sunglasses. The Z+F logo is written in gold text on the left temple. The color of the frames change to be a complementary color to the wearer's current ink color."
+  },
+  {
+    "id": 104,
+    "category": "headgear",
+    "name": "Seafoam_Cap",
+    "brand": "Z+F",
+    "price": 7800,
+    "ability": "Swim_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/e\/ef\/S3_Gear_Headgear_Seafoam_Cap.png",
+    "description": "The Seafoam Cap is a mesh cap with the Seafoam pattern design. The front panels, along with a button on the top, are covered with the pattern. A large dirty white Z+F writing is also printed on the upper front. The rest of the cap consists of a dark mesh with a Z+F label sewn on the back, next to an adhesive strap."
+  },
+  {
+    "id": 105,
+    "category": "headgear",
+    "name": "Seafoam_'Phones",
+    "brand": "Z+F",
+    "price": 9000,
+    "ability": "Ink_Saver_(Main)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/2\/27\/S3_Gear_Headgear_Seafoam_%27Phones.png",
+    "description": "The Seafoam 'Phones are headphones similar to the Designer Headphones with the Seafoam pattern, which are worn over a beanie that changes to match the wearer's current ink color."
+  },
+  {
+    "id": 106,
+    "category": "headgear",
+    "name": "Seashell_Bamboo_Hat",
+    "brand": "Inkline",
+    "price": 3200,
+    "ability": "Quick_Respawn",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/9\/99\/S3_Gear_Headgear_Seashell_Bamboo_Hat.png",
+    "description": "The Seashell Bamboo Hat is a simple conical hat that changes color to match that of the wearer's ink. The hat is covered in a pattern that resembles large, black and white mussel and oyster shells. On the front is the Inkline logo. Around the chin is a black rope with a gray fastener in the shape of a stylized squid."
+  },
+  {
+    "id": 107,
+    "category": "headgear",
+    "name": "See-an-Enemy_HUD",
+    "brand": "Grizzco",
+    "price": 0,
+    "ability": "Random",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/0\/0b\/S3_Gear_Headgear_See-an-Enemy_HUD.png",
+    "description": "The See-an-Enemy HUD is a visor paired with headphones. The lens changes to match the complementary color of the wearer's ink. The visor flashes with different images, with a target."
+  },
+  {
+    "id": 108,
+    "category": "headgear",
+    "name": "Short_Beanie",
+    "brand": "Inkline",
+    "price": 600,
+    "ability": "Ink_Saver_(Main)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/5\/57\/S3_Gear_Headgear_Short_Beanie.png",
+    "description": "The Short Beanie is a simple knit hat that changes color to look similar to the wearer's Ink color. On the front towards the right side, it has a black label with the Inkline logo in white."
+  },
+  {
+    "id": 109,
+    "category": "headgear",
+    "name": "Skate_Helmet",
+    "brand": "Skalop",
+    "price": 2500,
+    "ability": "Special_Saver",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/1\/11\/S3_Gear_Headgear_Skate_Helmet.png",
+    "description": "The Skate Helmet is a round helmet with several square holes in the top. Its main color changes to match that of the wearer's ink, and the edge is black. The helmet has many adornments, including a large Skalop logo sticker, a black signature, a tiny white bumper sticker of octopus oil Corp., a white Inkling word inside a white rectangle, two parallel white stripes and a school of squids printed in. Buckled under the chin is a black strap securing it to the wearer's head."
+  },
+  {
+    "id": 110,
+    "category": "headgear",
+    "name": "Skull_Bandana",
+    "brand": "Forge",
+    "price": 7800,
+    "ability": "Special_Saver",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/c\/cc\/S3_Gear_Headgear_Skull_Bandana.png",
+    "description": "The Skull Bandana is a large, dark gray bandana covering the wearer's face from the nose down. On the front is the lower half of a stylized skull with fangs similar to those of an Inkling, and below it, printed very small, is the Inkling text from the Forge logo in white. The bandana is tied in a knot on the back of the head, with some white patterns on and around the knot."
+  },
+  {
+    "id": 111,
+    "category": "headgear",
+    "name": "Snorkel_Mask",
+    "brand": "Forge",
+    "price": 3000,
+    "ability": "Ink_Saver_(Sub)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/7\/75\/S3_Gear_Headgear_Snorkel_Mask.png",
+    "description": "The Snorkel Mask is a pair of neon wearer's matching ink color swim goggles with a yellow snorkel on the wearer's left side. It has two black straps in the back to keep it in place, and another black strap attaching the snorkel to the goggles. Despite it looking fully functional, it is just for show, as Inklings cannot swim in water in the first place."
+  },
+  {
+    "id": 112,
+    "category": "headgear",
+    "name": "Soccer_Headband",
+    "brand": "Tentatek",
+    "price": 3000,
+    "ability": "Tenacity",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/4\/4e\/S3_Gear_Headgear_Soccer_Headband.png",
+    "description": "The Soccer Headband is a thin athletic headband loosely based on the wearer's Ink color. Tentatek's name in Inkling text is repeated around the length of the band, punctuated by the \"squideye\" of the Tentatek logo, both white. The headband is cinched in the back with a black fastener also in the \"squideye\" shape."
+  },
+  {
+    "id": 113,
+    "category": "headgear",
+    "name": "Special-Forces_Beret",
+    "brand": "Forge",
+    "price": 9700,
+    "ability": "Opening_Gambit",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/7\/7d\/S3_Gear_Headgear_Special-Forces_Beret.png",
+    "description": "The Special-Forces Beret is a military-style beret pushed to the right. It changes color to match that of the wearer's ink, with the exception of the band, the strings in the back, and the flash. The band is black and slightly shiny; the strings, which are quite short, are also black; and the flash, a circular emblem with a fish skeleton and a simplified Splat Charger, is a metallic gray. On the back is the Inkling text from the Forge logo in black."
+  },
+  {
+    "id": 114,
+    "category": "headgear",
+    "name": "Splash_Goggles",
+    "brand": "Forge",
+    "price": 2800,
+    "ability": "Sub_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/b\/b0\/S3_Gear_Headgear_Splash_Goggles.png",
+    "description": "The Splash Goggles are a pair of heavy-duty swim goggles secured by a black and white elastic band. The front part of the goggles changes color to match that of the wearer's Ink. Despite looking fully functional, they are just for show, as Inklings cannot swim in water in the first place."
+  },
+  {
+    "id": 115,
+    "category": "headgear",
+    "name": "Sporty_Bobble_Hat",
+    "brand": "Skalop",
+    "price": 800,
+    "ability": "Tenacity",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/0\/0a\/S3_Gear_Headgear_Sporty_Bobble_Hat.png",
+    "description": "The Sporty Bobble Hat is a soft black knit cap with a black and white yarn pom-pom on top. Halfway up is a thick stripe that changes color to match that of the wearer's ink, with the Inkling text from the Skalop logo in black repeated several times around it. The thick stripe is between two thin white stripes, one below and one above. On the front of the hat, towards the bottom, is a small patch with the full Skalop logo on it."
+  },
+  {
+    "id": 116,
+    "category": "headgear",
+    "name": "Squash_Headband",
+    "brand": "Zink",
+    "price": 400,
+    "ability": "Special_Saver",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/6\/6a\/S3_Gear_Headgear_Squash_Headband.png",
+    "description": "The Squash Headband is a basketball headband that changes color depending on that of the wearer's Ink, though it often does not quite match. It has large white Inkling letters on the front half that match the text in the Zink logo."
+  },
+  {
+    "id": 117,
+    "category": "headgear",
+    "name": "Squid_Clip-Ons",
+    "brand": "amiibo",
+    "price": 0,
+    "ability": "Opening_Gambit",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/4\/42\/S3_Gear_Headgear_Squid_Clip-Ons.png",
+    "description": "The Squid Clip-Ons are a pair of clip-on earrings worn on the bottom of both ears. The earrings resemble the \"2\" from the logo of Splatoon 2. The front layer of each earring is a bright pink color, while the back layer is a neon green color, both in a shiny texture, with a layer of white in between. The fasteners, which can be seen from the back, are a metallic gray."
+  },
+  {
+    "id": 118,
+    "category": "headgear",
+    "name": "Squid_Facemask",
+    "brand": "SquidForce",
+    "price": 300,
+    "ability": "Ink_Saver_(Main)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/7\/7d\/S3_Gear_Headgear_Squid_Facemask.png",
+    "description": "The Squid Facemask is a black cloth mask that covers the wearer's nose and mouth and hooks over the ears. It is patterned with many small Regular Battle logos in white and bright yellow."
+  },
+  {
+    "id": 119,
+    "category": "headgear",
+    "name": "Squid_Hairclip",
+    "brand": "amiibo",
+    "price": 0,
+    "ability": "Swim_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/9\/95\/S3_Gear_Headgear_Squid_Hairclip.png",
+    "description": "The Squid Hairclip is a hairclip of the \"S\" from the Splatoon logo on it with a pair of cartoon eyes from the same logo at the top. How it is worn depends on the wearer's hairstyle."
+  },
+  {
+    "id": 120,
+    "category": "headgear",
+    "name": "Squid_Nordic",
+    "brand": "Skalop",
+    "price": 9500,
+    "ability": "Comeback",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/6\/6c\/S3_Gear_Headgear_Squid_Nordic.png",
+    "description": "The Squid Nordic is a large bobble hat with ear flaps and a zigzag pattern halfway up, worn with a pair of ski goggles. These goggles' lenses, which are always a semi-transparent blue-violet, are the only part of the hat that does not change color to match that of the wearer's Ink; the main portion, pattern and bobble all do. The rims and band of the goggles also change color, though the former do not always match exactly. On the lower left side the of the goggles' lenses and around the length of the band is the Inkling text from the Skalop logo in white."
+  },
+  {
+    "id": 121,
+    "category": "headgear",
+    "name": "Squid-Stitch_Cap",
+    "brand": "Skalop",
+    "price": 8500,
+    "ability": "Opening_Gambit",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/b\/b4\/S3_Gear_Headgear_Squid-Stitch_Cap.png",
+    "description": "The Squid-Stitch Cap is a flat-brimmed cap with a pattern similar to houndstooth that changes color to match that of the wearer's ink. On top of the brim is a somewhat large sticker with Skalop's logo in black and gold. The hat is worn at a slight angle, and on the back is a small version of the Skalop logo in black and white."
+  },
+  {
+    "id": 122,
+    "category": "headgear",
+    "name": "Squidband",
+    "brand": "Zink",
+    "price": 400,
+    "ability": "Quick_Respawn",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/6\/62\/S3_Gear_Headgear_Squidband.png",
+    "description": "The Squidband is a white table tennis headband decorated with a zebra stripe pattern, which changes colour based on the wearer's ink. The band posseses slightly wrinkled seams placed vertically and in a fixed distance from each other, along with a little Zink label."
+  },
+  {
+    "id": 123,
+    "category": "headgear",
+    "name": "Squidbeak_Shield",
+    "brand": "Toni_Kensa",
+    "price": 4000,
+    "ability": "Sub_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/7\/78\/S3_Gear_Headgear_Squidbeak_Shield.png",
+    "description": "The Squidbeak Shield is a transparent face visor. The shield is crimson and rectangular with rounded edges. The frame and supports are pitch black and accompanied by a pair of dirty white cords. A small Toni Kensa badge is attached to the right button on the frame."
+  },
+  {
+    "id": 124,
+    "category": "headgear",
+    "name": "Squidlife_Headphones",
+    "brand": "Forge",
+    "price": 7070,
+    "ability": "Ink_Recovery_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/0\/01\/S3_Gear_Headgear_Squidlife_Headphones.png",
+    "description": "The Squidlife Headphones are a pair of headphones with small orange speakers attached. Said speakers don't completely cover the wearer's ears like some of the other headphones, but instead fold them backward and pin them against the side of the head. The headphones themselves are made out of grey metal strips and have black clips connecting the strips to one another."
+  },
+  {
+    "id": 125,
+    "category": "headgear",
+    "name": "Squidvader_Cap",
+    "brand": "Skalop",
+    "price": 1300,
+    "ability": "Special_Charge_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/c\/c7\/S3_Gear_Headgear_Squidvader_Cap.png",
+    "description": "The Squidvader Cap is a dark-colored cap with a flat brim and a brightly colored, pixelated squid on the front similar to those from Space Invaders, hence the name. On the brim is a sticker with the Skalop logo in black and white. The whole hat changes color to match that of the wearer's Ink and is worn at a slight angle."
+  },
+  {
+    "id": 126,
+    "category": "headgear",
+    "name": "Squinja_Mask_Mk_I",
+    "brand": "amiibo",
+    "price": 0,
+    "ability": "Quick_Respawn",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/2\/23\/S3_Gear_Headgear_Squinja_Mask_Mk_I.png",
+    "description": "The Squinja Mask is an all-black shozoku headpiece with a metallic eye guard. The color of the eye guard changes to match the wearer's ink."
+  },
+  {
+    "id": 127,
+    "category": "headgear",
+    "name": "Squinja_Mask_Mk_II",
+    "brand": "amiibo",
+    "price": 0,
+    "ability": "Quick_Respawn",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/e\/e8\/S3_Gear_Headgear_Squinja_Mask_Mk_II.png",
+    "description": "The Squinja Mask is an all-black shozoku headpiece with a metallic eye guard. The color of the eye guard changes to match the wearer's ink."
+  },
+  {
+    "id": 128,
+    "category": "headgear",
+    "name": "Stay_Crusty_Cap",
+    "brand": "SquidForce",
+    "price": 0,
+    "ability": "Sub_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/4\/4d\/S3_Gear_Headgear_Stay_Crusty_Cap.png",
+    "description": ""
+  },
+  {
+    "id": 129,
+    "category": "headgear",
+    "name": "Stealth_Goggles",
+    "brand": "Forge",
+    "price": 9800,
+    "ability": "Swim_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/b\/ba\/S3_Gear_Headgear_Stealth_Goggles.png",
+    "description": "The Stealth Goggles are a pair of night-vision goggles which consist of a front-mounted black dual scope with green lenses in front of a pair of goggles with a single orange lens and olive-colored rims. They are worn with a modern military helmet with a subtle camouflage pattern that changes to match the color of the wearer's Ink and a dark brown chinstrap keeping it in place. On the back of the helmet are three subtle marks that somewhat resemble a face with closed eyes."
+  },
+  {
+    "id": 130,
+    "category": "headgear",
+    "name": "Stealth_Squidbeak_Shield",
+    "brand": "Toni_Kensa",
+    "price": 4400,
+    "ability": "Ink_Saver_(Sub)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/c\/ca\/S3_Gear_Headgear_Stealth_Squidbeak_Shield.png",
+    "description": "The Stealth Squidbeak Shield is a transparent face visor. The shield is black and rectangular with rounded edges. It's also covered in a singular white row of Toni Kensa pattern. The frame is dark grey. The cords are crimson and accompanied by a pair of black supports. A small Toni Kensa badge is attached to the right button on the frame."
+  },
+  {
+    "id": 131,
+    "category": "headgear",
+    "name": "Steel_Helm",
+    "brand": "amiibo",
+    "price": 0,
+    "ability": "Special_Charge_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/f\/f7\/S3_Gear_Headgear_Steel_Helm.png",
+    "description": "The Steel Helm is a steel medieval knight's helmet. It comes complete with a mouth guard and a pair of fins on its top. There are some swirl designs just above the gap for the wearer's eyes and a strip going in between the two fins that matches the player's ink color."
+  },
+  {
+    "id": 132,
+    "category": "headgear",
+    "name": "Straw_Boater",
+    "brand": "Skalop",
+    "price": 550,
+    "ability": "Quick_Super_Jump",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/2\/2e\/S3_Gear_Headgear_Straw_Boater.png",
+    "description": "The Straw Boater is a flat-brimmed, flat-topped straw hat. Its band changes color to match that of the wearer's Ink, with the top and bottom edges being considerably darker. On the left side of the band is a small bow, and on the right is a tiny Skalop logo. When worn by a female the hat is at a slight angle, but on a male it is worn straight."
+  },
+  {
+    "id": 133,
+    "category": "headgear",
+    "name": "Streetstyle_Cap",
+    "brand": "Skalop",
+    "price": 600,
+    "ability": "Ink_Saver_(Sub)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/8\/89\/S3_Gear_Headgear_Streetstyle_Cap.png",
+    "description": "The Streetstyle Cap is a flat-brimmed hat that changes color to match that of the wearer's ink. Stylized Inkling letters resembling the Express logo are printed on the front in white, and a black and gold sticker with Skalop's logo can be seen on the left side of the brim. On the back is a small version of the Skalop logo in white."
+  },
+  {
+    "id": 134,
+    "category": "headgear",
+    "name": "Striped_Beanie",
+    "brand": "Splash_Mob",
+    "price": 900,
+    "ability": "Opening_Gambit",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/b\/bb\/S3_Gear_Headgear_Striped_Beanie.png",
+    "description": "The Striped Beanie is a simple knit hat that changes color based on that of the wearer's Ink, with four horizontal white stripes."
+  },
+  {
+    "id": 135,
+    "category": "headgear",
+    "name": "Studio_Headphones",
+    "brand": "Forge",
+    "price": 2800,
+    "ability": "Ink_Saver_(Main)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/4\/4b\/S3_Gear_Headgear_Studio_Headphones.png",
+    "description": "The Studio Headphones are a pair of bulky grey headphones. They feature large dull-gray ear cups with circles of air vents and black cushions. A light gray stylised squid is painted on the middle of each ear cup. A thick padded band connects both pieces with a thin black bar arching over it, splitting itself on separate ends."
+  },
+  {
+    "id": 136,
+    "category": "headgear",
+    "name": "Sun_Visor",
+    "brand": "Tentatek",
+    "price": 2600,
+    "ability": "Sub_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/3\/3c\/S3_Gear_Headgear_Sun_Visor.png",
+    "description": "The Sun Visor is a simple, translucent visor. The brim changes color based on that of the wearer's Ink, but the band and edges of the brim are always white. On the end of the brim is a small white Tentatek logo, and on the left side of the band is a tiny pink tag."
+  },
+  {
+    "id": 137,
+    "category": "headgear",
+    "name": "Sushi_Sous-Chef_Band",
+    "brand": "amiibo",
+    "price": 0,
+    "ability": "Ink_Saver_(Sub)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/9\/90\/S3_Gear_Headgear_Sushi_Sous-Chef_Band.png",
+    "description": ""
+  },
+  {
+    "id": 138,
+    "category": "headgear",
+    "name": "SV925_Circle_Shades",
+    "brand": "Rockenberg",
+    "price": 11000,
+    "ability": "Swim_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/8\/85\/S3_Gear_Headgear_SV925_Circle_Shades.png",
+    "description": "The SV925 Circle Shades are a pair of circular, gray-rimmed sunglasses with a Rockenberg logo on the left lens."
+  },
+  {
+    "id": 139,
+    "category": "headgear",
+    "name": "Swim_Goggles",
+    "brand": "Zink",
+    "price": 100,
+    "ability": "Last-Ditch_Effort",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/e\/ec\/S3_Gear_Headgear_Swim_Goggles.png",
+    "description": "The Swim Goggles are blue swimming goggles with light blue lenses and a black head strap. On one side of the goggles, next to the right eyepiece, is the Zink logo in white. In the same spot on the left side, is some Inkling text. On the nosepiece is the text from the Zink logo, also in white."
+  },
+  {
+    "id": 140,
+    "category": "headgear",
+    "name": "Takoroka_Mesh",
+    "brand": "Takoroka",
+    "price": 400,
+    "ability": "Sub_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/f\/f3\/S3_Gear_Headgear_Takoroka_Mesh.png",
+    "description": "The Takoroka Mesh is a baseball cap with a mesh back and white front. The brim and mesh change color to match that of the wearer's ink. On the front is Takoroka's logo in black."
+  },
+  {
+    "id": 141,
+    "category": "headgear",
+    "name": "Takoroka_Visor",
+    "brand": "Takoroka",
+    "price": 7500,
+    "ability": "Quick_Super_Jump",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/c\/c3\/S3_Gear_Headgear_Takoroka_Visor.png",
+    "description": "The Takoroka Visor is a black tennis visior worn backwards. On the bill is a pink stitched Takoroka logo, and on the back is a brown leather strap."
+  },
+  {
+    "id": 142,
+    "category": "headgear",
+    "name": "Teddy_Band",
+    "brand": "Cuttlegear",
+    "price": 0,
+    "ability": "Comeback",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/e\/e0\/S3_Gear_Headgear_Teddy_Band.png",
+    "description": ""
+  },
+  {
+    "id": 143,
+    "category": "headgear",
+    "name": "Tennis_Headband",
+    "brand": "Tentatek",
+    "price": 300,
+    "ability": "Comeback",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/b\/b8\/S3_Gear_Headgear_Tennis_Headband.png",
+    "description": "The Tennis Headband is a simple black headband. Towards the front on the left side, the Tentatek logo is printed in pink and white without the Inkling text that is normally below it. On the other side of the headband, directly across from the logo, there is a small pink tag with white text."
+  },
+  {
+    "id": 144,
+    "category": "headgear",
+    "name": "Tentaclinger_Earring",
+    "brand": "Toni_Kensa",
+    "price": 12800,
+    "ability": "Quick_Super_Jump",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/2\/2e\/S3_Gear_Headgear_Tentaclinger_Earring.png",
+    "description": "The Tentaclinger Earring is an ornamental piercing designed after tentacles, worn on the left ear. A black curled tentacle rests on the top, accompanied by a smaller silver piece below."
+  },
+  {
+    "id": 145,
+    "category": "headgear",
+    "name": "Tinted_Shades",
+    "brand": "Zekko",
+    "price": 350,
+    "ability": "Last-Ditch_Effort",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/7\/75\/S3_Gear_Headgear_Tinted_Shades.png",
+    "description": "The Tinted Shades are a pair of sunglasses with black frames. The rims are somewhat round and have tiny metal studs towards the hinges. The sides and lenses change color to match that of the wearer's ink. On the left side is the Inkling text from the Zekko logo in white. The Tinted Shades are completely mirrored and opaque from the outside. When viewed from behind, the glasses will appear to have no lenses."
+  },
+  {
+    "id": 146,
+    "category": "headgear",
+    "name": "Toni_Kensa_Goggles",
+    "brand": "Toni_Kensa",
+    "price": 200,
+    "ability": "Comeback",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/b\/b6\/S3_Gear_Headgear_Toni_Kensa_Goggles.png",
+    "description": "The Toni Kensa Goggles are black swimming goggles with dark lenses and a white headstrap. They have a similar design to the Swim Goggles."
+  },
+  {
+    "id": 147,
+    "category": "headgear",
+    "name": "Treasure_Hunter",
+    "brand": "Forge",
+    "price": 3000,
+    "ability": "Ink_Recovery_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/1\/1e\/S3_Gear_Headgear_Treasure_Hunter.png",
+    "description": "The Treasure Hunter is a pith helmet that changes color to match that of the wearer's Ink. It is generally a dull, dark color with the band is slightly lighter. On the left side of the band is a small Forge logo in white, and the thin leather strap across the front has a buckle in the shape of a stylized squid."
+  },
+  {
+    "id": 148,
+    "category": "headgear",
+    "name": "Triple-Deck_Specs",
+    "brand": "Enperry",
+    "price": 11300,
+    "ability": "Sub_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/1\/1f\/S3_Gear_Headgear_Triple-Deck_Specs.png",
+    "description": "The Triple-Deck Specs consist of three separate pairs of glasses of different styles: the uppermost pair has square lenses, has a tortoiseshell pattern and is larger than the rest. The middle pair is rounded and has a single lens that stretches across both sides and is wider at the center. The bottom pair is similar to the middle pair, except the frame is thicker and the lens narrows at the center. The bottom pair is the pair the goes over the wearers eyes, the other two simply rest on the players forehead."
+  },
+  {
+    "id": 149,
+    "category": "headgear",
+    "name": "Tulip_Parasol",
+    "brand": "Inkline",
+    "price": 1280,
+    "ability": "Ink_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/c\/c8\/S3_Gear_Headgear_Tulip_Parasol.png",
+    "description": "The Tulip Parasol is a floppy, bell-shaped hat with panels in black, white, and the color of the player's ink. The stitching along the brim of the hat matches the player's ink as well. On the front is a small black label with an Inkline logo in white."
+  },
+  {
+    "id": 150,
+    "category": "headgear",
+    "name": "Two-Stripe_Mesh",
+    "brand": "Krak-On",
+    "price": 700,
+    "ability": "Special_Saver",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/c\/cc\/S3_Gear_Headgear_Two-Stripe_Mesh.png",
+    "description": "The Two-Stripe Mesh is a baseball cap with a mesh back and solid front, as well as two horizontal lines around the back. The brim, front, and lower of the two lines change color to match that of the wearer's ink, with the upper line always being dark gray. On the front is the Krak-On logo in black and yellow next to some black Inkling text on a white background. At the back of the cap is a white adjustable strap."
+  },
+  {
+    "id": 151,
+    "category": "headgear",
+    "name": "Urchins_Cap",
+    "brand": "Skalop",
+    "price": 600,
+    "ability": "Sub_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/d\/d0\/S3_Gear_Headgear_Urchins_Cap.png",
+    "description": "The Urchins Cap is a black cap with a flat brim and a white Inkling symbol on the front. On top of the brim is a shiny black and gold sticker with the Skalop logo and on the back of the cap is a rectangular patch with a squid-like emblem in white, black, and red. Both the brim and the border around the Inkling symbol change to match the color of the wearer's ink. The hat is worn at a slight angle."
+  },
+  {
+    "id": 152,
+    "category": "headgear",
+    "name": "Visor_Skate_Helmet",
+    "brand": "Skalop",
+    "price": 8000,
+    "ability": "Last-Ditch_Effort",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/9\/9e\/S3_Gear_Headgear_Visor_Skate_Helmet.png",
+    "description": "The Visor Skate Helmet is a round helmet with a short brim and several square-shaped holes in the top. Its main color changes to match that of the wearer's ink, and the edge and brim are black. The helmet has many adornments, including the Inkling text from the Skalop logo on the brim, a tiny Neo logo on the front, and, for some reason, the Inkling text from the SquidForce logo on the left side. Buckled under the chin is a strap changes color depending on that of the wearer's ink, but not to match."
+  },
+  {
+    "id": 153,
+    "category": "headgear",
+    "name": "Wharfside_Cap",
+    "brand": "Skalop",
+    "price": 5000,
+    "ability": "Tenacity",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/a\/af\/S3_Gear_Headgear_Wharfside_Cap.png",
+    "description": "The Wharfside Cap is a docker cap which changes color according to the player's current Ink color. It features numerous, vertical seams and a small button on the top. It's left side features a black Skalop label."
+  },
+  {
+    "id": 154,
+    "category": "headgear",
+    "name": "White_Arrowbands",
+    "brand": "Zekko",
+    "price": 8000,
+    "ability": "Special_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/c\/c3\/S3_Gear_Headgear_White_Arrowbands.png",
+    "description": "The White Arrowbands are a pair of glasses with white frames. The rims are somewhat round and have tiny metal studs towards the hinges. They are secured by a thick strap in the back that changes color to match that of the wearer's ink. On the left side is the Inkling text from the Zekko logo, also in the wearer's ink color."
+  },
+  {
+    "id": 155,
+    "category": "headgear",
+    "name": "White_Headband",
+    "brand": "SquidForce",
+    "price": 300,
+    "ability": "Ink_Recovery_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/0\/00\/S3_Gear_Headgear_White_Headband.png",
+    "description": "The White Headband is white with a thick gray stripe through the middle, ending in an arrow on one end and three short \"tentacles\" on the other. On the front towards the wearer's left side is Squidforce's name in white Inkling text. In between the start and end of the gray stripe is a small, bright pink tag with Squidforce's name again in white."
+  },
+  {
+    "id": 156,
+    "category": "headgear",
+    "name": "Winkle_Stripe_Helm",
+    "brand": "Skalop",
+    "price": 9000,
+    "ability": "Sub_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/2\/2e\/S3_Gear_Headgear_Winkle_Stripe_Helm.png",
+    "description": ""
+  },
+  {
+    "id": 157,
+    "category": "headgear",
+    "name": "Woolly_Urchins_Classic",
+    "brand": "Krak-On",
+    "price": 3800,
+    "ability": "Comeback",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/f\/f3\/S3_Gear_Headgear_Woolly_Urchins_Classic.png",
+    "description": "The Woolly Urchins Classic is a black cap with an Inkling symbol on the front. The underside of the brim of the cap changes color to match the wearer's ink. On the back of the cap in the bottom left is what appears to be inkling text, or some sort of graffiti."
+  },
+  {
+    "id": 158,
+    "category": "headgear",
+    "name": "Z+F_Flair_Bowler",
+    "brand": "Z+F",
+    "price": 9800,
+    "ability": "Special_Charge_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/a\/a6\/S3_Gear_Headgear_Z%2BF_Flair_Bowler.png",
+    "description": "The Z+F Flair Bowler is a richly ornamented bowler hat with it's colour matching the wearer's ink. The crown is adorned with a black bandana neatly wrapped around it, showing white paisley-esque patterns. The front-left side of the crown also possesses a few clutterly placed pins, including a Z+F writing and a ZedFry."
+  },
+  {
+    "id": 159,
+    "category": "headgear",
+    "name": "ZedFry_Beanie",
+    "brand": "Z+F",
+    "price": 1111,
+    "ability": "Quick_Super_Jump",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/0\/07\/S3_Gear_Headgear_ZedFry_Beanie.png",
+    "description": "The ZedFry Beanie is a knitted hat that symbolizes the Z+F mascot, ZedFry. The hat color changes with the player's ink."
+  },
+  {
+    "id": 160,
+    "category": "headgear",
+    "name": "ZedFry_Helmet",
+    "brand": "Z+F",
+    "price": 8000,
+    "ability": "Last-Ditch_Effort",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/4\/44\/S3_Gear_Headgear_ZedFry_Helmet.png",
+    "description": "The ZedFry Helmet is a round helmet resembling the Skate Helmet, with the primary differences being a racing stripe along the middle of the helmet and designs on the sides featuring Z+F's mascot along with many blue and black stars. Its main color changes to match the wearer's current ink color, while the colors of the designs adorning it remain the same."
+  },
+  {
+    "id": 161,
+    "category": "headgear",
+    "name": "Zekko_Mesh",
+    "brand": "Zekko",
+    "price": 500,
+    "ability": "Quick_Super_Jump",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/c\/ce\/S3_Gear_Headgear_Zekko_Mesh.png",
+    "description": "The Zekko Mesh is a baseball cap with a mesh back and white front. The brim and mesh change color to match that of the wearer's Ink, and on the front the Zekko logo."
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "category": "shoes",
+    "name": "Acerola_Rain_Boots",
+    "brand": "Inkline",
+    "price": "600",
+    "ability": "Run_Speed_Up",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/7/7d/S3_Gear_Shoes_Acerola_Rain_Boots.png",
+    "description": "The Acerola Rain Boots are red rain boots with a red strap on the top. The Inkline logo on two tags, one patch of black and white on the top and one magenta patch near the heel. The boot soles are cyan-colored."
+  },
+  {
+    "id": 27,
+    "category": "shoes",
+    "name": "Bubble_Rain_Boots",
+    "brand": "Inkline",
+    "price": "450",
+    "ability": "Drop_Roller",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/c/ca/S3_Gear_Shoes_Bubble_Rain_Boots.png",
+    "description": "The Bubble Rain Boots are a pair of white rubber boots that come halfway up the wearer's shins, covered in a polka dot pattern in dark blue, medium blue, and a bright cyan. The medium blue is also used for the soles and a thick stripe around the top. On the front is a tiny black Inkline logo on a white label."
+  },
+  {
+    "id": 35,
+    "category": "shoes",
+    "name": "Custom_Trail_Boots",
+    "brand": "Inkline",
+    "price": "3000",
+    "ability": "Special_Power_Up",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/3/38/S3_Gear_Shoes_Custom_Trail_Boots.png",
+    "description": "The Custom Trail Boots are hot pink hiking boots with dull pink squares on the sides and bright pink laces. On the tongue is what appears to be very small Inkling text in pink on a red label. They have black soles, the Inkline logo on small label above the heel, and bright green socks that poke over the top of the boot."
+  },
+  {
+    "id": 50,
+    "category": "shoes",
+    "name": "Green_Rain_Boots",
+    "brand": "Inkline",
+    "price": "1600",
+    "ability": "Stealth_Jump",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/e/e8/S3_Gear_Shoes_Green_Rain_Boots.png",
+    "description": "The Green Rain Boots are a pair of dull green rubber boots that come up to just below the wearer's knee. They have a strap around the back and a tiny Inkline logo in black on a white label on the front. The soles are thick and bright orange, a sharp contrast to the rest of the boot."
+  },
+  {
+    "id": 64,
+    "category": "shoes",
+    "name": "Luminous_Delta_Straps",
+    "brand": "Inkline",
+    "price": "5000",
+    "ability": "Intensify_Action",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/b/b8/S3_Gear_Shoes_Luminous_Delta_Straps.png",
+    "description": "The Luminous Delta Straps are a pair of black sandals with the straps meeting in a triangle shape. The sandals come with neon yellow socks that have white stripes."
+  },
+  {
+    "id": 71,
+    "category": "shoes",
+    "name": "Neon_Delta_Straps",
+    "brand": "Inkline",
+    "price": "4800",
+    "ability": "Sub_Power_Up",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/3/3e/S3_Gear_Shoes_Neon_Delta_Straps.png",
+    "description": "The Snow Delta Straps are black strap on sandals, with dark gray on the inside of the straps and on the tongue. There is also gray along the sides of each strap. On top of each strap is a wavy pattern of bright pink, blue, and the dark gray from the soles. The soles of the shoes appear to be thick rubber, and imprinted with a sharp wave pattern. On the main strap by the heel there is a blue and pink tag."
+  },
+  {
+    "id": 85,
+    "category": "shoes",
+    "name": "Pro_Trail_Boots",
+    "brand": "Inkline",
+    "price": "9800",
+    "ability": "Ink_Resistance_Up",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/a/ad/S3_Gear_Shoes_Pro_Trail_Boots.png",
+    "description": "The Pro Trail Boots are black and dark gray hiking boots with lighter grey squares on the sides and sky blue laces. On the tongue is what appears to be very small Inkling text in yellow-green. The soles are black and feature a yellow arrow pattern, with the Inkline logo seen on small tag above the heel. The boots come with dark brown socks that just poke over the top."
+  },
+  {
+    "id": 111,
+    "category": "shoes",
+    "name": "Snow_Delta_Straps",
+    "brand": "Inkline",
+    "price": "8800",
+    "ability": "Swim_Speed_Up",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/4/4b/S3_Gear_Shoes_Snow_Delta_Straps.png",
+    "description": "The Snow Delta Straps are white strap-on sandals, with gray on the inside of the straps and on the tongue. There is also gray along the sides of each strap. The sole of the shoes appear to be thick rubber, and imprinted with a sharp wave pattern. On the main strap by the heel, there is a red tag with the Inkline logo on it."
+  },
+  {
+    "id": 120,
+    "category": "shoes",
+    "name": "Sunny_Climbing_Shoes",
+    "brand": "Inkline",
+    "price": "3200",
+    "ability": "Special_Saver",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/a/a0/S3_Gear_Shoes_Sunny_Climbing_Shoes.png",
+    "description": "The Sunny Climbing Shoes are predominantly gray climbing shoes. The back of the heel and the toe are yellow. On the heel is some red lettering."
+  },
+  {
+    "id": 125,
+    "category": "shoes",
+    "name": "Trail_Boots",
+    "brand": "Inkline",
+    "price": "7500",
+    "ability": "Ink_Recovery_Up",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/8/8d/S3_Gear_Shoes_Trail_Boots.png",
+    "description": "The Trail Boots are brown and burnt orange hiking boots with tan squares on the sides, small sections of bright orange, and dark teal laces. On the tongue is what appears to be very small Inkling text in orange and violet. They have black soles and come with dark green socks that just poke over the top."
+  }
+]

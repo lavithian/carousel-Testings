@@ -1,0 +1,2262 @@
+[
+  {
+    "id": 1,
+    "category": "clothing",
+    "name": "Airflow_&_Hustle_Jacket",
+    "brand": "Forge",
+    "price": "11300",
+    "ability": "Intensify_Action",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/9\/9c\/S3_Gear_Clothing_Airflow_%26_Hustle_Jacket.png",
+    "description": "The Airflow & Hustle Jacket is a thick, white jacket, with built-in ventilation via two mini-fans on the back. Its sleeves end just after the user's shoulder and have black padding on the back."
+  },
+  {
+    "id": 2,
+    "category": "clothing",
+    "name": "Aloha_Shirt",
+    "brand": "Forge",
+    "price": "700",
+    "ability": "Ink_Recovery_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/5\/55\/S3_Gear_Clothing_Aloha_Shirt.png",
+    "description": "The Aloha Shirt is a short-sleeved collared aloha shirt. It is mainly light blue, and patterned in white plumeria (fragipani) and squid hula-dancers (hence its Japanese name), vertically and by sides of the shirt and sleeves. It has brown buttons that go left over right."
+  },
+  {
+    "id": 3,
+    "category": "clothing",
+    "name": "Anchor_Life_Vest",
+    "brand": "Grizzco",
+    "price": "0",
+    "ability": "Quick_Respawn",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/5\/5d\/S3_Gear_Clothing_Anchor_Life_Vest.png",
+    "description": "The Anchor Life Vest is a predominantly orange life vest. It has a white stripe across the chest, black strap around the middle, and various decals and writing on the front."
+  },
+  {
+    "id": 4,
+    "category": "clothing",
+    "name": "Anchor_Sweat",
+    "brand": "SquidForce",
+    "price": "2800",
+    "ability": "Intensify_Action",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/4\/43\/S3_Gear_Clothing_Anchor_Sweat.png",
+    "description": "The Anchor Sweat is a gray pullover sweatshirt with an anchor design on the front printed in a very light gray. Below the anchor is the Inkling text from SquidForce's logo, and on the back is more Inkling text, also light gray."
+  },
+  {
+    "id": 5,
+    "category": "clothing",
+    "name": "Annaki_Anchored_Coat",
+    "brand": "Annaki",
+    "price": "12000",
+    "ability": "Special_Saver",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/6\/6d\/S3_Gear_Clothing_Annaki_Anchored_Coat.png",
+    "description": "The Annaki Anchored Coat is a red coat with black buttons. A black and red striped buttoned shirt is visible underneath. The shirt's cuffs fold over the cuffs of the coat. On the right side of the front is a pale gold anchor with a chain attached to it. A gold tentacle wraps around the anchor. On the left is an Annaki logo pin and a rectangle pin with text underneath it. A large safety pin is attached to the right sleeve with a charm hooked to it."
+  },
+  {
+    "id": 6,
+    "category": "clothing",
+    "name": "Annaki_Blue_Cuff",
+    "brand": "Annaki",
+    "price": "4800",
+    "ability": "Special_Saver",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/e\/e4\/S3_Gear_Clothing_Annaki_Blue_Cuff.png",
+    "description": "The Annaki Blue Cuff is a sweater with thick red and black stripes. The end of the left sleeve breaks the striped pattern and has a bright blue cuff. There are small snags and holes throughout."
+  },
+  {
+    "id": 7,
+    "category": "clothing",
+    "name": "Annaki_Bracelet_Tee",
+    "brand": "Annaki",
+    "price": "8000",
+    "ability": "Haunt",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/a\/a1\/S3_Gear_Clothing_Annaki_Bracelet_Tee.png",
+    "description": "The Annaki Bracelet Tee is a blue tee with a silver Annaki logo in a messy style on the front and a designer label sewn on the back; along with this, the user also wears bracelets on both arms. The left bracelet is red with metal spikes and tabs. On the right though they are two leather bracelets with metal buckles."
+  },
+  {
+    "id": 8,
+    "category": "clothing",
+    "name": "Annaki_Choker_Tee",
+    "brand": "Annaki",
+    "price": "4000",
+    "ability": "Special_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/b\/bd\/S3_Gear_Clothing_Annaki_Choker_Tee.png",
+    "description": "The Annaki Choker Tee is a red tee with a silver Annaki logo in a messy style on the front and a designer logo sewn on the back; along with this, the user also wears a black leather collar with a silver skull-and-crossbones tag."
+  },
+  {
+    "id": 9,
+    "category": "clothing",
+    "name": "Annaki_Drive_Tee",
+    "brand": "Annaki",
+    "price": "5500",
+    "ability": "Thermal_Ink",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/9\/9f\/S3_Gear_Clothing_Annaki_Drive_Tee.png",
+    "description": "The Annaki Drive Tee is a fitting, white, long-sleeved tee shirt. On the chest has three layer prints; 11 black censor bars in Serif script all-over the place, a stylized, upside-down Annaki logo and the illustration of a octopus-car chauffeur behind it, hence its name and the keyword \"drive\". The shirt has an extra-long tail with a tartan pattern on the interior. Both shoulders have slits in them."
+  },
+  {
+    "id": 10,
+    "category": "clothing",
+    "name": "Annaki_Flannel_Hoodie",
+    "brand": "Annaki",
+    "price": "9999",
+    "ability": "Sub_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/1\/1c\/S3_Gear_Clothing_Annaki_Flannel_Hoodie.png",
+    "description": "The Annaki Flannel Hoodie is a red-and-black fuzzy-tartan patterned button-up hoodie. On the left cuff is a small black tag with the  Annaki logo in white. On the left arm a designer label is sewn. There are several large scratches visible on the hoodie."
+  },
+  {
+    "id": 11,
+    "category": "clothing",
+    "name": "Annaki_Polpo-Pic_Tank",
+    "brand": "Annaki",
+    "price": "6660",
+    "ability": "Run_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/b\/b8\/S3_Gear_Clothing_Annaki_Polpo-Pic_Tank.png",
+    "description": "The Annaki Polpo-Pic Tee is a white tank top accompanied with a metal-studded blue bracelet. On the front of the top is the Annaki logo printed in black, adorned with a green glowing effect and overlaid by a red octopus logo. The name and the appearance make it look as if it was made by cutting the sleeves and collar off of a t-shirt."
+  },
+  {
+    "id": 12,
+    "category": "clothing",
+    "name": "Apex_Sweater",
+    "brand": "Krak-On",
+    "price": "9600",
+    "ability": "Thermal_Ink",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/8\/8e\/S3_Gear_Clothing_Apex_Sweater.png",
+    "description": "The Apex Sweater is a colorful knitted sweater inspired by the 80's hippie culture, most notably the psychedelic design. The knit itself, along with it's collar, cuffs and hem, is black, covered with vibrantly colored stripes of various thickness and design, placed in an asymmetric manner. The most characteristic element is a pair of yellow sharks visible in the middle, with an illusion of being obscured by waves. Between the cuffs and sleeves, pieces resembling petals can be found, sewn in order typical for flowers. A thin seam cuts the collar in unequal halfs."
+  },
+  {
+    "id": 13,
+    "category": "clothing",
+    "name": "Apple_Ringer",
+    "brand": "Zink",
+    "price": "1000",
+    "ability": "Sub_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/3\/37\/S3_Gear_Clothing_Apple_Ringer.png",
+    "description": "The Apple Ringer is a bright red, slim-fit ringer tee with three white bands of ribbed material acting as collar and cuffs. A white Zink logo is printed in the top right corner, along with white writing on the back. On the left side a yellow Zink label is sewn."
+  },
+  {
+    "id": 14,
+    "category": "clothing",
+    "name": "Arctic_Monster_Parka",
+    "brand": "Barazushi",
+    "price": "12000",
+    "ability": "Sub_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/f\/f3\/S3_Gear_Clothing_Arctic_Monster_Parka.png",
+    "description": "The Arctic Monster Parka is a thick gray parka. It possesses two pockets on the front along with a zipper covered by the parka's fabric. It goes all the way to a high collar encircled by a firm hood. A pair of drawstrings are attached to the collar, sticking to the hood's inner sides. A Barazushi label is sewn to the bottom-left front (from the wearer's perspective) and the left arm has a patch resembling a fist."
+  },
+  {
+    "id": 15,
+    "category": "clothing",
+    "name": "Armor_Jacket_Replica",
+    "brand": "Cuttlegear",
+    "price": "0",
+    "ability": "Special_Charge_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/a\/a7\/S3_Gear_Clothing_Armor_Jacket_Replica.png",
+    "description": "The Armor Jacket Replica is a thick down jacket with a large collar, originally worn as actual armor in Octo Valley. It is black on the sleeves and the upper portion, but a vivid green from the armpits down. On the elbows and the left side of the chest are subtle dot patterns that change color to match that of the wearer's ink. There is also a small set of fishing lures hanging from the wearer's waist, the purpose of which is according to The Art of Splatoon, a lure designed to attract the opposite sex."
+  },
+  {
+    "id": 16,
+    "category": "clothing",
+    "name": "Astro_Wear",
+    "brand": "Grizzco",
+    "price": "0",
+    "ability": "Random",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/b\/b0\/S3_Gear_Clothing_Astro_Wear.png",
+    "description": "The Astro Wear is a clothing item resembling an orange and gray pilot's vest, with a metal chest plate and black gloves. On the left wrist is a metal bracelet with various buttons."
+  },
+  {
+    "id": 17,
+    "category": "clothing",
+    "name": "B-ball_Jersey_(Away)",
+    "brand": "Zink",
+    "price": "800",
+    "ability": "Ink_Saver_(Sub)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/f\/f8\/S3_Gear_Clothing_B-ball_Jersey_%28Away%29.png",
+    "description": "The B-ball Jersey (Away) is a white sleeveless basketball jersey. On the front is a logo of a pink basketball above pale blue Inkling letters. On the back is magenta two-digit Inkling numbers. A tiny lime green tag can be seen on the lower left side of the jersey. The jersey also comes with a navy blue band with a Zink logo on it, which is worn on the wearer's right wrist."
+  },
+  {
+    "id": 18,
+    "category": "clothing",
+    "name": "B-ball_Jersey_(Home)",
+    "brand": "Zink",
+    "price": "2300",
+    "ability": "Special_Saver",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/0\/0c\/S3_Gear_Clothing_B-ball_Jersey_%28Home%29.png",
+    "description": "The B-ball Jersey (Home) is a pink basketball jersey worn over a white T-shirt. On the front of the jersey is a logo of a white basketball above pale blue Inkling letters. On the back is purple two-digit Inkling numbers. A tiny lime green tag can be seen on the lower left side of the jersey. The jersey also comes with a blue band with a Zink logo on it, which is worn on the wearer's right wrist."
+  },
+  {
+    "id": 19,
+    "category": "clothing",
+    "name": "Baby-Jelly_Shirt",
+    "brand": "Splash_Mob",
+    "price": "1350",
+    "ability": "Sub_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/3\/33\/S3_Gear_Clothing_Baby-Jelly_Shirt.png",
+    "description": "The Baby-Jelly Shirt is a pale blue long-sleeved button-down shirt. It is patterned with small dark blue jellyfish in a polka-dot pattern, hence the name \"baby-jelly\", and has mustard-colored buttons that go left over right. On the left side of the chest is a small pocket with a tiny pink tag next to it."
+  },
+  {
+    "id": 20,
+    "category": "clothing",
+    "name": "Barazushi_Anorak",
+    "brand": "Barazushi",
+    "price": "5200",
+    "ability": "Special_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/7\/7d\/S3_Gear_Clothing_Barazushi_Anorak.png",
+    "description": "The Barazushi Anorak is a rotten green, technical wear anorak. It features a large, buttoned pocket on it's front, buttoned cuffs and wide collar. The top is held together by a pair of stitches and the drawstrings are asymmetrical. On the left bottom a Barazushi label is sewn and the anorak's back is ornamented with a white Barazushi logo."
+  },
+  {
+    "id": 21,
+    "category": "clothing",
+    "name": "Barazushi_Black_Tee",
+    "brand": "Barazushi",
+    "price": "720",
+    "ability": "Ink_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/1\/10\/S3_Gear_Clothing_Barazushi_Black_Tee.png",
+    "description": "The Barazushi Black Tee is a short-sleeved, black T-shirt with an orange Barazushi logo on the front. An orange designer label is sewn to its right-bottom front of the shirt. The rear's bottom is decorated with a line of coordinates in an angular white font."
+  },
+  {
+    "id": 22,
+    "category": "clothing",
+    "name": "Barazushi_Rice_Tee",
+    "brand": "Barazushi",
+    "price": "720",
+    "ability": "Haunt",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/6\/64\/S3_Gear_Clothing_Barazushi_Rice_Tee.png",
+    "description": "The Barazushi Rice Tee is a short-sleeved, white T-shirt with a black Barazushi sign on the front. An orange designer label is sewn to the right-bottom front of the shirt and the back hosts a small, black Barazushi logo."
+  },
+  {
+    "id": 23,
+    "category": "clothing",
+    "name": "Barazushi_Sakura_Tee",
+    "brand": "Barazushi",
+    "price": "1200",
+    "ability": "Sub_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/0\/03\/S3_Gear_Clothing_Barazushi_Sakura_Tee.png",
+    "description": "The Barazushi Sakura Tee is a short-sleeved, pink T-shirt with a black Barazushi logo on the top right corner. An orange designer label is sewn to the bottom-right of the front and the back is covered with black Barazushi handwriting."
+  },
+  {
+    "id": 24,
+    "category": "clothing",
+    "name": "Barazushi_Tuff_Duffel",
+    "brand": "Barazushi",
+    "price": "12000",
+    "ability": "Ink_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/d\/df\/S3_Gear_Clothing_Barazushi_Tuff_Duffel.png",
+    "description": "The Barazushi Tuff Duffel is a greyish brown duffel coat. It has three tan toggles attached with white ropes. The Barazushi logo is sewn below the front left pocket. There are two black buttons on each sleeve, and one above the toggles. The hood has four round metal rivets, with two on each side of the seam going down the middle."
+  },
+  {
+    "id": 25,
+    "category": "clothing",
+    "name": "Barazushi_Wrap",
+    "brand": "Barazushi",
+    "price": "7200",
+    "ability": "Ink_Saver_(Main)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/8\/80\/S3_Gear_Clothing_Barazushi_Wrap.png",
+    "description": "The Barazushi Wrap is a white tee with a dark green scarf or shawl with tassels. Near the bottom is an orange red tag. On the back are coordinates repeated 3 times vertically in an angular black font."
+  },
+  {
+    "id": 26,
+    "category": "clothing",
+    "name": "Base_White_Button_Up",
+    "brand": "Splash_Mob",
+    "price": "9999",
+    "ability": "Thermal_Ink",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/c\/c9\/S3_Gear_Clothing_Base_White_Button_Up.png",
+    "description": "The Base White Button Up is a white, long-sleeved button down shirt with beige buttons and a pink Splash Mob logo."
+  },
+  {
+    "id": 27,
+    "category": "clothing",
+    "name": "Baseball_Jersey",
+    "brand": "Firefin",
+    "price": "10000",
+    "ability": "Special_Charge_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/c\/c3\/S3_Gear_Clothing_Baseball_Jersey.png",
+    "description": "The Baseball Jersey consists of a white baseball jersey and a maroon hooded sweatshirt worn underneath. The jersey has white buttons that go left over right as well as thin red outlines along the ends of the sleeves and down the front. Also on the front is Firefin's name in bright red Inkling letters outlined in black. Below it is what appears to be an Inkling number, similarly colored. This number is repeated on the back, where it is solid black on a red-orange shape. On the right sleeve is the Firefin logo, and at the left side of the hem is a small, black and white label with what is likely another Firefin logo."
+  },
+  {
+    "id": 28,
+    "category": "clothing",
+    "name": "Basic_Tee",
+    "brand": "SquidForce",
+    "price": "300",
+    "ability": "Quick_Respawn",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/0\/04\/S3_Gear_Clothing_Basic_Tee.png",
+    "description": "In general, the Basic Tee is a short-sleeved, yellow T-shirt with some dark yellow Inkling letters and a pin bearing the a green and yellow cartoon squid (which is referred to as \"Jr. Mark\" when viewed as a mem cake) on the front. On the back is the same Jr. Mark symbol in dark yellow with white eyes and a different white Inkling text displayed below it."
+  },
+  {
+    "id": 29,
+    "category": "clothing",
+    "name": "Berry_BlobMob_Tee",
+    "brand": "Emberz",
+    "price": "1050",
+    "ability": "Run_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/3\/3d\/S3_Gear_Clothing_Berry_BlobMob_Tee.png",
+    "description": "The Berry BlobMob Tee is a short-sleeved, oversized T-shirt covered in pink BlobMob faces and with black text on the front."
+  },
+  {
+    "id": 30,
+    "category": "clothing",
+    "name": "Berry_Ski_Jacket",
+    "brand": "Inkline",
+    "price": "3900",
+    "ability": "Special_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/0\/0f\/S3_Gear_Clothing_Berry_Ski_Jacket.png",
+    "description": "The Berry Ski Jacket is a heavy purple and pink jacket with a large collar and a hood with short drawstrings on the front. On the left side of the chest, just below an Inkline logo, is a small pocket with a zipper on the side. There is a similar pocket on the left arm."
+  },
+  {
+    "id": 31,
+    "category": "clothing",
+    "name": "Black_8-Bit_FishFry",
+    "brand": "Firefin",
+    "price": "600",
+    "ability": "Sub_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/7\/75\/S3_Gear_Clothing_Black_8-Bit_FishFry.png",
+    "description": "The Black 8-Bit FishFry is a short-sleeved T-shirt that - despite the name - is not black, but a very dark gray. On the front is a large, pixelated Firefin logo, stylized as an 8-bit console era sprite, with the colors inverted. On the back is the same thing, but with the logo turned around as if seen from behind. It has a tiny white tag at the bottom, also with the Firefin logo with inverted colors."
+  },
+  {
+    "id": 32,
+    "category": "clothing",
+    "name": "Black_Anchor_Tee",
+    "brand": "SquidForce",
+    "price": "2800",
+    "ability": "Respawn_Punisher",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/9\/96\/S3_Gear_Clothing_Black_Anchor_Tee.png",
+    "description": "The Black Anchor Tee is a short-sleeved, black T-shirt. On the front is a large, black and white crest with an anchor design, and on the bottom is a small blue tag with a tiny, white anchor on it. On the back of the shirt is the symbol for Ranked Battles, with some white Inkling text below it."
+  },
+  {
+    "id": 33,
+    "category": "clothing",
+    "name": "Black_Baseball_LS",
+    "brand": "Rockenberg",
+    "price": "800",
+    "ability": "Swim_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/f\/f3\/S3_Gear_Clothing_Black_Baseball_LS.png",
+    "description": "The Black Baseball LS is a T-shirt that, despite the name, is not black but a very dark gray. It has semi-long sleeves that fall about halfway between the elbow and wrist, and a small version of the Rockenberg logo in white on the left side of the chest. On the back is a large white design, also with the Rockenberg logo. At the left side of the waist is a tiny orange tag."
+  },
+  {
+    "id": 34,
+    "category": "clothing",
+    "name": "Black_Inky_Rider",
+    "brand": "Rockenberg",
+    "price": "12100",
+    "ability": "Sub_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/9\/9b\/S3_Gear_Clothing_Black_Inky_Rider.png",
+    "description": "The Black Inky Rider is a black leather jacket. It has a wide, pointed collar with two shiny metal buttons and an off-center zipper. Around the wearer's waist is a thick belt of the same material as the jacket, with a buckle in the shape of a stylized squid. The collar of a red shirt can be seen peeking out from under the jacket. The back of the sleeves have zippers that are partly zipped up."
+  },
+  {
+    "id": 35,
+    "category": "clothing",
+    "name": "Black_Layered_LS",
+    "brand": "SquidForce",
+    "price": "500",
+    "ability": "Ink_Saver_(Main)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/f\/fd\/S3_Gear_Clothing_Black_Layered_LS.png",
+    "description": "The Black Layered LS consists of a very dark gray, not black, short-sleeved T-shirt and the long-sleeved white T-shirt worn under it. On the front of the shirt is the Inkling text from the SquidForce logo in black and blue with a white outline. This is repeated on the back, with some sort of red and yellow creature beneath it. At the bottom of the short-sleeved shirt is a tiny purple tag with the SquidForce logo in white, and the end of the long-sleeved shirt can just be seen poking out just below it."
+  },
+  {
+    "id": 36,
+    "category": "clothing",
+    "name": "Black_LS",
+    "brand": "Zekko",
+    "price": "3000",
+    "ability": "Quick_Super_Jump",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/0\/00\/S3_Gear_Clothing_Black_LS.png",
+    "description": "The Black LS is a long-sleeved black T-shirt. The sleeves both end in a red stripe, and the collar with a white stripe. On the front, in a red rectangle, is the Inkling text from the Zekko logo, printed in white. Above it is a blue square and a white circle, both very small. Towards the bottom of the shirt is a slightly larger rectangle in white, with some kind of design on it. Both sleeves have a long, vertical white stripe on which more Inkling text can be seen."
+  },
+  {
+    "id": 37,
+    "category": "clothing",
+    "name": "Black_Polo",
+    "brand": "Zekko",
+    "price": "500",
+    "ability": "Ninja_Squid",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/8\/89\/S3_Gear_Clothing_Black_Polo.png",
+    "description": "The Black Polo, as its name suggests, is a polo collar shirt that has a jet black color to it. Being made by Zekko, the shirt features a small tag sewed onto the bottom left of the shirt, and near the chest area, a white strip with Zekko written in red Inkling letters is featured. The sleeves of the shirt, as well as the collars, feature white stripes near the bottom parts of them."
+  },
+  {
+    "id": 38,
+    "category": "clothing",
+    "name": "Black_Ranger_Vest",
+    "brand": "Inkline",
+    "price": "6000",
+    "ability": "Special_Charge_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/2\/24\/S3_Gear_Clothing_Black_Ranger_Vest.png",
+    "description": "The Black Ranger Vest is a black vest worn over a dark green, short-sleeved, buttoned-up shirt. The vest consists of two fabric parts with large pockets held together by a pair of black straps and based on the wearer's shoulders with a pair of black belts."
+  },
+  {
+    "id": 39,
+    "category": "clothing",
+    "name": "Black_Squideye",
+    "brand": "Tentatek",
+    "price": "500",
+    "ability": "Run_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/3\/39\/S3_Gear_Clothing_Black_Squideye.png",
+    "description": "The Black Squideye is a short-sleeved black T-shirt. It has the Tentatek logo on both the front and back in pink and white and comes with a blue wristband with a yellow stripe in the center, worn on the right wrist. On the bottom left side of the shirt is a small green tag with another Tentatek logo in black."
+  },
+  {
+    "id": 40,
+    "category": "clothing",
+    "name": "Black_Tee",
+    "brand": "SquidForce",
+    "price": "400",
+    "ability": "Special_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/4\/47\/S3_Gear_Clothing_Black_Tee.png",
+    "description": "The Black Tee is a short-sleeved black T-shirt. On the front are some large Inkling letters printed in white, and at the bottom is a tiny purple tag with the Squidforce logo in white. On the lower back is more white Inkling text, but much smaller than that on the front."
+  },
+  {
+    "id": 41,
+    "category": "clothing",
+    "name": "Black-Belt_Gi",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Haunt",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/6\/65\/S3_Gear_Clothing_Black-Belt_Gi.png",
+    "description": ""
+  },
+  {
+    "id": 42,
+    "category": "clothing",
+    "name": "Blue_Peaks_Tee",
+    "brand": "Inkline",
+    "price": "400",
+    "ability": "Ink_Saver_(Sub)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/2\/20\/S3_Gear_Clothing_Blue_Peaks_Tee.png",
+    "description": "The Blue Peaks Tee is a dull blue short-sleeved T-shirt. It has the Inkline logo on the front in white and a tiny purple tag at the left side of the wearer's waist. On the back is a small line of Inkling writing."
+  },
+  {
+    "id": 43,
+    "category": "clothing",
+    "name": "Blue_Retro_Tee",
+    "brand": "Tentatek",
+    "price": "2880",
+    "ability": "Special_Saver",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/9\/93\/S3_Gear_Clothing_Blue_Retro_Tee.png",
+    "description": "The Blue Retro Tee is a short-sleeved greyish blue tee with the Tentatek logo in 4 different shades of blue arranged next to each other horizontally. A small circle-like symbol is featured both on the label and on the back."
+  },
+  {
+    "id": 44,
+    "category": "clothing",
+    "name": "Blue_Sailor_Suit",
+    "brand": "Forge",
+    "price": "11000",
+    "ability": "Sub_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/8\/82\/S3_Gear_Clothing_Blue_Sailor_Suit.png",
+    "description": "The Blue Sailor Suit is a dark blue sailor suit, though it lacks the other attire usually worn with one. The collar and ends of the sleeves have thin white stripes, and the back of the collar sports a pair of small white arrows. The tie is a very dark gray, and just next to it on the wearer's chest is some dark gray Inkling text on a light gray background. The left sleeve is adorned with a red squid-like crest toward the shoulder and a pair of bright yellow stripes toward the wrist."
+  },
+  {
+    "id": 45,
+    "category": "clothing",
+    "name": "Business_Animal",
+    "brand": "Emberz",
+    "price": "2500",
+    "ability": "Ninja_Squid",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/0\/0c\/S3_Gear_Clothing_Business_Animal.png",
+    "description": "The Business Animal is a short-sleeved shirt made from scraps of other clothing. The main part consists of a dull gray shirt with dirty white buttons featured on both the placket and the collar. The sleeves are slightly baggy and reach to the wearer's elbows. The shirt's sides are made of salvaged parts of the Herbivore Tee and the Carnivore Tee with the leopard pattern side also including the pocket and the collar stand. The patchwork parts are also shorter than the shirt proper, making the hems and cuffs unmatching. The back consists of a stripe of white material in a gray checked pattern. A small Emberz label is sewn to the shirt's hem, cut in two by different fabrics."
+  },
+  {
+    "id": 46,
+    "category": "clothing",
+    "name": "Button-Clown_Shirt",
+    "brand": "Emberz",
+    "price": "6300",
+    "ability": "Special_Saver",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/b\/b9\/S3_Gear_Clothing_Button-Clown_Shirt.png",
+    "description": "The Button-Clown Shirt is a shirt made from many different colorful fabrics. Some sections of it are bright colors with no pattern, other sections have brightly colored stripes."
+  },
+  {
+    "id": 47,
+    "category": "clothing",
+    "name": "Camo_Layered_LS",
+    "brand": "SquidForce",
+    "price": "600",
+    "ability": "Special_Charge_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/d\/d7\/S3_Gear_Clothing_Camo_Layered_LS.png",
+    "description": "The Camo Layered LS consists of a White Tee and a long-sleeved T-shirt with an olive green camouflage pattern worn under it. The end of the shirt can just be seen poking out just below the White Tee."
+  },
+  {
+    "id": 48,
+    "category": "clothing",
+    "name": "Camo_Zip_Hoodie",
+    "brand": "Firefin",
+    "price": "9000",
+    "ability": "Quick_Respawn",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/1\/1d\/S3_Gear_Clothing_Camo_Zip_Hoodie.png",
+    "description": "The Camo Zip Hoodie is a hooded jacket with a camouflage pattern in dark, medium, and light brown. On the bottom is a small white tag with the Firefin logo."
+  },
+  {
+    "id": 49,
+    "category": "clothing",
+    "name": "Carnivore_Tee",
+    "brand": "Firefin",
+    "price": "500",
+    "ability": "Sub_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/4\/41\/S3_Gear_Clothing_Carnivore_Tee.png",
+    "description": "The Carnivore Tee is a short-sleeved T-shirt with a leopard-print pattern in orange and brown on an ochre background. On the bottom is a small white tag with the Firefin logo."
+  },
+  {
+    "id": 50,
+    "category": "clothing",
+    "name": "Chaos_Commander_Suit",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Ink_Saver_(Main)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/7\/7b\/S3_Gear_Clothing_Chaos_Commander_Suit.png",
+    "description": "The Chaos Commander Suit is a heavy gray crop top with armored shoulder pads. The left shoulder is blue with sharp spikes, and the right shoulder is a darker shade of the wearer's ink color with a white strap. It has a spiked collar with a triangular pendant dangling from the front, as well as a spiked bracelet and metal glove on the left and right hands, respectively. Alongside the right shoulder pad, the small triangular patch on the left side of the chest is a darker shade of the wearer's ink color."
+  },
+  {
+    "id": 51,
+    "category": "clothing",
+    "name": "Chili_Octo_Aloha",
+    "brand": "Krak-On",
+    "price": "4850",
+    "ability": "Sub_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/b\/b8\/S3_Gear_Clothing_Chili_Octo_Aloha.png",
+    "description": "The Chili Octo Aloha is a lilac Hawaiian shirt with Japanese influences. It is covered in bright orange octopuses placed among white waves with a little green island covered in trees just next to the left sleeve and on the back. The shirt possesses light brown buttons."
+  },
+  {
+    "id": 52,
+    "category": "clothing",
+    "name": "Choco_Layered_LS",
+    "brand": "Takoroka",
+    "price": "1400",
+    "ability": "Ink_Saver_(Sub)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/d\/d9\/S3_Gear_Clothing_Choco_Layered_LS.png",
+    "description": "The Choco Layered LS consists of a short-sleeved brown T-shirt and a long-sleeved gray T-shirt worn underneath. The brown shirt has the Takoroka logo on the chest in white, a larger Takoroka logo on the back, also in white, and a small blue tag at the bottom with an even smaller Takoroka logo in black. The gray shirt has sleeves that fall halfway between the elbow and wrist and pokes out from under the brown shirt at the bottom."
+  },
+  {
+    "id": 53,
+    "category": "clothing",
+    "name": "Cream_Tundra_Fleece",
+    "brand": "Inkline",
+    "price": "3500",
+    "ability": "Ink_Saver_(Main)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/f\/f3\/S3_Gear_Clothing_Cream_Tundra_Fleece.png",
+    "description": "The Cream Tundra Fleece is a tan fleece jacket with darker tan zippers and a dark green pocket."
+  },
+  {
+    "id": 54,
+    "category": "clothing",
+    "name": "Crimson_Parashooter",
+    "brand": "Annaki",
+    "price": "9200",
+    "ability": "Special_Charge_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/4\/42\/S3_Gear_Clothing_Crimson_Parashooter.png",
+    "description": "The Crimson Parashooter is, as the name implies, a crimson-red skydiving jacket with straps across the torso section, but no parachute. The left sleeve is brown at the bottom and white on the upper arm, while the right sleeve and the torso are both crimson colored with the right sleeve having a darker tone than the torso section."
+  },
+  {
+    "id": 55,
+    "category": "clothing",
+    "name": "Crispy_Crustume",
+    "brand": "SquidForce",
+    "price": "0",
+    "ability": "Special_Charge_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/6\/69\/S3_Gear_Clothing_Crispy_Crustume.png",
+    "description": "The Crispy Crustume is a sleeveless orange coat which resembles a piece of breaded and fried food, similar to the jacket worn by Crusty Sean in Splatoon and Splatoon 2. There is a zipper on the back."
+  },
+  {
+    "id": 56,
+    "category": "clothing",
+    "name": "Cycle_King_Jersey",
+    "brand": "Tentatek",
+    "price": "8900",
+    "ability": "Sub_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/9\/92\/S3_Gear_Clothing_Cycle_King_Jersey.png",
+    "description": "The Cycle King Jersey is a short-sleeved zip-up jacket with a slightly higher collar than most shirts. It is mainly white with large polka dots, but the sleeves and collar are solid. The polka dots, sleeves, and collar change color to match that of the wearer's ink, with the polka dots being lighter than the sleeves and collar. On the right side of the chest is a somewhat small Tentatek logo in black."
+  },
+  {
+    "id": 57,
+    "category": "clothing",
+    "name": "Cycling_Shirt",
+    "brand": "Zink",
+    "price": "2900",
+    "ability": "Intensify_Action",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/5\/5a\/S3_Gear_Clothing_Cycling_Shirt.png",
+    "description": "The Cycling Shirt is a navy blue shirt with a zipper and green and ink-color matching stripes, with a thicker white stripe containing the text from the Zink logo appearing on the front of the shirt. On the right breast of the jacket is a badge with a picture of a sushi roll."
+  },
+  {
+    "id": 58,
+    "category": "clothing",
+    "name": "Dark_Bomber_Jacket",
+    "brand": "Toni_Kensa",
+    "price": "12800",
+    "ability": "Special_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/6\/64\/S3_Gear_Clothing_Dark_Bomber_Jacket.png",
+    "description": "The Dark Bomber Jacket is a black, zip-up, shiny bomber jacket with long cuffs. On the left sleeve is a red Toni Kensa pin."
+  },
+  {
+    "id": 59,
+    "category": "clothing",
+    "name": "Dark_Urban_Vest",
+    "brand": "Firefin",
+    "price": "10000",
+    "ability": "Intensify_Action",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/e\/e0\/S3_Gear_Clothing_Dark_Urban_Vest.png",
+    "description": "The Dark Urban Vest consists of an extremely glossy dark blue down vest and a gray sweatshirt worn underneath. The vest has a slightly shiny texture and six gray buttons, two of which are on a pair of pockets. The inside of its collar is a dark red, and it has a small version of Firefin's name in Inkling printed on the left side of the chest in dull teal and gray. On the bottom of the sweatshirt, which pokes out from under the vest, there is a small white tag with the Firefin logo."
+  },
+  {
+    "id": 60,
+    "category": "clothing",
+    "name": "Distressed_Vest",
+    "brand": "Toni_Kensa",
+    "price": "11800",
+    "ability": "Sub_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/d\/d5\/S3_Gear_Clothing_Distressed_Vest.png",
+    "description": "The Distressed Vest is a beige vest worn over a loose, short-sleeved shirt. The shirt is white, covered with irregular, black splashes. It is sewn together with a seam on the left side. The shirt also features a thick crew neck and dull gray, Toni Kensa badge on it's left sleeve. The vest shows a worn appearance, with tears and overstretched material."
+  },
+  {
+    "id": 61,
+    "category": "clothing",
+    "name": "Duskwave_Tee",
+    "brand": "Skalop",
+    "price": "880",
+    "ability": "Special_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/6\/6f\/S3_Gear_Clothing_Duskwave_Tee.png",
+    "description": "The Duskwave Tee is a T-Shirt with a gradient. It is purple at the top, which fades into orange at the bottom. It has a large white Skalop logo on it."
+  },
+  {
+    "id": 62,
+    "category": "clothing",
+    "name": "Dustcloud_Hoodie",
+    "brand": "Z+F",
+    "price": "8920",
+    "ability": "Ink_Saver_(Main)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/3\/33\/S3_Gear_Clothing_Dustcloud_Hoodie.png",
+    "description": "The Dustcloud Hoodie is a zip-up hoodie with the Dustcloud pattern design."
+  },
+  {
+    "id": 63,
+    "category": "clothing",
+    "name": "Dusty_Field_Jacket",
+    "brand": "Inkline",
+    "price": "3400",
+    "ability": "Intensify_Action",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/f\/f9\/S3_Gear_Clothing_Dusty_Field_Jacket.png",
+    "description": "The Dusty Field Jacket is a pale orange field jacket with bright orange buttons and soft texture. The jacket possesses two pockets with one on each side and a smaller one with a long, dark gray zipper on the left part of the wearer's chest. The collar and cuffs are dark green. Old version of Inkline logo is sewn to the upper part of the left sleeve."
+  },
+  {
+    "id": 64,
+    "category": "clothing",
+    "name": "Eelzebub_Tee",
+    "brand": "Skalop",
+    "price": "2100",
+    "ability": "Intensify_Action",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/4\/48\/S3_Gear_Clothing_Eelzebub_Tee.png",
+    "description": "The Eelzebub Tee is pitch black tee with a graphic design on the front. It consists of a green heart-shaped eel accompanied by two acid pink letters. A white Skalop label is stitched on the back, just under the hem."
+  },
+  {
+    "id": 65,
+    "category": "clothing",
+    "name": "Enchanted_Robe_A",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Thermal_Ink",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/b\/b9\/S3_Gear_Clothing_Enchanted_Robe_A.png",
+    "description": "The Enchanted Robe is a black witch's robe."
+  },
+  {
+    "id": 66,
+    "category": "clothing",
+    "name": "Enchanted_Robe_B",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Thermal_Ink",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/e\/ed\/S3_Gear_Clothing_Enchanted_Robe_B.png",
+    "description": "The Enchanted Robe is a black witch's robe."
+  },
+  {
+    "id": 67,
+    "category": "clothing",
+    "name": "Fancyfish_Stitch",
+    "brand": "Krak-On",
+    "price": "4600",
+    "ability": "Sub_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/c\/ca\/S3_Gear_Clothing_Fancyfish_Stitch.png",
+    "description": "The Fancyfish Stitch is a dark green, long-sleeved shirt with numerous Inuit-inspired stitches. It's cuffs, collar and placket are covered with a an orange and white pattern, surrounded by two navy blue stripes. The front has four stitches located in a fixed distance from each other, showing an abstract picture of an orange cornetfish fitted into an ornamental frame. The back has a larger stitch sewn to it's centre."
+  },
+  {
+    "id": 68,
+    "category": "clothing",
+    "name": "Fashion_Splash_Shirt",
+    "brand": "Toni_Kensa",
+    "price": "9750",
+    "ability": "Quick_Respawn",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/2\/2e\/S3_Gear_Clothing_Fashion_Splash_Shirt.png",
+    "description": "The Fashion Splash Shirt is a dirty white shirt with numerous black colour splats all over it. It consists of a well-worn buttoned short-sleeved shirt accompanied by an improvised fashion cape, covering the wearer's shoulders only, with a triangle-like cut on the back and a thin stripe hanging down along the placket. A light grey Toni Kensa is sewn on the cape's left patch."
+  },
+  {
+    "id": 69,
+    "category": "clothing",
+    "name": "FC_Albacore",
+    "brand": "Enperry",
+    "price": "1200",
+    "ability": "Respawn_Punisher",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/f\/f3\/S3_Gear_Clothing_FC_Albacore.png",
+    "description": "The FC Albacore is a green soccer jersey with sections of yellow. The sleeves and collar are lined with white, on the left arm is an orange armband with a black Takoroka logo, and up to each shoulder is a row of three green chevrons."
+  },
+  {
+    "id": 70,
+    "category": "clothing",
+    "name": "Firefin_Navy_Sweat",
+    "brand": "Firefin",
+    "price": "2500",
+    "ability": "Sub_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/8\/81\/S3_Gear_Clothing_Firefin_Navy_Sweat.png",
+    "description": "The Firefin Navy Sweat is a thick, navy blue, long-sleeve sweater decorated with a large Inkling word in the center. It has a gray collar, hem, and gray wrists, and features a small, gray tag with the Firefin logo on the bottom."
+  },
+  {
+    "id": 71,
+    "category": "clothing",
+    "name": "Firewave_Tee",
+    "brand": "Skalop",
+    "price": "1250",
+    "ability": "Special_Charge_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/f\/f8\/S3_Gear_Clothing_Firewave_Tee.png",
+    "description": "The Firewave Tee is a short-sleeved T-shirt with a gradient. The top half is yellow, which fades into a red-orange on the bottom half. On the front of the shirt is the text from the Skalop logo in brown."
+  },
+  {
+    "id": 72,
+    "category": "clothing",
+    "name": "Forest_Vest",
+    "brand": "Inkline",
+    "price": "11000",
+    "ability": "Ink_Recovery_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/a\/a4\/S3_Gear_Clothing_Forest_Vest.png",
+    "description": "The Forest Vest consists of a dull green down vest and the dark purple, plaid-patterned, button-down shirt worn underneath. The vest has a slightly shiny texture and six dark gray buttons, two of which are on a pair of pockets. Toward the top it has sections of light and dark gray, and the lining is a dull yellow. The bottom of the plaid shirt pokes out loosely from beneath the vest."
+  },
+  {
+    "id": 73,
+    "category": "clothing",
+    "name": "Forge_Inkling_Parka",
+    "brand": "Forge",
+    "price": "2900",
+    "ability": "Run_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/a\/ae\/S3_Gear_Clothing_Forge_Inkling_Parka.png",
+    "description": "The Forge Inkling Parka is a dark green fishtail parka lined with tan fur at the hood, worn over a white collared shirt and black tie. On the left side of the chest is a target-like symbol with a slight resemblance to an octopus in hot pink, white, and a dark blue-violet. It has three pockets, two on the front and one on the left sleeve. Instead of a fourth pocket on the right sleeve, there a small Forge logo in black."
+  },
+  {
+    "id": 74,
+    "category": "clothing",
+    "name": "Forge_Octarian_Jacket",
+    "brand": "Forge",
+    "price": "2700",
+    "ability": "Haunt",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/c\/cf\/S3_Gear_Clothing_Forge_Octarian_Jacket.png",
+    "description": "The Forge Octarian Jacket is a gray fishtail parka worn over a dark gray collared shirt. On the left side of the chest is a hot pink pin with some dark gray Inkling (or possibly Octarian) text. On the right side is a simplified, squid-like icon in blue and white, with a small white box of black text below it. It has three pockets, two on the front and one on the left sleeve. On the right, near the cuff, there is some type of round emblem in blue, black, and white with a fish on it. The back of the jacket is adorned with a large, light gray design similar to a coat-of-arms; it features squid, ironically."
+  },
+  {
+    "id": 75,
+    "category": "clothing",
+    "name": "Fresh_Fish_Gloves",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Quick_Super_Jump",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/8\/81\/S3_Gear_Clothing_Fresh_Fish_Gloves.png",
+    "description": "The Fresh Fish Gloves is a black cartoon mascot costume with cartoonish white gloves featured with a black long sleeved shirt. It is based on the Fresh Fish."
+  },
+  {
+    "id": 76,
+    "category": "clothing",
+    "name": "Fugu_Tee",
+    "brand": "Firefin",
+    "price": "750",
+    "ability": "Swim_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/b\/bd\/S3_Gear_Clothing_Fugu_Tee.png",
+    "description": "The Fugu Tee is a short-sleeved T-shirt in a very dark gray. On the front on a large, circular, white background is a black and white version of the Firefin logo with an Inkling symbol in place of the fish's face. On the bottom is a tiny white tag with a much smaller Firefin logo, and on the back is Firefin's name in bright green Inkling text with black outlines."
+  },
+  {
+    "id": 77,
+    "category": "clothing",
+    "name": "Grape_Tee",
+    "brand": "Skalop",
+    "price": "400",
+    "ability": "Ink_Recovery_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/2\/28\/S3_Gear_Clothing_Grape_Tee.png",
+    "description": "The Grape Tee is a purple short-sleeved T-shirt. On the front is the text from the Skalop logo in white, repeated vertically three times. On the lower back is the same word in light purple, and just below the nape of the neck is a tiny white label."
+  },
+  {
+    "id": 78,
+    "category": "clothing",
+    "name": "Gray_College_Sweat",
+    "brand": "Splash_Mob",
+    "price": "800",
+    "ability": "Swim_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/0\/08\/S3_Gear_Clothing_Gray_College_Sweat.png",
+    "description": "The Gray College Sweat is a gray pullover sweatshirt. On the front are some Inkling symbols, with three large ones in dull pink at the top, two white ones in a dull pink oval in the middle that resemble an upside down \"97\", and eight small ones in dull pink at the bottom. On the back is one more Inkling letter, printed very large in both dull pink and gray. The right sleeve has a blue label with the Splash Mob logo in white."
+  },
+  {
+    "id": 79,
+    "category": "clothing",
+    "name": "Gray_Hoodie",
+    "brand": "Skalop",
+    "price": "1900",
+    "ability": "Sub_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/c\/c8\/S3_Gear_Clothing_Gray_Hoodie.png",
+    "description": "The Gray Hoodie is a solid gray, long-sleeved sweatshirt hoodie. On the chest is the Skalop name in blue lettering, and the Skalop logo is at the end of the left sleeve."
+  },
+  {
+    "id": 80,
+    "category": "clothing",
+    "name": "Gray_Mixed_Shirt",
+    "brand": "Zekko",
+    "price": "2800",
+    "ability": "Quick_Super_Jump",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/9\/96\/S3_Gear_Clothing_Gray_Mixed_Shirt.png",
+    "description": "The Gray Mixed Shirt is a long-sleeved, button-down shirt with light gray buttons that go left over right. Its main color is a solid gray, and on the left side of the wearer's chest is a tartan patch in light and dark gray, hence the name. There are similar patches on the back and on the sleeve. At the hem is a tiny white label with the Zekko logo."
+  },
+  {
+    "id": 81,
+    "category": "clothing",
+    "name": "Gray_Vector_Tee",
+    "brand": "Takoroka",
+    "price": "500",
+    "ability": "Quick_Super_Jump",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/5\/5d\/S3_Gear_Clothing_Gray_Vector_Tee.png",
+    "description": "The Gray Vector tee is a short-sleeved gray T-shirt with four rows of red arrows pointing in alternate directions. A small, blue tag with the Takoroka logo can be found on the bottom of the shirt."
+  },
+  {
+    "id": 82,
+    "category": "clothing",
+    "name": "Green_Cardigan",
+    "brand": "Splash_Mob",
+    "price": "1700",
+    "ability": "Ink_Saver_(Sub)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/1\/10\/S3_Gear_Clothing_Green_Cardigan.png",
+    "description": "The Green Cardigan consists of a forest green cardigan and the light blue button-down shirt worn underneath. The cardigan has dark brown buttons that go left over right and a pair of bright yellow stripes on each sleeve. There are also two small pockets at the belly area, one on either side of the buttons. The cardigan is adorned with a good deal of Inkling text; there is some diagonal yellow lettering outlined in white on the right side of the chest, an arrow-shaped design in black and white with a small symbol similar to the English letter \"K\" just above the left-hand pocket, and a pair of white symbols just below the right-hand one."
+  },
+  {
+    "id": 83,
+    "category": "clothing",
+    "name": "Green_Striped_LS",
+    "brand": "Inkline",
+    "price": "700",
+    "ability": "Ninja_Squid",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/5\/5a\/S3_Gear_Clothing_Green_Striped_LS.png",
+    "description": "The Green Striped LS is a green long-sleeved T-shirt. It has three sets of three horizontal white stripes separated by large sections of green, with the sleeves bearing a similar pattern of stripes, but with two sets of three and two sets of two. On the lower left side of the shirt is a tiny purple tag with what is presumably Inkline's name in white Inkling text."
+  },
+  {
+    "id": 84,
+    "category": "clothing",
+    "name": "Green_Tee",
+    "brand": "Forge",
+    "price": "1200",
+    "ability": "Special_Saver",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/a\/a8\/S3_Gear_Clothing_Green_Tee.png",
+    "description": "The Green Tee is a short-sleeved, green and gray T-shirt. \"Forge\" is written in large yellow Inkling letters that extend from the back of the shirt near the bottom to the front of the shirt right under the collar. A purple tag can also be seen on the shirt."
+  },
+  {
+    "id": 85,
+    "category": "clothing",
+    "name": "Green_Zip_Hoodie",
+    "brand": "Firefin",
+    "price": "2800",
+    "ability": "Special_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/9\/91\/S3_Gear_Clothing_Green_Zip_Hoodie.png",
+    "description": "The Green Zip Hoodie is a zipped-up pine green hoodie with two separated pockets at the bottom. On the hem of the hoodie, next to the zipper, Firefin's signature \"FishFry\" logo can be seen on a small white tag."
+  },
+  {
+    "id": 86,
+    "category": "clothing",
+    "name": "Green-Check_Shirt",
+    "brand": "Zekko",
+    "price": "2000",
+    "ability": "Sub_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/3\/36\/S3_Gear_Clothing_Green-Check_Shirt.png",
+    "description": "The Green-Check Shirt is a long-sleeved button-down shirt that is white with green plaid. It has gray buttons that go left over right, and at the left side of its hem is a small white label with an even smaller  Zekko logo."
+  },
+  {
+    "id": 87,
+    "category": "clothing",
+    "name": "Herbivore_Tee",
+    "brand": "Firefin",
+    "price": "500",
+    "ability": "Ninja_Squid",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/4\/4a\/S3_Gear_Clothing_Herbivore_Tee.png",
+    "description": "The Herbivore Tee is a short-sleeved T-shirt with a zebra-print pattern in black and white. One of the stripes resembles a squid. On the bottom is a tiny white tag with the Firefin logo in pine green."
+  },
+  {
+    "id": 88,
+    "category": "clothing",
+    "name": "Hero_Jacket_Replica",
+    "brand": "Cuttlegear",
+    "price": "0",
+    "ability": "Swim_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/a\/a8\/S3_Gear_Clothing_Hero_Jacket_Replica.png",
+    "description": "The Hero Jacket Replica was originally worn as part of the Hero Suit in Octo Valley. It is form-fitting and black with a large collar and a bright yellow safety vest worn on top. At the wearer's left hip hangs two small accessories, one gray and squid-shaped with a light blue outline that seems to glow, and the other red, oval-shaped, and reflective. It is unknown what purpose these items serve."
+  },
+  {
+    "id": 89,
+    "category": "clothing",
+    "name": "Hero_Suit_Replica",
+    "brand": "Cuttlegear",
+    "price": "0",
+    "ability": "Quick_Respawn",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/c\/c4\/S3_Gear_Clothing_Hero_Suit_Replica.png",
+    "description": "The Hero Suit Replica is a bright yellow coat with blue accents. It has a high collar with two short drawstrings, and the opening on the front is diagonal. Its appearance is exactly the same as the coat worn as part of the Hero Gear in Return of the Mammalians."
+  },
+  {
+    "id": 90,
+    "category": "clothing",
+    "name": "Hula_Punk_Shirt",
+    "brand": "Annaki",
+    "price": "5000",
+    "ability": "Ink_Saver_(Main)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/5\/55\/S3_Gear_Clothing_Hula_Punk_Shirt.png",
+    "description": "The Hula Punk Shirt is a predominantly gray, short-sleeved, button-front collared shirt. It has several red patches depicting various hooks and pins. Two buckled black leather bracelets fit around the left wrist."
+  },
+  {
+    "id": 91,
+    "category": "clothing",
+    "name": "Hype_Stripe_Button_Up",
+    "brand": "Splash_Mob",
+    "price": "9999",
+    "ability": "Special_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/0\/03\/S3_Gear_Clothing_Hype_Stripe_Button_Up.png",
+    "description": ""
+  },
+  {
+    "id": 92,
+    "category": "clothing",
+    "name": "Icewave_Tee",
+    "brand": "Skalop",
+    "price": "1250",
+    "ability": "Ninja_Squid",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/6\/65\/S3_Gear_Clothing_Icewave_Tee.png",
+    "description": "The Icewave Tee is a T-shirt with a gradient. The top half is a bluish white, which fades into a dark blue on the bottom half. On the front of the shirt is the text from the Skalop logo in dark blue."
+  },
+  {
+    "id": 93,
+    "category": "clothing",
+    "name": "Indigo_Boss_Haori",
+    "brand": "Emberz",
+    "price": "10500",
+    "ability": "Quick_Super_Jump",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/7\/7a\/S3_Gear_Clothing_Indigo_Boss_Haori.png",
+    "description": ""
+  },
+  {
+    "id": 94,
+    "category": "clothing",
+    "name": "Ink-Black_Paddle_Jack",
+    "brand": "Toni_Kensa",
+    "price": "9900",
+    "ability": "Ink_Saver_(Sub)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/2\/2a\/S3_Gear_Clothing_Ink-Black_Paddle_Jack.png",
+    "description": "The Ink-Black Paddle Jack is a black, contemporary fashioned paddling jacket. It consists of a main body with a loose section around the wearer's abdomen, finished with a thick hemline. Various patches of black synthetic fabric are part of the bottom of it's tight sleeves and the sides, with the rest of the garment being extremely dark gray. The top possesses a tight collar covering the whole of the wearer's neck sliding out from under the jacket, with both horizontal and vertical seams. A diagonally placed chest pocket appears on the left front, surrounded by a black frame. A red Toni Kensa badge is sewn onto the left sleeve."
+  },
+  {
+    "id": 95,
+    "category": "clothing",
+    "name": "Ink-Black_Tangle_Top",
+    "brand": "Annaki",
+    "price": "5550",
+    "ability": "Special_Charge_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/f\/fd\/S3_Gear_Clothing_Ink-Black_Tangle_Top.png",
+    "description": "The Ink-Black Tangle Top is a black long-sleeved sweatshirt with white web-like patterns going around the top, along with an odd character hanging from below. The sleeve possesses a white Annaki logo, and there is a red tag stitched to the bottom of the garment."
+  },
+  {
+    "id": 96,
+    "category": "clothing",
+    "name": "Ink-Wash_Shirt",
+    "brand": "Toni_Kensa",
+    "price": "4900",
+    "ability": "Ink_Recovery_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/3\/39\/S3_Gear_Clothing_Ink-Wash_Shirt.png",
+    "description": "The Ink-Wash Shirt is a predominantly black, long-sleeve, collared dress shirt. The shoulders and upper torso are white with a wavy transition on the bottom. On the left sleeve is a red pin with the Toni Kensa logo on it. It resembles the Inkfall Shirt, just with the colors flipped."
+  },
+  {
+    "id": 97,
+    "category": "clothing",
+    "name": "Inkfall_Shirt",
+    "brand": "Toni_Kensa",
+    "price": "4900",
+    "ability": "Special_Charge_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/d\/d7\/S3_Gear_Clothing_Inkfall_Shirt.png",
+    "description": "The Inkfall Shirt is a predominantly white long-sleeve, collared dress shirt. The shoulders and upper torso are a dark gray with a wavy transition on the bottom. On the left sleeve is a red pin with the Toni Kensa logo on it. It resembles the Ink-Wash Shirt, just with the colors flipped."
+  },
+  {
+    "id": 98,
+    "category": "clothing",
+    "name": "Ivory_Peaks_Tee",
+    "brand": "Inkline",
+    "price": "400",
+    "ability": "Haunt",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/4\/40\/S3_Gear_Clothing_Ivory_Peaks_Tee.png",
+    "description": "The Ivory Peaks Tee is a cream-colored short-sleeved T-shirt. It has the Inkline logo on the front in pink and a tiny blue tag at the left side of the wearer's waist."
+  },
+  {
+    "id": 99,
+    "category": "clothing",
+    "name": "Juice_Parka",
+    "brand": "Grizzco",
+    "price": "0",
+    "ability": "Quick_Super_Jump",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/b\/ba\/S3_Gear_Clothing_Juice_Parka.png",
+    "description": "The Juice Parka is a red and tan long-sleeved parka. Most of the jacket is red, while a broad stripe around the stomach is tan. There are two front pockets lined in navy blue. The underside of the sleeves are also navy blue. On the chest are two logos. Beneath the jacket is a collared dress shirt."
+  },
+  {
+    "id": 100,
+    "category": "clothing",
+    "name": "Kensa_Coat",
+    "brand": "Toni_Kensa",
+    "price": "9200",
+    "ability": "Respawn_Punisher",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/2\/2b\/S3_Gear_Clothing_Kensa_Coat.png",
+    "description": "The Kensa Coat is a black, cloth, long-sleeved jacket with a collar and buttons. On the left breast is the Toni Kensa name in white. On the left sleeve is a red pin with the Toni Kensa on it. On the back there is the stylized complete name of the brand and possibly a slogan. Two strings at the end of the jacket can be used to adjust the jacket (not an in-game function)."
+  },
+  {
+    "id": 101,
+    "category": "clothing",
+    "name": "Khaki_Ranger_Vest",
+    "brand": "Inkline",
+    "price": "4200",
+    "ability": "Sub_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/c\/ce\/S3_Gear_Clothing_Khaki_Ranger_Vest.png",
+    "description": "The Khaki Ranger Vest is a khaki vest worn over a dirty white, short-sleeved, buttoned-up shirt. The vest consists of two fabric parts with large pockets held together by a pair of black straps and based on the wearer's shoulders with a pair of rotten green belts."
+  },
+  {
+    "id": 102,
+    "category": "clothing",
+    "name": "Krak-On_528",
+    "brand": "Krak-On",
+    "price": "800",
+    "ability": "Run_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/a\/ab\/S3_Gear_Clothing_Krak-On_528.png",
+    "description": "The Krak-On 528 is a button-down denim jacket with a white shirt underneath and silver buttons that go left over right. It has two breast pockets, also buttoned, with a small, light green tag on the left one with Krak-On's name in white Inkling text. On the back, slightly lighter than the rest of the shirt, is Krak-On's name again and its logo."
+  },
+  {
+    "id": 103,
+    "category": "clothing",
+    "name": "Layered_Anchor_LS",
+    "brand": "SquidForce",
+    "price": "4000",
+    "ability": "Run_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/b\/b2\/S3_Gear_Clothing_Layered_Anchor_LS.png",
+    "description": "The Layered Anchor LS consists of a burgundy short-sleeved T-shirt and the dark gray long-sleeved T-shirt worn underneath it. On the front of the short-sleeved shirt is a black and white anchor design based off of the Ranked Battle logo, with the original logo on the back above some white Inkling text. On the front side of the hem is a small blue tag with an even smaller anchor on it in white, and the end of the long-sleeved shirt can just be seen poking out just below it."
+  },
+  {
+    "id": 104,
+    "category": "clothing",
+    "name": "Layered_Vector_LS",
+    "brand": "Takoroka",
+    "price": "1200",
+    "ability": "Special_Saver",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/5\/5a\/S3_Gear_Clothing_Layered_Vector_LS.png",
+    "description": "The Layered Vector LS consists of a short-sleeved, dark teal T-shirt and a short-sleeved, dark gray T-shirt worn underneath. The teal shirt has a row of arrows across the chest in bright red, a similarly colored Takoroka logo on the lower back, and a small blue tag at the hem with another Takoroka logo in black. The gray shirt has sleeves that fall halfway between the elbow and wrist and pokes out from under the teal shirt at the bottom."
+  },
+  {
+    "id": 105,
+    "category": "clothing",
+    "name": "Lemon_Hoodless",
+    "brand": "Z+F",
+    "price": "3456",
+    "ability": "Run_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/5\/59\/S3_Gear_Clothing_Lemon_Hoodless.png",
+    "description": "The Lemon Hoodless is a yellow hoodie deprived of a hood. The collar features a pair of empty golden grommets. The front presents a large white lettering in a green frame, with three verses of smaller writings in the same shade of green, along with a kangaroo pocket beneath. The rear displays a mint logo with a ZedFry peeking in the centre. A small ZedFry resting on top of a blue star is on the left sleeve near the cuff."
+  },
+  {
+    "id": 106,
+    "category": "clothing",
+    "name": "Light-Bright_Paddle_Jack",
+    "brand": "Toni_Kensa",
+    "price": "9900",
+    "ability": "Ink_Saver_(Sub)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/8\/84\/S3_Gear_Clothing_Light-Bright_Paddle_Jack.png",
+    "description": "The Light-Bright Paddle Jack is a predominantly white, contemporary fashioned paddling jacket. It consists of a main body with a loose section around the wearer's abdomen, finished with a thick hemline. Various patches of light grey synthetic fabric are part of the bottom of it's tight sleeves and the sides, with the rest of the garment being dirty white. The top possesses a tight collar covering the whole of the wearer's neck sliding out from under the jacket, with both horizontal and vertical seams. Some of the garment's fragments, including the collar, hem and cuffs are black. A diagonally placed chest pocket appears on the left front, surrounded by a black frame. A red Toni Kensa badge is sewn onto the left sleeve."
+  },
+  {
+    "id": 107,
+    "category": "clothing",
+    "name": "Lime_Battlecrab_Shell",
+    "brand": "Enperry",
+    "price": "6400",
+    "ability": "Swim_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/f\/ff\/S3_Gear_Clothing_Lime_Battlecrab_Shell.png",
+    "description": "The Lime Battlecrab Shell is a lime protective vest with a long-sleeved patterned shirt underneath. The vest's front resembles a crab's face, with a combination of convex elements, characteristic shapes and rounded edges. The vest also possesses numerous ocean blue accents, including the frame and various straps. The rear features a pad covering the wearer's lumbar region, also referencing a crab's anatomy. It appears to hang on a pair of thick shoulder pads attached from above. The shirt is covered in a dark grey and black checkered pattern, with other black elements. A golden Enperry label can be seen on the bosom of the vest, along a golden Enperry writing on the left of the front convex part."
+  },
+  {
+    "id": 108,
+    "category": "clothing",
+    "name": "Lime_BlobMob_Tee",
+    "brand": "Emberz",
+    "price": "1050",
+    "ability": "Sub_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/a\/ae\/S3_Gear_Clothing_Lime_BlobMob_Tee.png",
+    "description": "The Lime BlobMob Tee is a short-sleeved, oversized T-shirt covered in lime BlobMob faces with black text on the front."
+  },
+  {
+    "id": 109,
+    "category": "clothing",
+    "name": "Lime_Ski_Jacket",
+    "brand": "Inkline",
+    "price": "3370",
+    "ability": "Quick_Super_Jump",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/b\/b3\/S3_Gear_Clothing_Lime_Ski_Jacket.png",
+    "description": "The Lime Ski Jacket is a bicolour ski jacket. It possesses a large collar and a hood with a pair of short light grey drawstrings. Beneath the hood, a black section splits the garment in half, extending to the sides and outer sleeves. A few stripes of off white can be seen on the shoulders and on the back. A white old version Inkline logo is engraved on the chest. The new version of the logo is stitched to the right upper arm, above a different red logo."
+  },
+  {
+    "id": 110,
+    "category": "clothing",
+    "name": "Linen_Shirt",
+    "brand": "Splash_Mob",
+    "price": "700",
+    "ability": "Sub_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/8\/88\/S3_Gear_Clothing_Linen_Shirt.png",
+    "description": "The Linen Shirt is a short-sleeved button-down shirt with a collar. It is denim blue with dark blue buttons, is buttoned left over right, and has two pockets on the front. The pockets also have buttons."
+  },
+  {
+    "id": 111,
+    "category": "clothing",
+    "name": "Logo_Aloha_Shirt",
+    "brand": "Zekko",
+    "price": "2900",
+    "ability": "Ink_Recovery_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/4\/46\/S3_Gear_Clothing_Logo_Aloha_Shirt.png",
+    "description": "The Logo Aloha Shirt is a short-sleeved button-down shirt that is mainly bright red. It is covered in various logos in white and dark red, some of which are Zekko's, and its buttons are brown and go left over right."
+  },
+  {
+    "id": 112,
+    "category": "clothing",
+    "name": "Lumberjack_Shirt",
+    "brand": "Rockenberg",
+    "price": "800",
+    "ability": "Ink_Saver_(Main)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/9\/9b\/S3_Gear_Clothing_Lumberjack_Shirt.png",
+    "description": "The Lumberjack Shirt is a collared, light brown top with brown plaid stripes, cuffed sleeves, and black buttons up the front. There is a pocket on the right side of the front of the shirt."
+  },
+  {
+    "id": 113,
+    "category": "clothing",
+    "name": "Lyco-P_Streetstyle_Tee",
+    "brand": "Skalop",
+    "price": "500",
+    "ability": "Ink_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/0\/04\/S3_Gear_Clothing_Lyco-P_Streetstyle_Tee.png",
+    "description": ""
+  },
+  {
+    "id": 114,
+    "category": "clothing",
+    "name": "Manatee_Swag_Sweat",
+    "brand": "Krak-On",
+    "price": "4000",
+    "ability": "Respawn_Punisher",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/7\/7c\/S3_Gear_Clothing_Manatee_Swag_Sweat.png",
+    "description": "The Manatee Swag Sweat is a grey sweatshirt with a manatee printed on it. There is a logo below the manatee. It has slightly wide sleeves."
+  },
+  {
+    "id": 115,
+    "category": "clothing",
+    "name": "Marinated_Top",
+    "brand": "amiibo",
+    "price": "Marina",
+    "ability": "Special_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/a\/a0\/S3_Gear_Clothing_Marinated_Top.png",
+    "description": "The Marinated Top is a replica of the white crop top Marina wears during the Octo Expansion. It also comes with a silver necklace, a watch, and a bracelet. On masculine styles, the top covers more midriff and slighty more shoulder."
+  },
+  {
+    "id": 116,
+    "category": "clothing",
+    "name": "Matcha_Down_Jacket",
+    "brand": "Inkline",
+    "price": "9100",
+    "ability": "Ninja_Squid",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/1\/1e\/S3_Gear_Clothing_Matcha_Down_Jacket.png",
+    "description": "The Matcha Down Jacket is a yellow, long-sleeved down jacket layered with a blue, unzipped zip over a red shirt. On the left breast is an embroidered Inkline logo."
+  },
+  {
+    "id": 117,
+    "category": "clothing",
+    "name": "Mint_Tee",
+    "brand": "Skalop",
+    "price": "400",
+    "ability": "Sub_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/d\/d8\/S3_Gear_Clothing_Mint_Tee.png",
+    "description": "The Mint Tee is a sea green short-sleeved T-shirt. Its only adornment is the Inkling text from the Skalop logo in white, turned on its side and mirrored, creating what can seem like an abstract design at first glance."
+  },
+  {
+    "id": 118,
+    "category": "clothing",
+    "name": "Moby_Knit",
+    "brand": "Krak-On",
+    "price": "9600",
+    "ability": "Ink_Recovery_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/c\/c8\/S3_Gear_Clothing_Moby_Knit.png",
+    "description": "The Moby Knit is a multi-colored knitted sweater inspired by the 80's hippie culture, most notably the psychedelic design. The knit itself, along with it's cuffs, is black, covered with metallic stripes of various thickness and design, placed in an asymmetric manner. The most characteristic element is a pair of whales, with the left being metallic brown and the right pure white, visible in the middle, blowing water from their blowholes. Thin black seams precede the collar and hem."
+  },
+  {
+    "id": 119,
+    "category": "clothing",
+    "name": "Motley_Hoodless",
+    "brand": "Z+F",
+    "price": "4567",
+    "ability": "Intensify_Action",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/a\/ab\/S3_Gear_Clothing_Motley_Hoodless.png",
+    "description": "The Motley Hoodless is a multicolored hoodie deprived of a hood. The red collar features a pair of empty golden grommets. The dark blue front presents the head of ZedFry and white lettering with an olive kangaroo pocket beneath. The right sleeve shares it's colour with the pocket. The back has the same ZedFry from behind with a text on its head. A small ZedFry resting on top of a blue star is on the left yellow sleeve near the cuff. The cuffs themselves are sky blue."
+  },
+  {
+    "id": 120,
+    "category": "clothing",
+    "name": "Mountain_Vest",
+    "brand": "Inkline",
+    "price": "11000",
+    "ability": "Swim_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/d\/d4\/S3_Gear_Clothing_Mountain_Vest.png",
+    "description": "The Mountain Vest consists of a purple down vest and a blue and white plaid button-down shirt worn underneath. The vest has a slightly shiny and wrinkly texture along with seven white buttons, two of which are on a pair of pockets near the bottom of the vest. Toward the top of the vest are sections of light and dark gray. The inside of the vests' collar consists of a dull yellow. The bottom of the plaid shirt pokes out loosely from beneath the vest. On the back of the vest underneath the collar is an Inkline logo, as well."
+  },
+  {
+    "id": 121,
+    "category": "clothing",
+    "name": "N-Pacer_Sweat",
+    "brand": "Enperry",
+    "price": "7800",
+    "ability": "Thermal_Ink",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/0\/05\/S3_Gear_Clothing_N-Pacer_Sweat.png",
+    "description": "The N-Pacer Sweat is a white sweatshirt with a design of a white athletic shoe on the front, behind a periodic table, with the text from the Enperry logo beneath it in black. There are more shoe designs on the backside of the sweatshirt that seem to be the N-Pacer CaO. On the side, there is a realistic giant squid."
+  },
+  {
+    "id": 122,
+    "category": "clothing",
+    "name": "Navy_College_Sweat",
+    "brand": "Splash_Mob",
+    "price": "800",
+    "ability": "Ink_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/a\/a4\/S3_Gear_Clothing_Navy_College_Sweat.png",
+    "description": "The Navy College Sweat is a navy blue pullover sweatshirt. On the front are some Inkling symbols, with three large ones in lime green at the top, two white ones in a lime green oval in the middle, and several small ones in lime green at the bottom. On the back is one more Inkling letter, printed very large in both lime green and navy blue."
+  },
+  {
+    "id": 123,
+    "category": "clothing",
+    "name": "Navy_Striped_LS",
+    "brand": "Splash_Mob",
+    "price": "1050",
+    "ability": "Ink_Recovery_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/e\/e2\/S3_Gear_Clothing_Navy_Striped_LS.png",
+    "description": "The Navy Striped LS is a navy blue, long-sleeved T-shirt with a small pocket on the left side of the chest. Starting at the pocket are several horizontal white stripes, followed by one yellow stripe. There are similar stripes on the sleeves that start just above the elbow, and at right side of the hem is a light blue tag with the Splash Mob logo in white."
+  },
+  {
+    "id": 124,
+    "category": "clothing",
+    "name": "Navy_Z+F_Tee",
+    "brand": "Z+F",
+    "price": "850",
+    "ability": "Special_Charge_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/e\/e2\/S3_Gear_Clothing_Navy_Z%2BF_Tee.png",
+    "description": "The Navy Z+F Tee is a short-sleeved navy blue shirt with the first letter of Z+F on its front in white. It also has the Z+F logo on a tag at the bottom. It has small white words written on it's back side."
+  },
+  {
+    "id": 125,
+    "category": "clothing",
+    "name": "Negative_Longcuff_Sweater",
+    "brand": "Toni_Kensa",
+    "price": "11800",
+    "ability": "Haunt",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/e\/e2\/S3_Gear_Clothing_Negative_Longcuff_Sweater.png",
+    "description": "The Negative Longcuff Sweater is a light black, long-sleeved, puffy sweater. As the name suggests, it differentiates itself with extremely long cuffs made of a soft fabric with numerous vertical stitches, which is also present on both the hem and collar. Sleeves are covered in visible thick seams running to the shoulders and collar. The left sleeve possesses a red Toni Kensa badge on it."
+  },
+  {
+    "id": 126,
+    "category": "clothing",
+    "name": "Octo_Jumper_Away",
+    "brand": "Takoroka",
+    "price": "3000",
+    "ability": "Swim_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/3\/39\/S3_Gear_Clothing_Octo_Jumper_Away.png",
+    "description": "The Octo Jumper Away is a piste worn over a crimson shirt with a white crew neck. The piste is dark blue and covered in black stripes, with the front and back dominated by three, closely placed stripes, leaving gaps of blue on their sides. The cuffs, hem, collar and arrow pattern on the sleeves are yellow. The front stripes are cut by a white Takoroka logo and the back hosts a number resembling 74 enclosed in a black circle with white writing above."
+  },
+  {
+    "id": 127,
+    "category": "clothing",
+    "name": "Octo_Tee",
+    "brand": "Cuttlegear",
+    "price": "8888",
+    "ability": "Haunt",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/c\/c3\/S3_Gear_Clothing_Octo_Tee.png",
+    "description": "The Octo Tee is a dark purple, short-sleeved T-shirt. It is decorated with Inkling (or possibly Octarian) text formed by rows of small rhinestones, with two large letters on the front and a line of smaller letters on the lower back. At the left side of the hem is a small green tag with the Cuttlegear logo in white, and the shirt is accompanied by two black wristbands with dark gray octopus designs."
+  },
+  {
+    "id": 128,
+    "category": "clothing",
+    "name": "Octobowler_Shirt",
+    "brand": "Krak-On",
+    "price": "2100",
+    "ability": "Ink_Saver_(Main)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/8\/83\/S3_Gear_Clothing_Octobowler_Shirt.png",
+    "description": "The Octobowler Shirt is a pink, short-sleeved, button-front collared shirt. There are two breast pockets on the shirt. The collar and buttons are black, and the sleeves and pockets have black edging. Above the right pocket is an embroidered Krak-On logo and above the left pocket is white embroidered lettering. On the right hand is a red and black fingerless glove with some Inkling written on it. On the back of the shirt is an image of an Octoball knocking over some bowling pins and some more white lettering above it."
+  },
+  {
+    "id": 129,
+    "category": "clothing",
+    "name": "Octosquid_Tandem_Tee",
+    "brand": "SquidForce",
+    "price": "300",
+    "ability": "Intensify_Action",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/b\/b7\/S3_Gear_Clothing_Octosquid_Tandem_Tee.png",
+    "description": "The Octosquid Tandem Tee is a short-sleeved T-Shirt made from 2 shirts attached to each other. On the left is a larger black shirt, with a squid and octopus badge. On the right is a smaller yellow shirt. Both parts have a large design printed on them."
+  },
+  {
+    "id": 130,
+    "category": "clothing",
+    "name": "Olive_Ski_Jacket",
+    "brand": "Inkline",
+    "price": "11000",
+    "ability": "Run_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/4\/40\/S3_Gear_Clothing_Olive_Ski_Jacket.png",
+    "description": "The Olive Ski Jacket is a heavy, olive green jacket with a large collar and a hood with short drawstrings on the front. On the left side of the chest, just below an Inkline logo, is a small pocket with a zipper on the side. There is a similar pocket on the left arm."
+  },
+  {
+    "id": 131,
+    "category": "clothing",
+    "name": "Orange_Cardigan",
+    "brand": "Splash_Mob",
+    "price": "700",
+    "ability": "Special_Charge_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/6\/68\/S3_Gear_Clothing_Orange_Cardigan.png",
+    "description": "The Orange Cardigan consists of a dark orange cardigan and a white button-down shirt with a plaid pattern worn underneath. The cardigan is lined with brown and has dark brown buttons that go left over right and a pair of brown stripes on each sleeve. There are also two small pockets also lined with brown at the belly area, one on either side of the buttons. The cardigan is adorned with a good deal of Inkling text; there is some small lettering in brown on the right side of the chest, an arrow-shaped design in black and white with a small symbol similar to the English letter \"K\" just above the left-hand pocket, and a pair of brown numbers outlined in white just below the right-hand one."
+  },
+  {
+    "id": 132,
+    "category": "clothing",
+    "name": "Orca_Bolero",
+    "brand": "Toni_Kensa",
+    "price": "9980",
+    "ability": "Ink_Recovery_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/5\/55\/S3_Gear_Clothing_Orca_Bolero.png",
+    "description": "The Orca Bolero is a long-sleeved black bolero worn on a thick white shirt. The bolero consists of visible patches of black synthetic fabric sewn on the shoulders and bottom parts of it's baggy sleeves, with the rest of the garment being extremely dark gray. The front features two black buttons and a high collar, obscuring the inner garment's portion, making it resemble an orca's belly. The bolero's rear possesses a black hood with it's inside covered in gray and a black net pattern. The shirt's collar sticks out on the top slightly, surrounded by the hood. A red Toni Kensa badge is sewn onto the left sleeve."
+  },
+  {
+    "id": 133,
+    "category": "clothing",
+    "name": "Part-Time_Pirate",
+    "brand": "Tentatek",
+    "price": "800",
+    "ability": "Respawn_Punisher",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/8\/81\/S3_Gear_Clothing_Part-Time_Pirate.png",
+    "description": "The Part-Time Pirate is a black short-sleeved shirt worn over a long-sleeved shirt with horizontal white and green stripes. There are three Tentatek logos on the short-sleeved shirt: a small white one on the left side of the chest, a large, lime green one on the back, and a tiny black one on an equally tiny green tag at the bottom. Also at the bottom, the end of the long-sleeved shirt can be seen poking out."
+  },
+  {
+    "id": 134,
+    "category": "clothing",
+    "name": "Patchwork_Bomber",
+    "brand": "Emberz",
+    "price": "12500",
+    "ability": "Ink_Saver_(Main)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/3\/3b\/S3_Gear_Clothing_Patchwork_Bomber.png",
+    "description": "The Patchwork Bomber is a jacket made from a combination of three jackets. Despite its name, the main part is a Krak-On 528. The right side, including the bottom half of the sleeve, is made from a section similar to the FA-01 Jacket. The left side is made from a part similar to the FA-01 Reversed. The jacket is open, and a white T-Shirt is underneath. The different parts of the jacket do not line up completely, the denim sections are slightly smaller than the parts similar to the Forge jackets."
+  },
+  {
+    "id": 135,
+    "category": "clothing",
+    "name": "Pearl_Tee",
+    "brand": "Skalop",
+    "price": "400",
+    "ability": "Ink_Saver_(Sub)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/a\/a9\/S3_Gear_Clothing_Pearl_Tee.png",
+    "description": "The Pearl Tee is a navy, short-sleeved T-shirt. Its design consists of white polka-dots with circles and scallop shells. On the back, below the collar, is a small yellow tag with a transparent Skalop logo, the logo is outlined in black."
+  },
+  {
+    "id": 136,
+    "category": "clothing",
+    "name": "Pearlescent_Hoodie",
+    "brand": "amiibo",
+    "price": "Pearl",
+    "ability": "Respawn_Punisher",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/4\/42\/S3_Gear_Clothing_Pearlescent_Hoodie.png",
+    "description": "The Pearlescent Hoodie is a replica of the hoodie Pearl wears during the Octo Expansion. The hoodie is light pink with long, light yellow sleeves. It comes with a gold necklace and five golden rings, three of which are worn on the right hand with the other two on the left. The hood of the Pearlescent Hoodie is not worn over the player's head, unlike how Pearl wears it in the Octo Expansion."
+  },
+  {
+    "id": 137,
+    "category": "clothing",
+    "name": "Penguin_Bolero",
+    "brand": "Toni_Kensa",
+    "price": "9900",
+    "ability": "Ink_Saver_(Sub)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/9\/95\/S3_Gear_Clothing_Penguin_Bolero.png",
+    "description": "The Penguin Bolero is a long-sleeved white bolero worn on a thick gray shirt. The bolero consists of visible patches of black synthetic fabric sewn on the shoulders and bottom parts of its baggy sleeves, with the rest of the garment being dirty white. The front features two black buttons and a high collar, obscuring the inner garment's portion, making it resemble a penguin's belly. The bolero's rear possesses a white hood with its inside covered in gray and a black net pattern. The shirt's collar sticks out on the top slightly, surrounded by the hood. A red Toni Kensa badge is sewn onto the left sleeve."
+  },
+  {
+    "id": 138,
+    "category": "clothing",
+    "name": "Pineapple_Ringer",
+    "brand": "Zink",
+    "price": "1000",
+    "ability": "Ink_Recovery_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/9\/9d\/S3_Gear_Clothing_Pineapple_Ringer.png",
+    "description": "The Pineapple Ringer is a lemon yellow, slim-fit ringer tee with three black bands of ribbed material acting as collar and cuffs. A black Zink logo is printed in the top right corner, along with black writing on the back. On the left side a vermillion Zink label is sewn."
+  },
+  {
+    "id": 139,
+    "category": "clothing",
+    "name": "Pirate-Stripe_Tee",
+    "brand": "Splash_Mob",
+    "price": "700",
+    "ability": "Special_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/e\/e5\/S3_Gear_Clothing_Pirate-Stripe_Tee.png",
+    "description": "The Pirate-Stripe Tee is a short-sleeved T-shirt with horizontal red and white stripes and a small pocket at the left side of the chest. On the bottom right side of the hem is a tiny, light blue tag with what is most likely the Splash Mob logo in white."
+  },
+  {
+    "id": 140,
+    "category": "clothing",
+    "name": "Power_Armor",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Quick_Respawn",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/a\/ac\/S3_Gear_Clothing_Power_Armor.png",
+    "description": "The Power Armor is a huge, bulky set of armor. Its base layer is made of dark gray metal, and it has light gray plates on the chest and arms with a few medium gray spots. It includes large metal gloves that are part of the sleeves. Coming out of the chest plates and curving around the shoulders to the back are two thick tubes with a a pattern in black as well as the wearer's ink color."
+  },
+  {
+    "id": 141,
+    "category": "clothing",
+    "name": "Power_Armor_Mk_I",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Ink_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/c\/cc\/S3_Gear_Clothing_Power_Armor_Mk_I.png",
+    "description": "The Power Armor Mk I is a suit of silver armor that is highly reflective. The torso, arms and hands are all covered with metal plates."
+  },
+  {
+    "id": 142,
+    "category": "clothing",
+    "name": "Purple_Camo_LS",
+    "brand": "Takoroka",
+    "price": "600",
+    "ability": "Sub_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/1\/1d\/S3_Gear_Clothing_Purple_Camo_LS.png",
+    "description": "The Purple Camo LS is a long-sleeved T-shirt covered with a camouflage pattern in two shades of purple, accompanied by an orange armband on the left arm. On the left side of the chest is a white emblem with a small anchor, and on the hem is a tiny, light blue tag with the Takoroka logo in black. The anchor crest is repeated on the back of the shirt, where it is much larger and has some white Inkling text below it."
+  },
+  {
+    "id": 143,
+    "category": "clothing",
+    "name": "Rad_Plaid_Casual",
+    "brand": "Z+F",
+    "price": "9760",
+    "ability": "Swim_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/f\/f7\/S3_Gear_Clothing_Rad_Plaid_Casual.png",
+    "description": "The Rad Plaid Casual is a short-sleeved, button-down shirt similar to the Urban Upcycle Top or the Business Animal, but with squares of plaid patterns sewn together. Red, yellow, green and blue are the main colors of the squares."
+  },
+  {
+    "id": 144,
+    "category": "clothing",
+    "name": "Rainy-Day_Tee",
+    "brand": "Krak-On",
+    "price": "300",
+    "ability": "Ink_Saver_(Main)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/e\/e6\/S3_Gear_Clothing_Rainy-Day_Tee.png",
+    "description": "The Rainy-Day Tee is a sky blue short-sleeved T-shirt. On the front is the Krak-On name written in yellow Inkling text, and on the bottom is a tiny black tag with the Krak-On logo in white. On the back is a full-sized version of the Krak-On logo in yellow, with the same logo text from the front repeated below it, albeit slightly smaller."
+  },
+  {
+    "id": 145,
+    "category": "clothing",
+    "name": "Red_Battlecrab_Shell",
+    "brand": "Enperry",
+    "price": "6200",
+    "ability": "Sub_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/e\/e5\/S3_Gear_Clothing_Red_Battlecrab_Shell.png",
+    "description": "The Red Battlecrab Shell is a red protective vest with a long-sleeved patterned shirt underneath. The vest's front resembles a crab's face, with a combination of convex elements, characteristic shapes and rounded edges. The vest also possesses numerous a white frame and scarlet straps. The rear features a pad covering the wearer's lumbar region, also referencing a crab's anatomy. It appears to hang on a pair of thick shoulder pads attached from above. The shirt is dark blue, with a wide red stripe in the middle and two smaller ones on the forearms, with other white elements. A golden Enperry label can be seen on the bosom of the vest, along a golden Enperry writing on the left of the front convex part."
+  },
+  {
+    "id": 146,
+    "category": "clothing",
+    "name": "Red_Vector_Tee",
+    "brand": "Takoroka",
+    "price": "500",
+    "ability": "Ink_Saver_(Main)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/d\/d1\/S3_Gear_Clothing_Red_Vector_Tee.png",
+    "description": "The Red Vector Tee is a dark red, short-sleeved T-shirt with four parallel rows of white arrows that alternate direction, hence the name. At the bottom is a tiny, light blue tag with the Takoroka logo in black, with another in white below the nape."
+  },
+  {
+    "id": 147,
+    "category": "clothing",
+    "name": "Red-Check_Shirt",
+    "brand": "Zekko",
+    "price": "2000",
+    "ability": "Ink_Saver_(Main)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/a\/a0\/S3_Gear_Clothing_Red-Check_Shirt.png",
+    "description": "The Red-Check Shirt is a long-sleeved button-down shirt that is dark red with navy blue plaid. It has white buttons that go left over right, and at the bottom of the shirt is a small white label with an even smaller  Zekko logo on it."
+  },
+  {
+    "id": 148,
+    "category": "clothing",
+    "name": "Reel_Sweat",
+    "brand": "Zekko",
+    "price": "900",
+    "ability": "Special_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/2\/27\/S3_Gear_Clothing_Reel_Sweat.png",
+    "description": "The Reel Sweat is a red pullover sweatshirt with a large circular design on the front in white with a pair of U-shaped arrows in the center. There are two small Zekko logos: one in full color on a small white label on the front, and another below the nape in white only."
+  },
+  {
+    "id": 149,
+    "category": "clothing",
+    "name": "Reggae_Tee",
+    "brand": "Skalop",
+    "price": "8200",
+    "ability": "Special_Saver",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/d\/df\/S3_Gear_Clothing_Reggae_Tee.png",
+    "description": "The Reggae Tee is a short-sleeved T-shirt depicting a beach scene with several stylized squids in navy blue and white and some similarly colored palm trees. The sand is a pale cream color, and the sky, dotted with stars, fades from peach at the bottom to light fuchsia at the top. One of the squids is playing what looks like a banjo."
+  },
+  {
+    "id": 150,
+    "category": "clothing",
+    "name": "Retro_Gamer_Jersey",
+    "brand": "Zink",
+    "price": "9000",
+    "ability": "Quick_Respawn",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/1\/1b\/S3_Gear_Clothing_Retro_Gamer_Jersey.png",
+    "description": "The Retro Gamer Jersey is a dark red zip-up jacket that is white from the chest down. It has a somewhat high collar and two pockets lined with red despite being in the white area of the jacket. On the right side of the chest is the text from the Zink logo in white, and on the left is the full logo. Down each sleeve is a long white arrow with the Inkling text from the Zink logo again, this time in red and repeated several times. The collar, hem, and ends of the sleeves are all lined with a slightly lighter and shinier material than the rest of the jacket. There is also a larger version of the Zink logo on the back in white."
+  },
+  {
+    "id": 151,
+    "category": "clothing",
+    "name": "Retro_Sweat",
+    "brand": "SquidForce",
+    "price": "9000",
+    "ability": "Sub_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/6\/6c\/S3_Gear_Clothing_Retro_Sweat.png",
+    "description": "The Retro Sweat is a dull pink pullover sweatshirt. On the front is a simple black line drawing of Judd, with the Inkling text from the SquidForce logo below it, also in black."
+  },
+  {
+    "id": 152,
+    "category": "clothing",
+    "name": "Rockenberg_Black",
+    "brand": "Rockenberg",
+    "price": "800",
+    "ability": "Respawn_Punisher",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/0\/0d\/S3_Gear_Clothing_Rockenberg_Black.png",
+    "description": "The Rockenberg Black is a simple short-sleeved T-shirt that, despite the name, is not black, but a very dark gray. On the chest is the Inkling text from the Rockenberg logo in white, and on the back is a large version of the full Rockenberg logo, also in white. On the left side of the shirt, at about waist level, there is a tiny red-orange tag."
+  },
+  {
+    "id": 153,
+    "category": "clothing",
+    "name": "Rockenberg_White",
+    "brand": "Rockenberg",
+    "price": "2500",
+    "ability": "Ink_Recovery_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/f\/f6\/S3_Gear_Clothing_Rockenberg_White.png",
+    "description": "The Rockenberg White is a simple, short-sleeved white T-shirt. On the chest is the Inkling text from the Rockenberg logo in black, and on the back is the Rockenberg logo. On the left side of the shirt, toward the bottom, is a tiny red-orange tag."
+  },
+  {
+    "id": 154,
+    "category": "clothing",
+    "name": "Rodeo_Shirt",
+    "brand": "Krak-On",
+    "price": "750",
+    "ability": "Quick_Super_Jump",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/2\/27\/S3_Gear_Clothing_Rodeo_Shirt.png",
+    "description": "The Rodeo Shirt is a coffee button-down, collared shirt with front golden thread embroidery and dark gray cuffed sleeves. Said cuffs had a black horseshoe-like line-up buttons on both sides. The Krak-On logo is embroidered on the back of the cowboy dress shirt."
+  },
+  {
+    "id": 155,
+    "category": "clothing",
+    "name": "Round-Collar_Shirt",
+    "brand": "Rockenberg",
+    "price": "1600",
+    "ability": "Ink_Saver_(Sub)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/b\/b5\/S3_Gear_Clothing_Round-Collar_Shirt.png",
+    "description": "The Round-Collar Shirt is a purple, short-sleeved, button-down shirt. The points of the collar are rounded off, hence the name, and it has white buttons that go left over right. It also has a small pocket on the chest, the Inkling text from the Rockenberg logo next to it in a very dark purple, and a tiny orange tag at the left side of the wearer's waist."
+  },
+  {
+    "id": 156,
+    "category": "clothing",
+    "name": "Rugby_King_08",
+    "brand": "Enperry",
+    "price": "3200",
+    "ability": "Quick_Super_Jump",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/3\/38\/S3_Gear_Clothing_Rugby_King_08.png",
+    "description": "The Rugby King 08 is a long-sleeved tricolour rugby shirt. The body is divided by three stripes of different colours. The lower part is covered in two stripes, a dark green on it's left and a purple on the right, sharing two vertical borders in the middle. Above them a larger yellow stripe dominates the rest of the space. The right hem and the left sleeve are also purple. Except those three colours, many elements also feature orange, including the left cuff, the right sleeve, the collar and an octoking logo on the shirt's upper left corner."
+  },
+  {
+    "id": 157,
+    "category": "clothing",
+    "name": "Rugby_King_10",
+    "brand": "Enperry",
+    "price": "3200",
+    "ability": "Ink_Saver_(Sub)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/e\/ee\/S3_Gear_Clothing_Rugby_King_10.png",
+    "description": "The Rugby King 10 is a long-sleeved quadricolour rugby shirt. The body is divided by four stripes of different colours, arranged in a chess resembling pattern. The lower part is covered in two stripes, a dark green on it's right and a yellow on the left, sharing two vertical borders in the middle. Above them another pair of smaller stripes dominate the rest of the space with the left being dark blue and the right pastel pink. The sleeves feature colours contrasting to their respective neighbouring stripes. The hems are in navy blue and the collar is white."
+  },
+  {
+    "id": 158,
+    "category": "clothing",
+    "name": "Sage_Polo",
+    "brand": "Splash_Mob",
+    "price": "400",
+    "ability": "Intensify_Action",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/1\/16\/S3_Gear_Clothing_Sage_Polo.png",
+    "description": "The Sage Polo is a lime green shirt with short sleeves, a light gray collar, and two white buttons, the upper of which is undone. On the left side of the chest is a pocket with a black and white emblem in the middle and a small pink tag with the Splash Mob logo on the side."
+  },
+  {
+    "id": 159,
+    "category": "clothing",
+    "name": "Sailor-Stripe_Tee",
+    "brand": "Splash_Mob",
+    "price": "700",
+    "ability": "Run_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/6\/62\/S3_Gear_Clothing_Sailor-Stripe_Tee.png",
+    "description": "The Sailor-Stripe Tee is a short-sleeved T-shirt with blue and white horizontal stripes and a thin orange outline at the collar. It has a breast pouch on the left side that follows the same blue and white stripes pattern, but slightly shifted so that it is distinguished from the rest of the shirt. There is also a tiny, light blue tag with the Splash Mob logo on it in white at the right side of the hem."
+  },
+  {
+    "id": 160,
+    "category": "clothing",
+    "name": "Samurai_Jacket",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Special_Charge_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/1\/13\/S3_Gear_Clothing_Samurai_Jacket.png",
+    "description": "The Samurai Jacket is a suit of armor in the style of \u014d-yoroi, Japanese armor traditionally worn by samurai. The first layer is a loose shirt in a dull blue-green, with a white collar and a black shirt underneath. Over the blue-green shirt is a light gray breastplate with a soft blue and red pattern on it, as if painted. On the shoulders are massive spaulders made of many layers of metal that fall almost to the wearer's wrists. Falling to the wearer's knees is a skirt-like garment, also made from layers of metal. Both the spaulders and the skirt change color to match that of the wearer's ink. Forearm guards, which also match the wearer's Ink color, are strapped on with a single green band each, and around the waist is a slightly thinner white band. A small black object, possibly a sheathed weapon, is tucked into this band at an angle."
+  },
+  {
+    "id": 161,
+    "category": "clothing",
+    "name": "School_Cardigan_A",
+    "brand": "amiibo",
+    "price": "I0",
+    "ability": "Run_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/5\/5b\/S3_Gear_Clothing_School_Cardigan_A.png",
+    "description": "The School Cardigan is a black long-sleeved button-front cardigan with a white dress shirt underneath with a pink-green striped tie."
+  },
+  {
+    "id": 162,
+    "category": "clothing",
+    "name": "School_Cardigan_B",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Run_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/7\/72\/S3_Gear_Clothing_School_Cardigan_B.png",
+    "description": "The School Cardigan is a black long-sleeved button-front cardigan with a white dress shirt underneath with a pink-green striped tie."
+  },
+  {
+    "id": 163,
+    "category": "clothing",
+    "name": "School_Jersey",
+    "brand": "Zink",
+    "price": "3000",
+    "ability": "Ninja_Squid",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/1\/16\/S3_Gear_Clothing_School_Jersey.png",
+    "description": "The School Jersey is a dark blue zip-up jacket with a somewhat high collar and two pockets. On the right side of the chest is a pair of Inkling symbols in white, and on the left is the Zink logo. Down each sleeve is a long white arrow with the Inkling text from the Zink logo in blue, repeated several times. The collar, hem, and ends of the sleeves are all lined with a slightly lighter and shinier material than the rest of the jacket. There is also a larger version of the Zink logo on the back in white."
+  },
+  {
+    "id": 164,
+    "category": "clothing",
+    "name": "School_Uniform_A",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Ink_Recovery_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/7\/7b\/S3_Gear_Clothing_School_Uniform_A.png",
+    "description": "The School Uniform consists of a navy blue jacket, a cream sweater, a white collared shirt, and a tie which changes its color to match the wearer's ink. On the top left side of the jacket is an emblem, likely a school emblem, and near the middle of each side of the jacket are pockets. The jacket also has two golden buttons on its front opening and another golden button can be seen on the back of each sleeve."
+  },
+  {
+    "id": 165,
+    "category": "clothing",
+    "name": "School_Uniform_B",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Ink_Recovery_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/f\/fb\/S3_Gear_Clothing_School_Uniform_B.png",
+    "description": "The School Uniform consists of a navy blue jacket, a cream sweater, a white collared shirt, and a tie which changes its color to match the wearer's ink. On the top left side of the jacket is an emblem, likely a school emblem, and near the middle of each side of the jacket are pockets. The jacket also has two golden buttons on its front opening and another golden button can be seen on the back of each sleeve."
+  },
+  {
+    "id": 166,
+    "category": "clothing",
+    "name": "Schoolyard_Scrap_Jack",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Sub_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/5\/5e\/S3_Gear_Clothing_Schoolyard_Scrap_Jack.png",
+    "description": ""
+  },
+  {
+    "id": 167,
+    "category": "clothing",
+    "name": "Seafoam_Hoodie",
+    "brand": "Z+F",
+    "price": "8920",
+    "ability": "Ink_Saver_(Sub)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/3\/32\/S3_Gear_Clothing_Seafoam_Hoodie.png",
+    "description": "The Seafoam Hoodie is a pale green zip-up hoodie with the Seafoam pattern design."
+  },
+  {
+    "id": 168,
+    "category": "clothing",
+    "name": "Seahorse_Shoreliner",
+    "brand": "Krak-On",
+    "price": "3800",
+    "ability": "Special_Saver",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/8\/89\/S3_Gear_Clothing_Seahorse_Shoreliner.png",
+    "description": "The Seahorse Shoreliner is a cream guayabera with dark brown buttons. It has two vertical, beige rows with a seahorse pattern running through the front, along with four buttoned pockets and two smaller, reversed ones at the bottom of the shirt."
+  },
+  {
+    "id": 169,
+    "category": "clothing",
+    "name": "Shirt_&_Tie",
+    "brand": "Splash_Mob",
+    "price": "8400",
+    "ability": "Special_Saver",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/d\/d1\/S3_Gear_Clothing_Shirt_%26_Tie.png",
+    "description": "The Shirt & Tie is a white button-down long-sleeve shirt with a red-and-blue-striped tie. On the middle of the tie, a squid-like logo clip is seen."
+  },
+  {
+    "id": 170,
+    "category": "clothing",
+    "name": "Shrimp-Pink_Polo",
+    "brand": "Splash_Mob",
+    "price": "550",
+    "ability": "Ninja_Squid",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/4\/4c\/S3_Gear_Clothing_Shrimp-Pink_Polo.png",
+    "description": "The Shrimp-Pink Polo is a salmon-colored polo shirt. Near the collar are two white buttons that go left over right, with the top one left unbuttoned. It features a small blue shrimp emblem on the left side of the chest, hence the name. On the back of the shirt near the hem is the Splash Mob logo."
+  },
+  {
+    "id": 171,
+    "category": "clothing",
+    "name": "Sky-Blue_Squideye",
+    "brand": "Tentatek",
+    "price": "500",
+    "ability": "Intensify_Action",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/2\/2d\/S3_Gear_Clothing_Sky-Blue_Squideye.png",
+    "description": "The Sky-Blue Squideye is a short-sleeved sky blue shirt. It has the Tentatek logo on both the front and back in pink and white, with pink Inkling text under both logos, and comes with a black wristband with a pink stripe, worn on the right wrist. On the bottom left of the shirt is a small neon green tag with another Tentatek logo on it in black."
+  },
+  {
+    "id": 172,
+    "category": "clothing",
+    "name": "Slipstream_United",
+    "brand": "Takoroka",
+    "price": "1800",
+    "ability": "Sub_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/a\/a3\/S3_Gear_Clothing_Slipstream_United.png",
+    "description": "The Slipstream United is a soccer jersey with dark blue and red vertical stripes. The sleeves and collar are lined with white, on the left arm is a yellow armband with a black Takoroka logo, and up to each shoulder is a row of white chevrons. There is a smaller Takoroka logo on the right side of the chest in white and a small green and white crest on the left with three yellow stars above it. Below the logo and crest is a white Inkling word. On the back is white writing in Inkling, and the number 10."
+  },
+  {
+    "id": 173,
+    "category": "clothing",
+    "name": "Squid_Satin_Jacket",
+    "brand": "Zekko",
+    "price": "9200",
+    "ability": "Quick_Respawn",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/8\/87\/S3_Gear_Clothing_Squid_Satin_Jacket.png",
+    "description": "The Squid Satin Jacket is an emerald green satin jacket in the style of sukajan. The sleeves, hem, and collar are dark gray with a tan stripe and the sleeves are white with a thick stripe in the same emerald green as the body. It has a pair of pockets lined with white and ending in arrows, a gold zipper, and two Judd-like cat heads embroidered on either side. On the back is another cat reminiscent of Judd next to ikameshi, a large squid that appears to be partly cut up. Above the two is red Inkling text that loosely resembles Zekko's Japanese name, Ezokko. A brown shirt is worn under the jacket, with the hem and collar visible."
+  },
+  {
+    "id": 174,
+    "category": "clothing",
+    "name": "Squid-Pattern_Waistcoat",
+    "brand": "Krak-On",
+    "price": "800",
+    "ability": "Special_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/1\/14\/S3_Gear_Clothing_Squid-Pattern_Waistcoat.png",
+    "description": "The Squid-Pattern Waistcoat consists of a long-sleeved button-down shirt and the red waistcoat worn over it. The long-sleeved shirt is a very pale blue with a black plaid pattern, and the waistcoat has three large dark gray buttons that go left over right. On either side of the buttons is a dark blue and tan design that may be a stylized version of some type of mollusc or crustacean."
+  },
+  {
+    "id": 175,
+    "category": "clothing",
+    "name": "Squid-Stitch_Tee",
+    "brand": "Skalop",
+    "price": "400",
+    "ability": "Swim_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/5\/5c\/S3_Gear_Clothing_Squid-Stitch_Tee.png",
+    "description": "The Squid-Stitch Tee is a short-sleeved T-shirt. It is covered in a pattern similar to houndstooth in light green and white, but the sleeves and collar are solid green. It has the Inkling text from Skalop's logo on the front in purple."
+  },
+  {
+    "id": 176,
+    "category": "clothing",
+    "name": "Squiddor_Polo",
+    "brand": "Grizzco",
+    "price": "0",
+    "ability": "Run_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/3\/3a\/S3_Gear_Clothing_Squiddor_Polo.png",
+    "description": "The Squiddor Polo is a green and white striped, short-sleeved polo shirt. The sleeves and collar are solid green. On the right breast and back is the IShipIt logo and on the left breast is a solid green pocket with a name tag."
+  },
+  {
+    "id": 177,
+    "category": "clothing",
+    "name": "Squidmark_LS",
+    "brand": "SquidForce",
+    "price": "600",
+    "ability": "Haunt",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/8\/88\/S3_Gear_Clothing_Squidmark_LS.png",
+    "description": "The Squidmark LS is a gray, long-sleeved T-shirt adorned with a large white and gray Turf War logo graphic in the center. A pink tag with the same logo is present on the bottom left of the shirt's hem. Down the sides of each sleeve are three Turf War logos, also colored white and gray. On the back hem of the shirt is some black Inkling text."
+  },
+  {
+    "id": 178,
+    "category": "clothing",
+    "name": "Squidmark_Sweat",
+    "brand": "SquidForce",
+    "price": "800",
+    "ability": "Sub_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/5\/5a\/S3_Gear_Clothing_Squidmark_Sweat.png",
+    "description": "The Squidmark Sweat is a yellow sweatshirt. On the front of the shirt is a black SquidForce logo. On the back of the shirt are many more words written in Inkling. The right sleeve also bears a green tag with another SquidForce logo on it."
+  },
+  {
+    "id": 179,
+    "category": "clothing",
+    "name": "Squidstar_Waistcoat",
+    "brand": "Krak-On",
+    "price": "650",
+    "ability": "Intensify_Action",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/8\/83\/S3_Gear_Clothing_Squidstar_Waistcoat.png",
+    "description": "The Squidstar Waistcoat consists of a light, long-sleeved, button-down shirt and a darker gray waistcoat worn over it. The waistcoat has three large brown buttons that go left over right; on either side is a design in red, white, and yellow-orange with some symbols possibly representing squids. This design is repeated on the back, where it is slightly larger."
+  },
+  {
+    "id": 180,
+    "category": "clothing",
+    "name": "Squinja_Suit",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Special_Saver",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/9\/95\/S3_Gear_Clothing_Squinja_Suit.png",
+    "description": "The Squinja Suit is an all-black shozoku robe with black fingerless gloves and arm guards. On the left upper arm is a small pocket. On the right upper arm is an emblem shaped like a squid's mantle. The arm guards change color to match the wearer's ink."
+  },
+  {
+    "id": 181,
+    "category": "clothing",
+    "name": "Steel_Platemail",
+    "brand": "amiibo",
+    "price": "0",
+    "ability": "Ink_Saver_(Sub)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/c\/cc\/S3_Gear_Clothing_Steel_Platemail.png",
+    "description": "The Steel Platemail is a medieval knight's chestplate with arm gauntlets over what seems to be a black sweater resembling a chain mail coat."
+  },
+  {
+    "id": 182,
+    "category": "clothing",
+    "name": "Striped_Peaks_LS",
+    "brand": "Inkline",
+    "price": "700",
+    "ability": "Quick_Super_Jump",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/d\/dd\/S3_Gear_Clothing_Striped_Peaks_LS.png",
+    "description": "The Striped Peaks LS is a gray, long-sleeved T-shirt with a white collar. It has three sets of three horizontal dark gray stripes separated by large sections of lighter gray, with the sleeves bearing a similar pattern of stripes, but with two sets of three and two sets of two. It has the Inkline logo on the front in white and a tiny purple tag at the lower left side with Inkline's name in white Inkling text. On the lower back is some more Inkling text, also white."
+  },
+  {
+    "id": 183,
+    "category": "clothing",
+    "name": "Striped_Rugby",
+    "brand": "Takoroka",
+    "price": "2300",
+    "ability": "Run_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/4\/4f\/S3_Gear_Clothing_Striped_Rugby.png",
+    "description": "The Striped Rugby is a long-sleeved rugby shirt with thick horizontal stripes in dark red and mustard yellow. Unlike the rest of the shirt, the pointed collar is white. On the right side of the chest area is a small patch with the Ranked Battle logo in blue and white, and on the left is a tiny version of the Takoroka logo in just white. On the back, just below the collar, there is some Inkling text in blue. Below that is a large blue square outlined in white, with one of the few instances of Inkling looking identical to a human language; in the middle of the blue square is a thick white symbol that looks very similar to the number \"7\"."
+  },
+  {
+    "id": 184,
+    "category": "clothing",
+    "name": "Striped_Shirt",
+    "brand": "Splash_Mob",
+    "price": "2200",
+    "ability": "Quick_Super_Jump",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/0\/02\/S3_Gear_Clothing_Striped_Shirt.png",
+    "description": "The Striped Shirt is a long-sleeved button-down shirt. It is white with vertical green stripes and mustard-colored buttons. It is buttoned left over right and has a small pocket."
+  },
+  {
+    "id": 185,
+    "category": "clothing",
+    "name": "Sudadera_Celeste",
+    "brand": "Krak-On",
+    "price": "3650",
+    "ability": "Ninja_Squid",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/a\/ae\/S3_Gear_Clothing_Sudadera_Celeste.png",
+    "description": "The Sudadera Celeste is a celeste hoodie with inuit-inspired patterns. The front has two vertical strips consisting of one purple strip sandwiched between pastel blue ones, resembling sea waves. The exactly same pattern can also be found on the kangaroo pocket, on the outer part of the hood and underneath a pair of asymmetrical drawstrings. Sleeves are covered in an abstract fish graphic presenting slender skeleton. On the back a large, purple Krak-On logo is visible with a little fish skeleton placed underneath it."
+  },
+  {
+    "id": 186,
+    "category": "clothing",
+    "name": "Sudadera_Roja",
+    "brand": "Krak-On",
+    "price": "3450",
+    "ability": "Quick_Respawn",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/8\/8e\/S3_Gear_Clothing_Sudadera_Roja.png",
+    "description": "The Sudadera Roja is a cherry red hoodie covered with vertical, black stripes. The drawstrings are asymmetrical with their tips being black. The kangaroo pocket has a blue Krak-On sign sewn on it and the back is ornamented with original Krak-On logo."
+  },
+  {
+    "id": 187,
+    "category": "clothing",
+    "name": "Sunny-Day_Tee",
+    "brand": "Krak-On",
+    "price": "300",
+    "ability": "Special_Charge_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/3\/36\/S3_Gear_Clothing_Sunny-Day_Tee.png",
+    "description": "The Sunny-Day Tee is a bright orange short-sleeved T-shirt. On the front is the Krak-On logo text written in white Inkling, and on the bottom is a tiny black tag with the Krak-On logo in white. On the back is a full-size version of the Krak-On logo in white, with the same logo text from the front repeated below it, albeit slightly smaller."
+  },
+  {
+    "id": 188,
+    "category": "clothing",
+    "name": "Takoroka_Galactic_Tie_Dye",
+    "brand": "Takoroka",
+    "price": "850",
+    "ability": "Thermal_Ink",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/1\/1e\/S3_Gear_Clothing_Takoroka_Galactic_Tie_Dye.png",
+    "description": "The Takoroka Galactic Tie Dye is a T-shirt with white text on the front. A tie dye swirl made up of a few shades of dark blue and purple encompasses the shirt and meets in the middle. On the bottom of the shirt is a black Takoroka tag. Combined with the blue and purple colors and the white text beneath the logo, it's likely a reference to the album cover of Metallica's \"Ride the Lightning\"."
+  },
+  {
+    "id": 189,
+    "category": "clothing",
+    "name": "Takoroka_Rainbow_Tie_Dye",
+    "brand": "Takoroka",
+    "price": "850",
+    "ability": "Quick_Super_Jump",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/f\/f4\/S3_Gear_Clothing_Takoroka_Rainbow_Tie_Dye.png",
+    "description": "The Takoroka Rainbow Tie Dye is a T-shirt with white text on the front. A rainbow tie dye swirl encompasses the shirt and meets in the middle. On the bottom of the shirt is a black Takoroka tag."
+  },
+  {
+    "id": 190,
+    "category": "clothing",
+    "name": "Takoroka_Nineties_Nylon",
+    "brand": "Takoroka",
+    "price": "9900",
+    "ability": "Ink_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/f\/f9\/S3_Gear_Clothing_Takoroka_Nineties_Nylon.png",
+    "description": ""
+  },
+  {
+    "id": 191,
+    "category": "clothing",
+    "name": "Takoroka_Nylon_Vintage",
+    "brand": "Takoroka",
+    "price": "9500",
+    "ability": "Thermal_Ink",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/2\/29\/S3_Gear_Clothing_Takoroka_Nylon_Vintage.png",
+    "description": "The Takoroka Nylon Vintage is a black, purple, and turquoise long-sleeved jacket. It has a collar, a zipper, and pockets. The Takoroka logo is featured in the center of the jacket."
+  },
+  {
+    "id": 192,
+    "category": "clothing",
+    "name": "Takoroka_Tandem",
+    "brand": "Takoroka",
+    "price": "1200",
+    "ability": "Swim_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/0\/03\/S3_Gear_Clothing_Takoroka_Tandem.png",
+    "description": "The Takoroka Tandem is a short-sleeved T-shirt made from 2 shirts attached to each other. On the left is a smaller black shirt, with a print of half of the \"Skateboard\" logo in white. On the right is a larger red shirt, with the right half of Skateboard's wordmark on it, which is yellow."
+  },
+  {
+    "id": 193,
+    "category": "clothing",
+    "name": "Tan_Retro_Tee",
+    "brand": "Tentatek",
+    "price": "8800",
+    "ability": "Ninja_Squid",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/a\/a7\/S3_Gear_Clothing_Tan_Retro_Tee.png",
+    "description": "The Tan Retro Tee is a short-sleeved tan tee with the Tentatek logo in 4 different shades of brown arranged next to each other horizontally. A small circle-like symbol is featured both on the label and on the back."
+  },
+  {
+    "id": 194,
+    "category": "clothing",
+    "name": "Tentatek_Tandem",
+    "brand": "Tentatek",
+    "price": "960",
+    "ability": "Ink_Saver_(Main)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/a\/ae\/S3_Gear_Clothing_Tentatek_Tandem.png",
+    "description": "The Tentatek is a short-sleeved T-shirt made from 2 shirts attached to each other. On the left is a smaller pink shirt, with a print of half of the Tentatek logo rotated 90 degrees. On the right is a larger black shirt, with the right half of Tentatek's wordmark on it, which is repeated 4 times with progressively darker coloring."
+  },
+  {
+    "id": 195,
+    "category": "clothing",
+    "name": "Tri-Octo_Tee",
+    "brand": "SquidForce",
+    "price": "300",
+    "ability": "Ink_Saver_(Sub)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/7\/7f\/S3_Gear_Clothing_Tri-Octo_Tee.png",
+    "description": "The Tri-Octo Tee is a short-sleeved, black T-shirt with the Octopus Logo 3 on its front and a line of white text on its rear-bottom. A dark red SquidForce label is sewn on the hem."
+  },
+  {
+    "id": 196,
+    "category": "clothing",
+    "name": "Tri-Shred_Tee",
+    "brand": "SquidForce",
+    "price": "530",
+    "ability": "Quick_Respawn",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/b\/b9\/S3_Gear_Clothing_Tri-Shred_Tee.png",
+    "description": "The Tri-Shred Tee resembles a badly-damaged Tri-Squid Tee, whose white color has turned tan, and whose logo has turned from black to white."
+  },
+  {
+    "id": 197,
+    "category": "clothing",
+    "name": "Tri-Squid_Tee",
+    "brand": "SquidForce",
+    "price": "300",
+    "ability": "Quick_Respawn",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/d\/d7\/S3_Gear_Clothing_Tri-Squid_Tee.png",
+    "description": "The Tri-Squid Tee is a short-sleeved, white T-shirt with a Squid Logo 3 on its front and a line of black Inkling text on its rear-bottom part. A brown SquidForce label is sewn on the hem."
+  },
+  {
+    "id": 198,
+    "category": "clothing",
+    "name": "Tricolor_Rugby",
+    "brand": "Takoroka",
+    "price": "700",
+    "ability": "Quick_Respawn",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/7\/75\/S3_Gear_Clothing_Tricolor_Rugby.png",
+    "description": "The Tricolor Rugby is a long-sleeved, navy blue rugby shirt with a white collar and light gray cuffs. Across the chest and upper arms are two thick horizontal stripes, the upper being white and the lower dark red. On the left side of the chest area is a small patch with an an anchor-like symbol in blue and white, and on the back, just below the collar, is a large Takoroka logo in white."
+  },
+  {
+    "id": 199,
+    "category": "clothing",
+    "name": "Trooper_Top",
+    "brand": "Z+F",
+    "price": "10100",
+    "ability": "Ink_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/6\/60\/S3_Gear_Clothing_Trooper_Top.png",
+    "description": "The Trooper Top is a tan-colored shirt with a folded collar. It is adorned with embroidered badges resembling those worn by Cub Scouts, with each badge featuring an image of a different fish."
+  },
+  {
+    "id": 200,
+    "category": "clothing",
+    "name": "Umibozu_Home_Jersey",
+    "brand": "Takoroka",
+    "price": "870",
+    "ability": "Haunt",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/4\/47\/S3_Gear_Clothing_Umibozu_Home_Jersey.png",
+    "description": "The Umibozu Home Jersey is an oversized, dark-green basketball jersey worn over a short-sleeved shirt. The jersey possesses a large team logo on it's front along with two labels, with the former a sports label and the latter a rectangle Takoroka label. The left side has another small, vermillion label sewn to it. The back is covered with a symbol resembling number 8 and a white Takoroka logo above the symbol."
+  },
+  {
+    "id": 201,
+    "category": "clothing",
+    "name": "Umibozu_Road_Jersey",
+    "brand": "Takoroka",
+    "price": "8900",
+    "ability": "Run_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/d\/d0\/S3_Gear_Clothing_Umibozu_Road_Jersey.png",
+    "description": "The Umibozu Road Jersey is an oversized, black basketball jersey. The jersey possesses a large team logo on it's front along with two labels, with the former a sports label and the latter a rectangle Takoroka label. The left side has another small, vermillion label sewn to it. The back is covered with a symbol resembling number 8 and a white Takoroka logo above the symbol."
+  },
+  {
+    "id": 202,
+    "category": "clothing",
+    "name": "Urban_Upcycle_Top",
+    "brand": "Emberz",
+    "price": "8800",
+    "ability": "Respawn_Punisher",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/2\/29\/S3_Gear_Clothing_Urban_Upcycle_Top.png",
+    "description": "The Urban Upcycle Top is a short-sleeved shirt made from scraps of other clothing. The main part consists of a dirty white shirt covered in vertical turquoise stripes. The dirty white buttons are featured on both the placket and the collar. The sleeves are slightly baggy and reach to the wearer's elbows. The shirt's sides are made of an unspecified black shirt with the fabric extending to the pocket and the collar stand. The patchwork parts are also shorter than the shirt proper, making the hems and cuffs unmatching. The back consists of a stripe of white material in a gray checked pattern. A small Emberz label is sewn to the shirt's hem, cut in two by different fabrics."
+  },
+  {
+    "id": 203,
+    "category": "clothing",
+    "name": "Urchins_Jersey",
+    "brand": "Zink",
+    "price": "700",
+    "ability": "Run_Speed_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/5\/51\/S3_Gear_Clothing_Urchins_Jersey.png",
+    "description": "The Urchins Jersey is a black baseball jersey with thin vertical stripes and slightly thicker outlines on the collar, down the middle, and on the ends of the sleeves. It has the logo of a baseball team (likely the Urchins) on the left side of the chest, and on the back is a large Inkling symbol, likely a number, that resembles the number three, surrounded by smaller Inkling symbols, possibly a player's name. The logo and symbols, as well as the stripes and outlines, all change color to match that of the wearer's ink. The jersey also has black buttons that go left over right and a white label at the bottom with some text and a color-inverted version of the Zink logo. The inside of the sleeves are white."
+  },
+  {
+    "id": 204,
+    "category": "clothing",
+    "name": "Vaporwave_Tee",
+    "brand": "Skalop",
+    "price": "880",
+    "ability": "Thermal_Ink",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/0\/02\/S3_Gear_Clothing_Vaporwave_Tee.png",
+    "description": "The Vaporwave Tee is a T-shirt with a gradient. The top half is dark blue, which fades into magenta on the bottom half. On the front of the shirt is the text from the Skalop logo in white."
+  },
+  {
+    "id": 205,
+    "category": "clothing",
+    "name": "Varsity_Baseball_LS",
+    "brand": "Splash_Mob",
+    "price": "700",
+    "ability": "Haunt",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/7\/72\/S3_Gear_Clothing_Varsity_Baseball_LS.png",
+    "description": "The Varsity Baseball LS is a gray T-shirt with semi-long, navy blue sleeves that fall between the elbow and wrist. Written on the front is some garbled Serif Script, also in navy blue, with what appears to be some kind of number in white in the middle of the shirt. On the back is a large symbol, likely a school logo, in both navy blue and gray."
+  },
+  {
+    "id": 206,
+    "category": "clothing",
+    "name": "Varsity_Jacket",
+    "brand": "Zekko",
+    "price": "11500",
+    "ability": "Ink_Saver_(Sub)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/5\/55\/S3_Gear_Clothing_Varsity_Jacket.png",
+    "description": "The Varsity Jacket is a red letterman jacket with white sleeves and buttons. It has three Zekko logos in black and white: a large one on the front, a smaller one on the left arm, and an equally small one on the front at the lower right. At the bottom, also in black and white, there is a circular design with a symbol at the center resembling an \"S\". On the back is larger circular design of what could be three stylized squids, printed in white. The jacket has two pockets on the front trimmed with white, and it is buttoned left over right."
+  },
+  {
+    "id": 207,
+    "category": "clothing",
+    "name": "Vintage_Check_Shirt",
+    "brand": "Rockenberg",
+    "price": "9000",
+    "ability": "Haunt",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/e\/e3\/S3_Gear_Clothing_Vintage_Check_Shirt.png",
+    "description": "The Vintage Check Shirt is a cerulean blue long-sleeved button-down shirt. The shirt features plaid pattern in dark blue and magenta, hence the name, and has a small chest pocket on the wearer's left side. Its buttons are white and go left over right."
+  },
+  {
+    "id": 208,
+    "category": "clothing",
+    "name": "White_8-Bit_FishFry",
+    "brand": "Firefin",
+    "price": "800",
+    "ability": "Sub_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/2\/21\/S3_Gear_Clothing_White_8-Bit_FishFry.png",
+    "description": "The White 8-Bit FishFry is a white, short-sleeved T-shirt with a large, pixelated Firefin logo on the front, stylized as an 8-bit console era sprite. On the back is the same thing, but with the logo turned around as if seen from behind. It has a tiny white tag at the bottom, also with the Firefin logo."
+  },
+  {
+    "id": 209,
+    "category": "clothing",
+    "name": "White_Anchor_Tee",
+    "brand": "SquidForce",
+    "price": "2800",
+    "ability": "Ninja_Squid",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/3\/3a\/S3_Gear_Clothing_White_Anchor_Tee.png",
+    "description": "The White Anchor Tee is a short-sleeved, white T-shirt. On the front is a large, black and white crest with an anchor design, and on the bottom is a small blue tag with a tiny white anchor on it. On the back of the shirt is the symbol for Ranked Battles, with some black Inkling text below it."
+  },
+  {
+    "id": 210,
+    "category": "clothing",
+    "name": "White_Baseball_LS",
+    "brand": "Rockenberg",
+    "price": "800",
+    "ability": "Quick_Super_Jump",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/3\/35\/S3_Gear_Clothing_White_Baseball_LS.png",
+    "description": "The White Baseball LS is a long-sleeved white T-shirt with black sleeves and a small, white insignia on the front. On the left breast, there is a small Rockenberg logo and the brand's name in Inkling. The back of the shirt features another large Rockenberg logo."
+  },
+  {
+    "id": 211,
+    "category": "clothing",
+    "name": "White_Inky_Rider",
+    "brand": "Rockenberg",
+    "price": "12800",
+    "ability": "Special_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/2\/21\/S3_Gear_Clothing_White_Inky_Rider.png",
+    "description": "The White Inky Rider is a white leather jacket. It has a wide, pointed collar with three shiny metal studs on each side and an off-center zipper. Just below the collar are three pins: an orange one with a simplified Rockenberg logo in black; a pink one with two arrows, black and white; and a blue one with some purple symbols. Around the wearer's waist is a thick belt of the same material as the jacket, with a buckle in the shape of a stylized squid. The sleeves have zippers that extend to the wearer's elbow and the collar of a black shirt can be seen peeking out from under the jacket. On the back of the jacket is another stylized squid shape made using the same metal studs as those on the collar. Below the squid shape is a row of four slightly larger studs."
+  },
+  {
+    "id": 212,
+    "category": "clothing",
+    "name": "White_Layered_LS",
+    "brand": "SquidForce",
+    "price": "500",
+    "ability": "Special_Saver",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/8\/82\/S3_Gear_Clothing_White_Layered_LS.png",
+    "description": "The White Layered LS consists of a white, short-sleeved T-shirt and the long-sleeved burgundy T-shirt worn under it. On the front of the short-sleeved T-shirt is the Inkling text from the SquidForce logo in white and blue with a black outline. This is repeated on the back, with an unknown red and yellow creature beneath it. At the bottom of the short-sleeved shirt is a small purple tag with the SquidForce logo in white, and the hem of the long-sleeved shirt can be seen just below it."
+  },
+  {
+    "id": 213,
+    "category": "clothing",
+    "name": "White_LS",
+    "brand": "SquidForce",
+    "price": "600",
+    "ability": "Ink_Recovery_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/1\/19\/S3_Gear_Clothing_White_LS.png",
+    "description": "The White LS is a long-sleeved white T-shirt, hence the name. On the front is SquidForce's name in teal Inkling text, on the back is some similarly colored text and a small Squidforce logo, and on the left side of the hem is a small purple tag with another SquidForce logo in white."
+  },
+  {
+    "id": 214,
+    "category": "clothing",
+    "name": "White_Sailor_Suit",
+    "brand": "Forge",
+    "price": "3000",
+    "ability": "Ink_Saver_(Main)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/0\/0c\/S3_Gear_Clothing_White_Sailor_Suit.png",
+    "description": "The White Sailor Suit is, unsurprisingly, a white sailor suit, though it lacks the pants usually worn with one. The collar and ends of the sleeves are navy blue with thin white stripes, and the back of the collar sports a pair of small white arrows. The tie is a very dark gray, and just next to it on the wearer's chest is some dark gray Inkling text on a light gray background. The left sleeve is adorned with a navy blue, squid-like crest toward the shoulder and a pair of green stripes toward the wrist."
+  },
+  {
+    "id": 215,
+    "category": "clothing",
+    "name": "White_Shirt",
+    "brand": "Splash_Mob",
+    "price": "7500",
+    "ability": "Ink_Recovery_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/7\/7c\/S3_Gear_Clothing_White_Shirt.png",
+    "description": "The White Shirt is a short-sleeved button-down shirt. It is white with mustard-colored buttons that go left over right. On the left side is a small chest pocket."
+  },
+  {
+    "id": 216,
+    "category": "clothing",
+    "name": "White_Striped_LS",
+    "brand": "Splash_Mob",
+    "price": "2300",
+    "ability": "Quick_Respawn",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/a\/a4\/S3_Gear_Clothing_White_Striped_LS.png",
+    "description": "The White Striped LS is a white, long-sleeved T-shirt with a small breast pocket. Starting at the pocket are several horizontal blue stripes, followed by one magenta stripe. There are similar stripes on the sleeves that start just above the elbow. At the bottom of the shirt is a light blue tag."
+  },
+  {
+    "id": 217,
+    "category": "clothing",
+    "name": "White_Tee",
+    "brand": "SquidForce",
+    "price": "400",
+    "ability": "Ink_Saver_(Sub)",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/6\/60\/S3_Gear_Clothing_White_Tee.png",
+    "description": "The White Tee is a white, short-sleeved T-shirt. On the front are some Inkling letters printed in black, and on the bottom is a small purple tag with the SquidForce logo. It is similar in design to the Black Tee."
+  },
+  {
+    "id": 218,
+    "category": "clothing",
+    "name": "White_V-Neck_Tee",
+    "brand": "SquidForce",
+    "price": "3800",
+    "ability": "Special_Saver",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/c\/cd\/S3_Gear_Clothing_White_V-Neck_Tee.png",
+    "description": "The White V-Neck Tee is a white, short-sleeved tee shirt with gray reflective logos on the chest and back. On the hem is a blue triangular tag with a SquidForce logo in white. The shirt comes with fingerless gloves that are black and gray on the outside, and pink and blue on the palms."
+  },
+  {
+    "id": 219,
+    "category": "clothing",
+    "name": "White_Z+F_Tee",
+    "brand": "Z+F",
+    "price": "830",
+    "ability": "Special_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/5\/5e\/S3_Gear_Clothing_White_Z%2BF_Tee.png",
+    "description": "The White Z+F Tee is a short-sleeved white T-shirt. On the front is a large dark blue Z+F logo."
+  },
+  {
+    "id": 220,
+    "category": "clothing",
+    "name": "Yellow_Layered_LS",
+    "brand": "SquidForce",
+    "price": "500",
+    "ability": "Quick_Super_Jump",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/3\/33\/S3_Gear_Clothing_Yellow_Layered_LS.png",
+    "description": "The Yellow Layered LS consists of a dull yellow, short-sleeved T-shirt and the gray, long-sleeved T-shirt worn under it. On the front of the short-sleeved T-shirt are some Inkling letters printed in white, and on the bottom is a small purple tag with the SquidForce logo, also in white. The hem of the long-sleeved T-shirt can just be seen poking out just below it."
+  },
+  {
+    "id": 221,
+    "category": "clothing",
+    "name": "Yellow_Urban_Vest",
+    "brand": "Firefin",
+    "price": "4000",
+    "ability": "Haunt",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/3\/34\/S3_Gear_Clothing_Yellow_Urban_Vest.png",
+    "description": "The Yellow Urban Vest consists of a yellow down vest and white short-sleeved shirt worn underneath. The vest has six dark gray buttons, two of which are on a pair of pockets. The inside of its collar is white, and it has a small version of Firefin's name in Inkling on the left side of the chest in blue. On the hem of the short-sleeved shirt, which pokes out from under the vest, there is a small white tag with the Firefin logo."
+  },
+  {
+    "id": 222,
+    "category": "clothing",
+    "name": "Zapfish_Satin_Jacket",
+    "brand": "Zekko",
+    "price": "2900",
+    "ability": "Special_Charge_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/5\/5e\/S3_Gear_Clothing_Zapfish_Satin_Jacket.png",
+    "description": "The Zapfish Satin Jacket is a red satin jacket in the style of sukajan. The sleeves, hem, and collar are maroon with a gray stripe and the sleeves are golden with a thick stripe in the same red as the body. It has a pair of pockets lined with white and ending in arrows, a gold zipper, and two Great Zapfish embroidered on either side. On the back is another Great Zapfish curled around Inkopolis Tower with green Inkling text above. A dull blue shirt is worn under the jacket, with the hem and collar visible."
+  },
+  {
+    "id": 223,
+    "category": "clothing",
+    "name": "Zekko_Baseball_LS",
+    "brand": "Zekko",
+    "price": "800",
+    "ability": "Sub_Resistance_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/f\/fa\/S3_Gear_Clothing_Zekko_Baseball_LS.png",
+    "description": "The Zekko Baseball LS is a white T-shirt with red sleeves that fall about halfway between the elbow and wrist. On the chest is a large Zekko logo, and towards the bottom is a tiny black label."
+  },
+  {
+    "id": 224,
+    "category": "clothing",
+    "name": "Zekko_Hoodie",
+    "brand": "Zekko",
+    "price": "2800",
+    "ability": "Ninja_Squid",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/7\/7a\/S3_Gear_Clothing_Zekko_Hoodie.png",
+    "description": "The Zekko Hoodie is a maroon pullover with a hood and a wide pocket in the front. Above it is the Inkling text from the  Zekko logo in white, and on the left side of the hem is a small white label with the full Zekko logo. On the back is a large circular design in black and white with a pair of U-shaped arrows in the center."
+  },
+  {
+    "id": 225,
+    "category": "clothing",
+    "name": "Zink_Layered_LS",
+    "brand": "Zink",
+    "price": "600",
+    "ability": "Respawn_Punisher",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/9\/9d\/S3_Gear_Clothing_Zink_Layered_LS.png",
+    "description": "The Zink Layered LS consists of a long-sleeved, dark gray T-shirt and the short-sleeved white T-shirt worn over it. The white shirt has a large Zink logo on the front in black, white, and magenta, and a tiny, olive green tag at the bottom. A small version of the logo is printed on the shirt's back. Also at the bottom, the hem of the dark gray shirt can be seen poking out."
+  },
+  {
+    "id": 226,
+    "category": "clothing",
+    "name": "Zink_LS",
+    "brand": "Zink",
+    "price": "500",
+    "ability": "Special_Power_Up",
+    "image": "https:\/\/cdn.wikimg.net\/en\/splatoonwiki\/images\/b\/b6\/S3_Gear_Clothing_Zink_LS.png",
+    "description": "The Zink LS is a long-sleeved, dark gray T-shirt with three Zink logos: a large black, white, and magenta one on the front, a small, textless version on a lime green tag at the hem, and a tiny one at the nape colored similarly to the large one on the front."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 33,
+    "category": "headgear",
+    "name": "Cycle_King_Cap",
+    "brand": "Tentatek",
+    "price": 2400,
+    "ability": "Sub_Resistance_Up",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/0/06/S3_Gear_Headgear_Cycle_King_Cap.png",
+    "description": "The Cycle King Cap is a short-brimmed hat that changes color to match that of the wearer's ink. It has a thick dark stripe down the middle with the trademark \"squideye\" of the Tentatek logo on it in white, as well as sections of light-colored polka dots on either side. On the brim, which is the same dark color as the stripe, the Inkling text from the Tentatek logo is printed, also in white. Next to the text is a circular design which appears to be a black fish on an orange background. On the back of the cap, in the middle of the stripe, the text from the Tentatek logo is repeated in white. Next to it, on the section of polka dots, a pair of tiny black fish (or possibly airplanes) can be seen. These fish are easily overlooked due to their small size and placement."
+  },
+  {
+    "id": 44,
+    "category": "headgear",
+    "name": "Fake_Contacts",
+    "brand": "Tentatek",
+    "price": 2000,
+    "ability": "Special_Charge_Up",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/4/4b/S3_Gear_Headgear_Fake_Contacts.png",
+    "description": "The Fake Contacts lack any visible model when worn, effectively making them the bareheaded option while still having headgear ability slots."
+  },
+  {
+    "id": 112,
+    "category": "headgear",
+    "name": "Soccer_Headband",
+    "brand": "Tentatek",
+    "price": 3000,
+    "ability": "Tenacity",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/4/4e/S3_Gear_Headgear_Soccer_Headband.png",
+    "description": "The Soccer Headband is a thin athletic headband loosely based on the wearer's Ink color. Tentatek's name in Inkling text is repeated around the length of the band, punctuated by the \"squideye\" of the Tentatek logo, both white. The headband is cinched in the back with a black fastener also in the \"squideye\" shape."
+  },
+  {
+    "id": 136,
+    "category": "headgear",
+    "name": "Sun_Visor",
+    "brand": "Tentatek",
+    "price": 2600,
+    "ability": "Sub_Power_Up",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/3/3c/S3_Gear_Headgear_Sun_Visor.png",
+    "description": "The Sun Visor is a simple, translucent visor. The brim changes color based on that of the wearer's Ink, but the band and edges of the brim are always white. On the end of the brim is a small white Tentatek logo, and on the left side of the band is a tiny pink tag."
+  },
+  {
+    "id": 143,
+    "category": "headgear",
+    "name": "Tennis_Headband",
+    "brand": "Tentatek",
+    "price": 300,
+    "ability": "Comeback",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/b/b8/S3_Gear_Headgear_Tennis_Headband.png",
+    "description": "The Tennis Headband is a simple black headband. Towards the front on the left side, the Tentatek logo is printed in pink and white without the Inkling text that is normally below it. On the other side of the headband, directly across from the logo, there is a small pink tag with white text."
+  }
+]

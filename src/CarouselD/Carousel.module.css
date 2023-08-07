@@ -1,0 +1,75 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  object-fit: cover;
+  width: calc(100% / 1.5);
+  height: calc(100% / 1.5);
+}
+
+.container {
+  position: relative;
+  display: grid;
+  width: 100vw;
+  height: 100vh;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-areas:
+    "emptyTL top emptyTR"
+    "left centre right"
+    "emptyBL bottom emptyBR";
+}
+
+.card {
+  width: calc(100vw / 3);
+  height: calc(100vh / 3);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* object-fit: cover; */
+}
+
+.top {
+  grid-area: top;
+
+}
+
+.left {
+  grid-area: left;
+
+}
+
+.centre {
+  grid-area: centre;
+
+}
+
+.right {
+  grid-area: right;
+
+}
+
+.bottom {
+  grid-area: bottom;
+}
+
+.empty{
+  background-color: black;
+  width: 100%;
+  height: 100%;
+}
+
+.emptyTL {
+  grid-area: emptyTL;
+}
+.emptyTR {
+  grid-area: emptyTR;
+}
+.emptyBL {
+  grid-area: emptyBL;
+}
+.emptyBR {
+  grid-area: emptyBR;
+}

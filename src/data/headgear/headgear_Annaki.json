@@ -1,0 +1,42 @@
+[
+  {
+    "id": 4,
+    "category": "headgear",
+    "name": "Annaki_Beret",
+    "brand": "Annaki",
+    "price": 11500,
+    "ability": "Ink_Resistance_Up",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/8/83/S3_Gear_Headgear_Annaki_Beret.png",
+    "description": "The Annaki Beret is a beret that changes color to match the wearer's ink. It has a white Annaki logo on top of it. A large safety pin is pinned to the right side of the hat."
+  },
+  {
+    "id": 5,
+    "category": "headgear",
+    "name": "Annaki_Beret_&_Glasses",
+    "brand": "Annaki",
+    "price": 7850,
+    "ability": "Ink_Saver_(Main)",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/2/21/S3_Gear_Headgear_Annaki_Beret_%26_Glasses.png",
+    "description": "The Annaki Beret & Glasses is a dully-colored beret that changes color with the wearer's ink, but not necessarily to match. A small, light gray Annaki logo is embroidered on the left side of the beret. It also has round, rose gold-rimmed mirrored glasses that change to the opposite color of the beret. These glasses have an Annaki logo on each lens."
+  },
+  {
+    "id": 6,
+    "category": "headgear",
+    "name": "Annaki_Charms",
+    "brand": "Annaki",
+    "price": 777,
+    "ability": "Swim_Speed_Up",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/1/15/S3_Gear_Headgear_Annaki_Charms.png",
+    "description": "The Annaki Charms are a pair of black and silver sunglasses with small, slightly rectangular, brown lenses."
+  },
+  {
+    "id": 7,
+    "category": "headgear",
+    "name": "Annaki_Mask",
+    "brand": "Annaki",
+    "price": 3600,
+    "ability": "Opening_Gambit",
+    "image": "https://cdn.wikimg.net/en/splatoonwiki/images/e/ec/S3_Gear_Headgear_Annaki_Mask.png",
+    "description": "The Annaki Mask is a jet-black face mask with a crimson-red Annaki logo on the center of the mask."
+  }
+]
