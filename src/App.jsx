@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Carousel from "./CarouselD/Carousel";
+import Carousel from "./CarouselC/Carousel";
 // import NewBrand from "./CarouselD/NewBrand";
 
 function App() {

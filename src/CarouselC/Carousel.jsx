@@ -87,6 +87,8 @@ const Carousel = () => {
     slidesToScroll: 1,
     centerMode: true,
     focusOnSelect: true,
+    vertical: true,
+    verticalSwiping: true,
     // afterChange: () => setUpdateCount(prevCount => prevCount + 1),
     // beforeChange: (current, next) => setCurrentSlide(next)
   };
@@ -115,11 +117,28 @@ const Carousel = () => {
               </div>
             ))}
         </Slider> */}
-        <Slider ref={sliderRef} {...settings2}>
+        {/* <Slider ref={sliderRef} {...settings2}>
           {
             arrayList.map((shoeArray) => (
               <div key={shoeArray[0].id}>
                 <img src={shoeArray[0].image} alt={shoeArray[0].name} />
+              </div>
+            ))
+          }
+        </Slider> */}
+        <Slider ref={sliderRef} {...settings2}>
+          {
+            arrayList.map((outerArray) => (
+              <div>
+                <Slider {...settings}>
+                {
+                  outerArray.map((innerArray) => (
+                    <div>
+                      <img src={innerArray.image} alt={innerArray.name}/>
+                    </div>
+                  ))
+                }
+                </Slider>
               </div>
             ))
           }
