@@ -79,19 +79,19 @@ const Carousel = () => {
     // beforeChange: (current, next) => setCurrentSlide(next)
   };
 
-  const settings2 = {
-    dots: false,
-    infinite: true,
-    speed: 500,
-    slidesToShow: 1,
-    slidesToScroll: 1,
-    centerMode: true,
-    focusOnSelect: true,
-    vertical: true,
-    verticalSwiping: true,
-    // afterChange: () => setUpdateCount(prevCount => prevCount + 1),
-    // beforeChange: (current, next) => setCurrentSlide(next)
-  };
+    const settings2 = {
+      dots: false,
+      infinite: true,
+      speed: 500,
+      slidesToShow: 1,
+      slidesToScroll: 1,
+      centerMode: true,
+      focusOnSelect: true,
+      vertical: true,
+      verticalSwiping: true,
+      // afterChange: () => setUpdateCount(prevCount => prevCount + 1),
+      // beforeChange: (current, next) => setCurrentSlide(next)
+    };
 
 
   return (
