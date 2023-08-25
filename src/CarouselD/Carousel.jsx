@@ -3,7 +3,7 @@ import clothingData from "../data/clothing/index";
 import shoesData from "../data/shoes/index";
 import brandList from "../data/master/brands_data.json"
 import styles from "./Carousel.module.css";
-import { useEffect } from "react";
+import React, { useEffect } from "react";
 
 const masterArray = [headgearData, clothingData, shoesData]
 

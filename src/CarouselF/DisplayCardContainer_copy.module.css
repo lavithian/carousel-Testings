@@ -1,0 +1,95 @@
+.displayCardContainer {
+  display: grid;
+  /* grid-template-columns: 1fr 1.5fr 1fr; */
+  /* grid-template-rows: 1fr 3fr 1fr; */
+  grid-template-columns: calc(100vw * 2/7) calc(100vw * 3/7) calc(100vw * 2/7);
+  grid-template-rows: calc(100vh * 1/5) calc(100vh * 3/5) calc(100vh * 1/5);
+  grid-template-areas:
+  "logo previtem cart"
+  "carousel carousel carousel"
+  "leftempty nextitem rightempty";
+  position: relative;
+  top: 0;
+  left: 0;
+  /* grid-gap: 10px 10px; */
+  justify-items: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.logo {
+  width: calc(100vw * (2/7));
+  height: calc(100vh * (1/5));
+  grid-area: logo;
+}
+
+.previousBrand {
+  position: absolute;
+  width: calc(100vw * (3/7));
+  height: calc(100vh * (3/5));
+  top: -247%;
+  grid-area: previtem;
+}
+
+.cart {
+  width: calc(100vw * (2/7));
+  height: calc(100vh * (1/5));
+  /* grid-area: 2 / 3 / 1 / 3 */
+  grid-area: cart;
+}
+
+.previousItem {
+  /* display: none; */
+  position: absolute;
+  width: calc(100vw * (3/7));
+  height: calc(100vh * (3/5));
+  left: -75%;
+  grid-area: prevbrand;
+}
+
+.centrePiece {
+  position: absolute;
+  width: calc(100vw * (3/7));
+  height: calc(100vh * (3/5));
+  grid-area: centre;
+}
+
+.nextItem {
+  /* display: none; */
+  position: absolute;
+  width: calc(100vw * (3/7));
+  height: calc(100vh * (3/5));
+  right: -75%;
+  grid-area: nextbrand;
+}
+
+.nextBrand {
+  /* display: none; */
+  position: absolute;
+  width: calc(100vw * (3/7));
+  height: calc(100vh * (3/5));
+  bottom: -247%;
+  grid-area: nextitem;
+}
+
+.searchButton {
+  width: calc(100vw * (2/7));
+  height: calc(100vh * (1/5));
+  grid-area: leftempty;
+}
+
+
+.changeCategory {
+  width: calc(100vw * (2/7));
+  height: calc(100vh * (1/5));
+  grid-area: rightempty;
+}
+
+.carousel {
+  grid-area: carousel;
+  background-color: purple;
+  width: 100%;
+  height: 100%;
+}

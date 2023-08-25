@@ -12,7 +12,7 @@ function DisplayCard ({ id, category, name, brand, price, ability, image, descri
       <div className={styles.displayBrand}><h2>{brand}</h2></div>
       <div className={styles.displayImage}>
         {/* <Link to={`/${category}/${id}`} state={dataToSend}> */}
-          <img src={image} alt={name} className={styles.displayImage} />
+          <img src={image} alt={name} className={styles.displayImage} draggable={false}/>
         {/* </Link> */}
       </div>
       <div className={price > 0 ? styles.displayPrice : styles.displaySoldOutPrice}>

@@ -1,9 +1,9 @@
 import React, { useEffect } from "react";
 import DisplayCard from "./DisplayCard/DisplayCard";
 import styles from "./DisplayCardContainer.module.css";
-import useDisplayCardContainer from "./hooks/useDisplayCardContainer";
+import useDisplayCardContainer from "./useDisplayCardContainer";
 
-function DisplayCardContainer() {
+function Carousel() {
   const { setArray, gearArray, currentBrand, currentIndex, previousBrand, nextBrand, goToNext, goToPrevious, goToPrevBrand, goToNextBrand} = useDisplayCardContainer();
 
 
@@ -48,7 +48,7 @@ function DisplayCardContainer() {
   )
 }
 
-export default DisplayCardContainer;
+export default Carousel;
 
 // array[][].name
 // headgear[brand][item].name

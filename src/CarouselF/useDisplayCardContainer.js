@@ -1,8 +1,8 @@
 import { useState, useEffect } from "react";
-import headgearData from "../../../data/headgear/index"
-import clothingData from "../../../data/clothing/index"
-import shoesData from "../../../data/shoes/index"
-import brandList from "../../../data/master/brands_data.json"
+import headgearData from "../data/headgear/index"
+import clothingData from "../data/clothing/index"
+import shoesData from "../data/shoes/index"
+import brandList from "../data/master/brands_data.json"
 
 function useDisplayCardContainer () {
   const [currentIndex, setCurrentIndex] = useState(0)
