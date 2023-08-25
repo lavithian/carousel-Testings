@@ -96,6 +96,10 @@ function useDisplayCardContainer () {
   const [itemList, setItemList] = useState(gearArray[currentBrand])
   const [arrayIndex, setArrayIndex] = useState(0)
 
+  // const itemWidth =carouselScroll.current.offsetWidth / itemList.length;
+  // const totalScrollWidth = itemWidth * itemList.length;
+
+
   const dragStart = (e) => {
     // console.log("Mouse is down");
     setIsDragging(true);
@@ -110,40 +114,9 @@ function useDisplayCardContainer () {
 
   const dragging = (e) => {
     if (!isDragging) return ;
-    // console.log(carouselScroll.current.scrollLeft);
-    // console.log(carouselScroll);
-    // console.log(e.pageX);
-    // const scrollDistance = e.pageX - startX;
-    // setArrayIndex((i) => (scrollDistance > 0 ?  i + 1 : i - 1))
-    // console.log("Array Index: " + arrayIndex)
     carouselScroll.current.scrollLeft = startScrollLeft - (e.pageX - startX);
-    // console.log("Scroll Distance: " + scrollDistance);
-    // console.log("Start Scroll Left: " + startScrollLeft);
-    // carouselScroll.current.scrollLeft = e.pageX;
-    // startX = e.pageX;
-    // startScrollLeft = carouselScroll.curren
     e.preventDefault();
-      // Handle looping when scrolling beyond the ends
   }
-
-  const dragging2 = (e) => {
-    if (!isDragging) return;
-
-    const scrollDistance = e.pageX - startX;
-    const totalScrollWidth = carouselScroll.current.scrollWidth;
-    const visibleWidth = carouselScroll.current.offsetWidth;
-
-    let newScrollLeft = startScrollLeft - scrollDistance;
-
-    // Loop carousel when scrolling beyond the ends
-    if (newScrollLeft < 0) {
-      newScrollLeft += totalScrollWidth;
-    } else if (newScrollLeft > totalScrollWidth - visibleWidth) {
-      newScrollLeft -= totalScrollWidth;
-    }
-
-    carouselScroll.current.scrollLeft = newScrollLeft;
-  };
 
   const onCardClick = (e, index) => {
     const cardWidth = cardClick.current.offsetWidth;
@@ -155,13 +128,6 @@ function useDisplayCardContainer () {
     const targetScrollLeft = clickedCardLeft - halfCarouselWidth + cardWidth / 2;
 
     carouselScroll.current.scrollLeft = targetScrollLeft;
-
-    // console.log(cardClick)
-    // console.log("Page X: " + e.pageX)
-    // console.log("Card clicked: " + cardClick.current.offsetWidth)
-    // console.log("Carousel scroll: " + carouselScroll.current.scrollLeft)
-    // console.log("Index: " + index)
-
   }
 
   const prepareArray = (array) => {
@@ -184,47 +150,22 @@ function useDisplayCardContainer () {
     };
   }, []);
 
-  useEffect(() => {
-    // Get the width of a single item
-    const itemWidth = carouselScroll.current.offsetWidth / itemList.length;
+  // useEffect(() => {
+  //   // Get the width of a single item
+  //   const itemWidth = carouselScroll.current.offsetWidth / itemList.length;
 
-    // Calculate the scroll position of the fifth item
-    const scrollPosition = itemWidth * arrayIndex; // we use 4 because arrays are 0-indexed
+  //   // Calculate the scroll position of the fifth item
+  //   const scrollPosition = itemWidth * arrayIndex; // we use 4 because arrays are 0-indexed
 
-    // Scroll to the fifth item
-    carouselScroll.current.scrollTo({
-      left: scrollPosition,
-      behavior: 'smooth'
-    });
-  }, [arrayIndex]);
-
-  useEffect(() => {
-    const handleMouseMove = (e) => {
-      if (!isDragging) return;
-
-      const scrollDistance = e.pageX - startX;
-      const newScrollLeft = startScrollLeft - scrollDistance;
-
-      carouselScroll.current.scrollLeft = newScrollLeft;
-    };
-
-    const handleMouseUp = () => {
-      setIsDragging(false);
-    };
-
-    if (isDragging) {
-      window.addEventListener('mousemove', handleMouseMove);
-      window.addEventListener('mouseup', handleMouseUp);
-    }
-
-    return () => {
-      window.removeEventListener('mousemove', handleMouseMove);
-      window.removeEventListener('mouseup', handleMouseUp);
-    };
-  }, [isDragging, startX, startScrollLeft]);
+  //   // Scroll to the fifth item
+  //   carouselScroll.current.scrollTo({
+  //     left: scrollPosition,
+  //     behavior: 'smooth'
+  //   });
+  // }, [arrayIndex]);
 
   return { setArray, currentBrand, previousBrand, nextBrand, goToPrevBrand, goToNextBrand,
-    dragging, carouselScroll, dragStart, dragEnd, cardClick, onCardClick, itemList
+    dragging, carouselScroll, dragStart, dragEnd, cardClick, onCardClick, itemList, isDragging
   };
 }
 

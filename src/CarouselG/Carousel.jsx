@@ -5,7 +5,7 @@ import useDisplayCardContainer from "./useDisplayCardContainer";
 
 function Carousel() {
   const { setArray, currentBrand, goToPrevBrand, goToNextBrand,
-    dragging, carouselScroll, dragStart, dragEnd, cardClick, onCardClick, itemList
+    dragging, carouselScroll, dragStart, dragEnd, cardClick, onCardClick, itemList, isDragging
   } = useDisplayCardContainer();
 
 
@@ -20,8 +20,10 @@ function Carousel() {
 
   return (
     <div className={styles.displayCardContainer}>
-      <ul className={styles.carousel} ref={carouselScroll} onMouseMove={dragging} onMouseDown={dragStart} onMouseUp={dragEnd}>
+      {/* <ul className={`${styles.carousel}`} ref={carouselScroll} onMouseMove={dragging} onMouseDown={dragStart} onMouseUp={dragEnd}> */}
       {/* <ul className={styles.carousel} ref={carouselScroll}> */}
+      <ul className={`${styles.carousel}`} style={!isDragging ? { scrollSnapType: "x mandatory", scrollBehavior: "smooth", scrollSnapAlign: "start"} : {}} ref={carouselScroll} onMouseMove={dragging} onMouseDown={dragStart} onMouseUp={dragEnd}>
+
       {
         itemList.map((array, index) => (
           <li key={index} className={styles.card} ref={cardClick} onClick={(e) => onCardClick(e, index)}>
